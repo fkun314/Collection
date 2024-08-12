@@ -1,0 +1,170 @@
+{% extends "detector/base.html" %}
+{% block content %}
+
+<!-- flashエラーを表示する -->
+{% with messages = get_flashed_messages() %}
+{% if messages %}
+<ul>
+  {% for message in messages %}
+  <li class="flash">{{ message }}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+{% endwith %}
+
+<section class="jumbotron text-center">
+  <div class="container">
+    <!-- <h1 class="jumbotron-heading">Album example</h1> -->
+    <h1 class="jumbotron-heading">解析結果</h1>
+    <!-- <p class="lead text-muted">Something short and leading about the collection below—its contents, the creator, etc. Make it short and sweet, but not too short so folks don't simply skip over it entirely.</p> -->
+    <p class="lead text-muted">画像解析が完了しました。</p>
+  </div>
+</section>
+
+{% if best_match %}
+<div class="album py-5 bg-light">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-md-6">
+        <div class="card mb-6 shadow-sm">
+          <img class="card-img-top" src="{{ url_for('detector.image_predicted', filename=id) }}" alt="Card image cap">
+          <div class="card-body">
+            <p class="card-text">画像解析結果</p>
+            <div class="d-flex justify-content-between align-items-center">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="card mb-6 shadow-sm">
+          <img class="card-img-top" src="{{ url_for('detector.image_predicted', filename=best_match[4]) }}"
+            alt="Card image cap">
+          <div class="card-body">
+            <p class="card-text">ベストマッチ</p>
+            <div class="d-flex justify-content-between align-items-center">
+              動画名：{{ best_match[0] }} <br>
+              フレーム番号：{{ best_match[1] }} <br>
+              類似度：{{ best_match[2] }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <p>検索時間：{{search_time}}秒　検索数：{{search_count}}</p>
+
+    <h3>位置情報による検索結果</h3>
+
+    <div class="py-5 bg-light">
+      {% if video_search%}
+      {% set tmp = namespace(cnt=1) %}
+      {% set objective_count = namespace(cnt=slice_) %}
+      <table class="table" id="simple_result">
+        <thead>
+          <tr>
+            <th scope="col">
+              <p class="text-center">動画タイトル</p>
+            </th>
+            <th scope="col">
+              <p class="text-center">対象フレーム</p>
+            </th>
+            <th scope="col">
+              <p class="text-center">score</p>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for v in video_search %}
+          <tr>
+            <td>
+              <p class="text-center"><a href="{{ url_for('detector.detail', filename=v[8])}}"
+                  target="_blank">{{v[0]}}</p>
+            </td>
+            <td>
+              <p class="text-center"><a
+                  href="{{ url_for('detector.result_detail', id=(id | string),filename=(v[3] | string), fps=(v[1] | string) ) }}"
+                  target="_blank">{{v[1]}}</a></p>
+            </td>
+            <td>
+              <p class="text-center">{{v[2]}}</p>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      {% else %}
+      <p>検索結果はありませんでした。</p>
+      {% endif %}
+    </div>
+
+    <!-- 図形の類似度 -->
+    <h3>位置関係による検索結果</h3>
+    <div class="py-5 bg-light">
+      {% if angle_rate%}
+      {% set tmp = namespace(cnt=1) %}
+      {% set objective_count = namespace(cnt=slice_angle) %}
+      <table class="table" id="angle_result">
+        <thead>
+          <tr>
+            <th scope="col">
+              <p class="text-center">動画タイトル</p>
+            </th>
+            <th scope="col">
+              <p class="text-center">対象フレーム</p>
+            </th>
+            <th scope="col">
+              <p class="text-center">図形の傾き</p>
+            </th>
+            <th scope="col">
+              <p class="text-center">長さの平均</p>
+            </th>
+            <th scope="col">
+              <p class="text-center">長さの分散</p>
+            </th>
+            <th scope="col">
+              <p class="text-center">角度の分散</p>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for v in angle_rate %}
+          {% set tmp.cnt = tmp.cnt + 1 %}
+          <tr>
+            <td>
+              <p class="text-center"><a href="{{ url_for('detector.detail', filename=v[0])}}"
+                  target="_blank">{{v[7]}}</p>
+            </td>
+            <td>
+              <p class="text-center"><a
+                  href="{{ url_for('detector.playMovieAngle', id=id, filename=(v[0] | string), fps=v[1] ) }}"
+                  target="_blank">{{v[1]}}</a></p>
+            </td>
+            <td>
+              <p class="text-center">{{v[2]}}</p>
+            </td>
+            <td>
+              <p class="text-center">{{v[3]}}</p>
+            </td>
+            <td>
+              <p class="text-center">{{v[4]}}</p>
+            </td>
+            <td>
+              <p class="text-center">{{v[6]}}</p>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      {% else %}
+      <p>検索結果はありませんでした。</p>
+      {% endif %}
+    </div>
+  </div>
+</div>
+{% else %}
+<h3>どの動画も該当しませんでした</h3>
+{% endif %}
+
+
+{% endblock %}

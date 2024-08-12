@@ -1,0 +1,14 @@
+
+apps/detector/model.pt
+venv/lib/python3.9/site-packages/torch/lib/libtorch_cpu.dylib
+*.pyc
+apps/movies/c634f952-2e5b-4070-8d15-5ac49bf7fdae.mp4
+apps/.DS_Store
+apps/images/.DS_Store
+sample_video/カルーセル-スイング-122422.mp4
+apps/movies/7d8a0821-6baa-4ecc-9044-49cd70e3045a.mp4
+apps/movies/ed784ed3-971c-4e64-bc84-a10dafb9fad6.mp4
+apps/movies/6755db78-f294-4af6-9c66-34f430871e77.mp4
+apps/movies/72365089-ffa1-4909-a11e-d10c5facd2e0.mp4
+apps/movies/966f2ece-8650-4d20-9bf6-b8417ae77c07.mp4
+apps/movies/522627d6-4a5d-4166-90e9-f046ec234e07.mp4

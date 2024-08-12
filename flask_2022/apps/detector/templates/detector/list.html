@@ -1,0 +1,78 @@
+{% extends "detector/base.html" %}
+{% block content %}
+
+<!-- flashエラーを表示する -->
+{% with messages = get_flashed_messages() %}
+{% if messages %}
+<ul>
+    {% for message in messages %}
+    <li class="flash">{{ message }}</li>
+    {% endfor %}
+</ul>
+{% endif %}
+{% endwith %}
+
+
+<!-- 解析ステータス -->
+{% if predict_info %}
+<div class="alert alert-primary" role="alert">
+    {% for s in predict_info %}
+        {% if s[1] == -1  %}
+            <p>{{ s[0] }}の解析を準備しています</p>
+        {% elif s[1] == 0 %}
+            <p>{{ s[0] }}の解析を準備しています</p>
+        {% else %}
+            <p>{{ s[0] }}を解析中です ({{ s[1] }}%)</p>
+        {% endif %}
+    {% endfor %}
+    </div>
+{% endif %}
+
+<!-- 画像一覧を表示する -->
+{% for user_video in user_videos %}
+<div class="card col-md-7 dt-image-content">
+    <header class="d-flex justify-content-between">
+        <div class="dt-image-username">{{ user_video.UserVideo.video_title }}</div>
+        <div class="d-flex flex-row-reverse">
+            <div class="p-2">
+                    {% if user_video.UserVideo.is_detected == 2 %}
+                    <button type="button" class="btn btn-info">
+                        <a href="{{ url_for('detector.detail', filename=user_video.UserVideo.video_path) }}" style="color: white;" target="blank">詳細</a>
+                    </button>
+                    {% endif %}
+                </form>
+            </div>
+            <!-- 解析状況を表示する -->
+            <div class="p-2">
+                <form action="" method="POST">
+                    {% if user_video.UserVideo.is_detected == 2 %}
+                    <button type="button" class="btn btn-success" disabled>解析済み</button>
+                    {% elif user_video.UserVideo.is_detected == 1 %}
+                    <button type="button" class="btn btn-outline-success" disabled>解析中</button>
+                    {% elif user_video.UserVideo.is_detected == 3 %}
+                    <button type="button" class="btn btn-outline-warning" disabled>解析待機中</button>
+                    {% endif %}
+                </form>
+            </div>
+            <!-- 削除ボタンのフォームを追加する -->
+            <div class="p-2">
+                <form action="{{ url_for('detector.delete_movie', image_id=user_video.UserVideo.id) }}" method="POST">
+                    {{ delete_form.csrf_token }}
+                    {% if current_user.id == user_video.User.id %}
+                    {{ delete_form.submit(class="btn btn-danger") }}
+                    {% else %}
+                    {{ delete_form.submit(class="btn btn-danger", disabled="disabled") }}
+                    {% endif %}
+                </form>
+            </div>
+        </div>
+    </header>
+    <section>
+        <video controls preload="metadata" class="col-md" style="height: 300px;" preload="none">
+            <source src="{{ url_for('detector.image_movie', filename=user_video.UserVideo.video_path) }}" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </section>
+</div>
+{% endfor %}
+{% endblock %}

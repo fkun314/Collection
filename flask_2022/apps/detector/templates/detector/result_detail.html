@@ -1,0 +1,106 @@
+{% extends "detector/base.html" %}
+{% block content %}
+
+<!-- flashエラーを表示する -->
+{% with messages = get_flashed_messages() %}
+{% if messages %}
+<ul>
+    {% for message in messages %}
+    <li class="flash">{{ message }}</li>
+    {% endfor %}
+</ul>
+{% endif %}
+{% endwith %}
+
+<section class="jumbotron text-center">
+  <div class="container">
+    <!-- <h1 class="jumbotron-heading">Album example</h1> -->
+    <h1 class="jumbotron-heading">詳細な情報</h1>
+    <!-- <p class="lead text-muted">Something short and leading about the collection below—its contents, the creator, etc. Make it short and sweet, but not too short so folks don't simply skip over it entirely.</p> -->
+    <p class="lead text-muted">動画タイトル：{{ match_info[0][0] }}</p>
+    <p class="lead text-muted">フレーム番号：{{ match_info[0][1] }}</p>
+    <p class="lead text-muted">秒数：{{starttime}}秒</p>
+    <p class="lead text-muted">類似度：{{ score }}</p>
+  </div>
+</section>
+
+<div class="album py-5 bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <div class="card mb-6 shadow-sm">
+          <img class="card-img-top" src="{{ url_for('detector.image_predicted', filename=id)  }}" alt="Card image cap">
+          <div class="card-body">
+            <p class="card-text">画像解析結果</p>
+            <div class="d-flex justify-content-between align-items-center">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="card mb-6 shadow-sm">
+          <img class="card-img-top" src="{{ url_for('detector.movie_predicted', filename=detail_page_frame) }}"
+            alt="Card image cap">
+          <div class="card-body">
+            <p class="card-text">動画内解析結果</p>
+            <a href="{{ url_for('detector.playMovie', filename=filename, time=starttime, title=match_info[0][0],fps=match_info[0][1], val=score) }}" target="_blank">動画を見る</a>
+            <div class="d-flex justify-content-between align-items-center">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <h3>動画内物体検出結果</h3>
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">
+            <p class="text-center">物体名</p>
+          </th>
+          <th scope="col">
+            <p class="text-center">物体認識率[%]</p>
+          </th>
+          <th scope="col">
+            <p class="text-center">物体左上のX座標[px]</p>
+          </th>
+          <th scope="col">
+            <p class="text-center">物体左上のY座標[px]</p>
+          </th>
+          <th scope="col">
+            <p class="text-center">物体右下のX座標[px]</p>
+          </th>
+          <th scope="col">
+            <p class="text-center">物体右下のY座標[px]</p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for v in match_info %}
+        <tr>
+          <td>
+            <p class="text-center">{{v[2]}}</p>
+          </td>
+          <td>
+            <p class="text-center">{{v[3]}}</p>
+          </td>
+          <td>
+            <p class="text-center">{{v[4]}}</p>
+          </td>
+          <td>
+            <p class="text-center">{{v[5]}}</p>
+          </td>
+          <td>
+            <p class="text-center">{{v[6]}}</p>
+          </td>
+          <td>
+            <p class="text-center">{{v[7]}}</p>
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+{% endblock %}

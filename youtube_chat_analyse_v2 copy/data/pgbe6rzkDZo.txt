@@ -1,0 +1,10 @@
+recommend_point : 2535-2555 +-30s count : 62
+	https://www.youtube.com/watch?v=pgbe6rzkDZo&feature=youtu.be&t=2505
+recommend_point : 2550-2570 +-30s count : 57
+	https://www.youtube.com/watch?v=pgbe6rzkDZo&feature=youtu.be&t=2520
+recommend_point : 3000-3020 +-30s count : 58
+	https://www.youtube.com/watch?v=pgbe6rzkDZo&feature=youtu.be&t=2970
+recommend_point : 3015-3035 +-30s count : 72
+	https://www.youtube.com/watch?v=pgbe6rzkDZo&feature=youtu.be&t=2985
+recommend_point : 3030-3050 +-30s count : 64
+	https://www.youtube.com/watch?v=pgbe6rzkDZo&feature=youtu.be&t=3000

@@ -1,0 +1,3990 @@
+#Chat No.00001 type: NORMALCHAT user: "ひも" time: -6:15
+- 対あり
+#Chat No.00002 type: NORMALCHAT user: "甘酒" time: -6:05
+- GG
+#Chat No.00003 type: NORMALCHAT user: "「緑眼」パルスィ" time: -5:54
+- 乙でーす
+#Chat No.00004 type: NORMALCHAT user: "おん" time: -5:41
+- きたわよ
+#Chat No.00005 type: NORMALCHAT user: "のーか" time: -4:47
+- 対あり
+#Chat No.00006 type: NORMALCHAT user: "西瓜" time: -4:38
+- アッキーナの配信面白くて何回も見ちゃう
+#Chat No.00007 type: NORMALCHAT user: "チョコ甘くね?" time: -4:38
+- 既に汗をかいている
+#Chat No.00008 type: NORMALCHAT user: "ひよけむし" time: -4:28
+- これがサウナ配信ちゃんですか？
+#Chat No.00009 type: NORMALCHAT user: "arno" time: -4:22
+- もう終わった？
+#Chat No.00010 type: NORMALCHAT user: "さわらび" time: -3:50
+- きたわよ
+#Chat No.00011 type: NORMALCHAT user: "イチリス" time: -3:49
+- 配信自体は24:30からです
+#Chat No.00012 type: NORMALCHAT user: "チョコ甘くね?" time: -3:47
+- ここをフリーチャットにしよう
+#Chat No.00013 type: NORMALCHAT user: "野茨" time: -3:42
+- 
+#Chat No.00014 type: NORMALCHAT user: "なこの" time: -3:32
+- きたわよ
+#Chat No.00015 type: NORMALCHAT user: "高校性" time: -3:17
+- フリーチャットか
+#Chat No.00016 type: NORMALCHAT user: "アンパンマンちょこぺろぺろ党" time: -2:34
+- きたわよ
+#Chat No.00017 type: NORMALCHAT user: "_ NASU" time: -2:31
+- 
+#Chat No.00018 type: NORMALCHAT user: "あじしお" time: -2:30
+- きたわよ
+#Chat No.00019 type: NORMALCHAT user: "高校性" time: -2:24
+- 台風21号も直撃しそうってま？
+#Chat No.00020 type: NORMALCHAT user: "なぎ・。・" time: -2:20
+- きたわよ
+#Chat No.00021 type: NORMALCHAT user: "michika" time: -2:15
+- きたわよ
+#Chat No.00022 type: NORMALCHAT user: "ノーマ" time: -2:11
+- gg
+#Chat No.00023 type: NORMALCHAT user: "アンパンマンちょこぺろぺろ党" time: -2:07
+- なにするんだろ
+#Chat No.00024 type: NORMALCHAT user: "直崎" time: -1:34
+- 
+#Chat No.00025 type: NORMALCHAT user: "さくらざわ" time: -1:28
+- 
+#Chat No.00026 type: NORMALCHAT user: "まい伍" time: -1:25
+- きたわよ
+#Chat No.00027 type: NORMALCHAT user: "三ツ谷天馬" time: -1:24
+- 
+#Chat No.00028 type: NORMALCHAT user: "なにゃな" time: -1:21
+- 本当はもう汗かいてんだろ？
+#Chat No.00029 type: NORMALCHAT user: "あさま" time: -1:13
+- 
+#Chat No.00030 type: NORMALCHAT user: "れいじ" time: -1:09
+- 間に合った！
+#Chat No.00031 type: NORMALCHAT user: "わさたこ" time: -1:05
+- 
+#Chat No.00032 type: NORMALCHAT user: "03" time: -1:04
+- きたわよ
+#Chat No.00033 type: NORMALCHAT user: "アンパンマンちょこぺろぺろ党" time: -0:51
+- 時間的にあまりうるさいのはダメそうだし、もしや おn………？
+#Chat No.00034 type: NORMALCHAT user: "ずらこ" time: -0:50
+- 
+#Chat No.00035 type: NORMALCHAT user: "45" time: -0:49
+- 
+#Chat No.00036 type: NORMALCHAT user: "慧理" time: -0:45
+- きたわよ
+#Chat No.00037 type: NORMALCHAT user: "悠華" time: -0:41
+- 
+#Chat No.00038 type: NORMALCHAT user: "まい伍" time: -0:40
+- カテゴリペットと動物なの草
+#Chat No.00039 type: NORMALCHAT user: "うみなり" time: -0:39
+- きたわよ
+#Chat No.00040 type: NORMALCHAT user: "殿" time: -0:38
+- 
+#Chat No.00041 type: NORMALCHAT user: "ねむいo0" time: -0:34
+- きたわよ
+#Chat No.00042 type: NORMALCHAT user: "れもんぱん" time: -0:33
+- きたわよ
+#Chat No.00043 type: NORMALCHAT user: "槙" time: -0:33
+- きたわよ
+#Chat No.00044 type: NORMALCHAT user: "Mk. V" time: -0:25
+- 
+#Chat No.00045 type: NORMALCHAT user: "ききちゃ" time: -0:20
+- きたわよ
+#Chat No.00046 type: NORMALCHAT user: "野原さいの" time: -0:15
+- きたわよ
+#Chat No.00047 type: NORMALCHAT user: "ひも" time: -0:10
+- きたわよ
+#Chat No.00048 type: NORMALCHAT user: "よしの村長" time: -0:07
+- きたわよ
+#Chat No.00049 type: NORMALCHAT user: "SYA-しゃ-" time: -0:06
+- 
+#Chat No.00050 type: NORMALCHAT user: "鯖の刺身" time: -0:01
+- きたわよ
+#Chat No.00051 type: NORMALCHAT user: "微青" time: 0:04
+- 
+#Chat No.00052 type: NORMALCHAT user: "ゆきのひ" time: 0:05
+- きたわよ
+#Chat No.00053 type: NORMALCHAT user: "絵コンテ" time: 0:06
+- 
+#Chat No.00054 type: NORMALCHAT user: "イチリス" time: 0:09
+- でたわね
+#Chat No.00055 type: NORMALCHAT user: "絵コンテ" time: 0:09
+- 
+#Chat No.00056 type: NORMALCHAT user: "まい伍" time: 0:13
+- でたわね
+#Chat No.00057 type: NORMALCHAT user: "もぜ" time: 0:13
+- 
+#Chat No.00058 type: NORMALCHAT user: "れいじ" time: 0:15
+- 
+#Chat No.00059 type: NORMALCHAT user: "斜め" time: 0:16
+- 
+#Chat No.00060 type: NORMALCHAT user: "ねむいo0" time: 0:16
+- でたわね
+#Chat No.00061 type: NORMALCHAT user: "すみか" time: 0:16
+- 
+#Chat No.00062 type: NORMALCHAT user: "慧理" time: 0:16
+- でたわね
+#Chat No.00063 type: NORMALCHAT user: "リオレイア" time: 0:16
+- 
+#Chat No.00064 type: NORMALCHAT user: "さかな." time: 0:17
+- 来たわよ
+#Chat No.00065 type: NORMALCHAT user: "相模相澤 U" time: 0:17
+- でたわね
+#Chat No.00066 type: NORMALCHAT user: "おん" time: 0:17
+- でたわね
+#Chat No.00067 type: NORMALCHAT user: "fukuin" time: 0:18
+- 
+#Chat No.00068 type: NORMALCHAT user: "SYA-しゃ-" time: 0:19
+- 
+#Chat No.00069 type: NORMALCHAT user: "アンパンマンちょこぺろぺろ党" time: 0:19
+- きちゃ
+#Chat No.00070 type: NORMALCHAT user: "さわらび" time: 0:19
+- でたわね
+#Chat No.00071 type: NORMALCHAT user: "もぜ" time: 0:19
+- いやもう草
+#Chat No.00072 type: NORMALCHAT user: "45" time: 0:19
+- 
+#Chat No.00073 type: NORMALCHAT user: "いづき" time: 0:19
+- きたわよ
+#Chat No.00074 type: NORMALCHAT user: "悠華" time: 0:20
+- 炎上してませんか？
+#Chat No.00075 type: NORMALCHAT user: "なこの" time: 0:20
+- でたわね
+#Chat No.00076 type: NORMALCHAT user: "田中太郎" time: 0:20
+- 
+#Chat No.00077 type: NORMALCHAT user: "野茨" time: 0:20
+- 
+#Chat No.00078 type: NORMALCHAT user: "微青" time: 0:21
+- 
+#Chat No.00079 type: NORMALCHAT user: "ひとつめ" time: 0:22
+- 
+#Chat No.00080 type: NORMALCHAT user: "斜め" time: 0:22
+- ？？
+#Chat No.00081 type: NORMALCHAT user: "ユラユラ" time: 0:22
+- でたわね
+#Chat No.00082 type: NORMALCHAT user: "お吸い物" time: 0:22
+- 
+#Chat No.00083 type: NORMALCHAT user: "春雪[はるゆき]" time: 0:23
+- 
+#Chat No.00084 type: NORMALCHAT user: "あみの。" time: 0:23
+- きたわよ
+#Chat No.00085 type: NORMALCHAT user: "ドッカーノダレッカ" time: 0:23
+- 
+#Chat No.00086 type: NORMALCHAT user: "れいじ" time: 0:23
+- もう終わりそう
+#Chat No.00087 type: NORMALCHAT user: "Mk. V" time: 0:23
+- あっつ
+#Chat No.00088 type: NORMALCHAT user: "紺野夜半" time: 0:23
+- もう暑そう
+#Chat No.00089 type: NORMALCHAT user: "あさま" time: 0:24
+- 
+#Chat No.00090 type: NORMALCHAT user: "ノーマ" time: 0:26
+- きたわね
+#Chat No.00091 type: NORMALCHAT user: "西瓜" time: 0:26
+- でたわね
+#Chat No.00092 type: NORMALCHAT user: "_ NASU" time: 0:26
+- 
+#Chat No.00093 type: NORMALCHAT user: "よしの村長" time: 0:27
+- でたわね
+#Chat No.00094 type: NORMALCHAT user: "きゃらら" time: 0:27
+- でたわね
+#Chat No.00095 type: NORMALCHAT user: "いろ" time: 0:29
+- 来たわよ！！
+#Chat No.00096 type: NORMALCHAT user: "午前" time: 0:30
+- 燃える男
+#Chat No.00097 type: NORMALCHAT user: "ほっし" time: 0:30
+- 
+#Chat No.00098 type: NORMALCHAT user: "三ツ谷天馬" time: 0:30
+- 
+#Chat No.00099 type: NORMALCHAT user: "しおにみ" time: 0:30
+- 
+#Chat No.00100 type: NORMALCHAT user: "野咲" time: 0:31
+- どうゆう企画だ？
+#Chat No.00101 type: NORMALCHAT user: "ひも" time: 0:32
+- でたわね
+#Chat No.00102 type: NORMALCHAT user: "うみなり" time: 0:32
+- でたわね
+#Chat No.00103 type: NORMALCHAT user: "甘酒" time: 0:32
+- 
+#Chat No.00104 type: NORMALCHAT user: "なたね" time: 0:32
+- 
+#Chat No.00105 type: NORMALCHAT user: "さくらざわ" time: 0:32
+- 
+#Chat No.00106 type: NORMALCHAT user: "野茨" time: 0:33
+- めっちゃ燃えとる
+#Chat No.00107 type: NORMALCHAT user: "西瓜" time: 0:33
+- 画がしつこい
+#Chat No.00108 type: NORMALCHAT user: "こまる" time: 0:34
+- でたわね
+#Chat No.00109 type: NORMALCHAT user: "れもんぱん" time: 0:34
+- でたわね
+#Chat No.00110 type: NORMALCHAT user: "アンパンマンちょこぺろぺろ党" time: 0:34
+- もえあがってんじゃん
+#Chat No.00111 type: NORMALCHAT user: "ねむいo0" time: 0:34
+- これがサウナ
+#Chat No.00112 type: NORMALCHAT user: "03" time: 0:36
+- あっつ
+#Chat No.00113 type: NORMALCHAT user: "わさたこ" time: 0:37
+- 
+#Chat No.00114 type: NORMALCHAT user: "高校性" time: 0:37
+- でたわね
+#Chat No.00115 type: NORMALCHAT user: "ずらこ" time: 0:37
+- 
+#Chat No.00116 type: NORMALCHAT user: "さわらび" time: 0:37
+- 炎上してんねぇ！
+#Chat No.00117 type: NORMALCHAT user: "森野熊" time: 0:37
+- 燃える男
+#Chat No.00118 type: NORMALCHAT user: "_ NASU" time: 0:38
+- 草
+#Chat No.00119 type: NORMALCHAT user: "イチリス" time: 0:38
+- 背景あっつ
+#Chat No.00120 type: NORMALCHAT user: "なこの" time: 0:38
+- もう暑い
+#Chat No.00121 type: NORMALCHAT user: "ゆきのひ" time: 0:38
+- でたわね
+#Chat No.00122 type: NORMALCHAT user: "紺野夜半" time: 0:39
+- なに？？？
+#Chat No.00123 type: NORMALCHAT user: "のーか" time: 0:39
+- 
+#Chat No.00124 type: NORMALCHAT user: "いろ" time: 0:39
+- えっ
+#Chat No.00125 type: NORMALCHAT user: "西瓜" time: 0:40
+- 🔥
+#Chat No.00126 type: NORMALCHAT user: "SYA-しゃ-" time: 0:40
+- ん？
+#Chat No.00127 type: NORMALCHAT user: "ありんこ。" time: 0:40
+- 
+#Chat No.00128 type: NORMALCHAT user: "Mk. V" time: 0:40
+- ！？？？！？
+#Chat No.00129 type: NORMALCHAT user: "Osaka" time: 0:40
+- 草
+#Chat No.00130 type: NORMALCHAT user: "まい伍" time: 0:40
+- 🔥🌶🔥
+#Chat No.00131 type: NORMALCHAT user: "こまる" time: 0:40
+- あっつ
+#Chat No.00132 type: NORMALCHAT user: "森野熊" time: 0:41
+- でたわね
+#Chat No.00133 type: NORMALCHAT user: "微青" time: 0:41
+- 
+#Chat No.00134 type: NORMALCHAT user: "リオレイア" time: 0:41
+- 上着脱ぎなよ
+#Chat No.00135 type: NORMALCHAT user: "黒糖侍" time: 0:41
+- 
+#Chat No.00136 type: NORMALCHAT user: "ヨル" time: 0:42
+- でたわね
+#Chat No.00137 type: NORMALCHAT user: "Sal TH ソルティーエイチ" time: 0:43
+- おわった？
+#Chat No.00138 type: NORMALCHAT user: "特になし" time: 0:44
+- ！？
+#Chat No.00139 type: NORMALCHAT user: "もぜ" time: 0:44
+- サウナ配信じゃん
+#Chat No.00140 type: NORMALCHAT user: "槙" time: 0:44
+- 燃えてる
+#Chat No.00141 type: NORMALCHAT user: "ケミカル桑原" time: 0:45
+- でたわね
+#Chat No.00142 type: NORMALCHAT user: "荒やま" time: 0:45
+- なんやこれ
+#Chat No.00143 type: NORMALCHAT user: "あじしお" time: 0:45
+- いや草
+#Chat No.00144 type: NORMALCHAT user: "鯖の刺身" time: 0:45
+- ！？
+#Chat No.00145 type: NORMALCHAT user: "斜め" time: 0:46
+- 草
+#Chat No.00146 type: NORMALCHAT user: "0度" time: 0:46
+- でたわね
+#Chat No.00147 type: NORMALCHAT user: "SYA-しゃ-" time: 0:46
+- 太鼓上手いね
+#Chat No.00148 type: NORMALCHAT user: "慧理" time: 0:47
+- 🔥
+#Chat No.00149 type: NORMALCHAT user: "ガンダーラおじさん" time: 0:47
+- 焼き討ちされてる？
+#Chat No.00150 type: NORMALCHAT user: "よしの村長" time: 0:47
+- あっつ
+#Chat No.00151 type: NORMALCHAT user: "おれこ" time: 0:48
+- BGM草
+#Chat No.00152 type: NORMALCHAT user: "ノーマ" time: 0:49
+- これから踊るのか？
+#Chat No.00153 type: NORMALCHAT user: "寝る" time: 0:49
+- でたわね
+#Chat No.00154 type: NORMALCHAT user: "ぽてお" time: 0:49
+- 
+#Chat No.00155 type: NORMALCHAT user: "赤城にゅう" time: 0:50
+- でたわね
+#Chat No.00156 type: NORMALCHAT user: "田中太郎" time: 0:50
+- うっさ
+#Chat No.00157 type: NORMALCHAT user: "なにゃな" time: 0:50
+- 明那炎上してるぞ...
+#Chat No.00158 type: NORMALCHAT user: "殿" time: 0:51
+- 燃えてんねえ！
+#Chat No.00159 type: NORMALCHAT user: "taT us ENd" time: 0:51
+- あっつ
+#Chat No.00160 type: NORMALCHAT user: "ほにゅ瓶" time: 0:51
+- サウナで配信ってま？
+#Chat No.00161 type: NORMALCHAT user: "絵コンテ" time: 0:51
+- 迫真BGM
+#Chat No.00162 type: NORMALCHAT user: "SYA-しゃ-" time: 0:52
+- うるせぇ！！！
+#Chat No.00163 type: NORMALCHAT user: "うみなり" time: 0:52
+- 全てがあつい
+#Chat No.00164 type: NORMALCHAT user: "のーか" time: 0:53
+- うっさ
+#Chat No.00165 type: NORMALCHAT user: "アンパンマンちょこぺろぺろ党" time: 0:53
+- うっせぇ
+#Chat No.00166 type: NORMALCHAT user: "高校性" time: 0:53
+- うるさこいつ
+#Chat No.00167 type: NORMALCHAT user: "猫村猫吉" time: 0:54
+- ！？
+#Chat No.00168 type: NORMALCHAT user: "もぜ" time: 0:54
+- 草
+#Chat No.00169 type: NORMALCHAT user: "さわらび" time: 0:54
+- なんて？
+#Chat No.00170 type: NORMALCHAT user: "リオレイア" time: 0:54
+- うっさ
+#Chat No.00171 type: NORMALCHAT user: "YU-KI" time: 0:54
+- 草
+#Chat No.00172 type: NORMALCHAT user: "西瓜" time: 0:54
+- Fooooooooooooooooooooo!!!!!!
+#Chat No.00173 type: NORMALCHAT user: "なたね" time: 0:55
+- おかえり
+#Chat No.00174 type: NORMALCHAT user: "さくらざわ" time: 0:55
+- 
+#Chat No.00175 type: NORMALCHAT user: "イチリス" time: 0:55
+- うるさい
+#Chat No.00176 type: NORMALCHAT user: "Mk. V" time: 0:55
+- うるさ
+#Chat No.00177 type: NORMALCHAT user: "きゃらら" time: 0:56
+- 草
+#Chat No.00178 type: NORMALCHAT user: "森野熊" time: 0:56
+- うっさ
+#Chat No.00179 type: NORMALCHAT user: "寝る" time: 0:56
+- 草
+#Chat No.00180 type: NORMALCHAT user: "おん" time: 0:56
+- 鼓膜敗れた
+#Chat No.00181 type: NORMALCHAT user: "ミラジョボ" time: 0:56
+- なんか始まったな
+#Chat No.00182 type: NORMALCHAT user: "薔薇尻" time: 0:57
+- 耳が壊れた
+#Chat No.00183 type: NORMALCHAT user: "パイナップル" time: 0:57
+- おかえり
+#Chat No.00184 type: NORMALCHAT user: "けい." time: 0:57
+- 暑い
+#Chat No.00185 type: NORMALCHAT user: "すず" time: 0:57
+- きたわよ 草
+#Chat No.00186 type: NORMALCHAT user: "もぜ" time: 0:57
+- おかえり
+#Chat No.00187 type: NORMALCHAT user: "ひも" time: 0:57
+- 深夜だぞ
+#Chat No.00188 type: NORMALCHAT user: "さかな." time: 0:57
+- 寝る前のテンションじゃねぇよ…
+#Chat No.00189 type: NORMALCHAT user: "ひとつめ" time: 0:58
+- うおおおおおおお！
+#Chat No.00190 type: NORMALCHAT user: "あるー" time: 0:59
+- 
+#Chat No.00191 type: NORMALCHAT user: "Stone Silver" time: 0:59
+- 夜ですよ
+#Chat No.00192 type: NORMALCHAT user: "こまる" time: 0:59
+- 深夜のテンションじゃねぇな
+#Chat No.00193 type: NORMALCHAT user: "ユラユラ" time: 0:59
+- おかえり〜
+#Chat No.00194 type: NORMALCHAT user: "イチリス" time: 0:59
+- おかえり
+#Chat No.00195 type: NORMALCHAT user: "特になし" time: 1:00
+- もう熱い
+#Chat No.00196 type: NORMALCHAT user: "槙" time: 1:00
+- ？！？
+#Chat No.00197 type: NORMALCHAT user: "はやし" time: 1:00
+- 草
+#Chat No.00198 type: NORMALCHAT user: "すばる" time: 1:01
+- うるせ
+#Chat No.00199 type: NORMALCHAT user: "れいじ" time: 1:02
+- うるさい
+#Chat No.00200 type: NORMALCHAT user: "kさん" time: 1:02
+- でたわね
+#Chat No.00201 type: NORMALCHAT user: "斎藤" time: 1:02
+- きゃーーーあっきーーーなーーー
+#Chat No.00202 type: NORMALCHAT user: "fukuin" time: 1:03
+- うるせぇ
+#Chat No.00203 type: NORMALCHAT user: "ききちゃ" time: 1:03
+- うるさ
+#Chat No.00204 type: NORMALCHAT user: "のーざん" time: 1:03
+- おかえり！
+#Chat No.00205 type: NORMALCHAT user: "黒糖侍" time: 1:04
+- テンションたけぇ！！！！
+#Chat No.00206 type: NORMALCHAT user: "いざかや" time: 1:05
+- うるさいわね
+#Chat No.00207 type: NORMALCHAT user: "斜め" time: 1:05
+- 元気すぎないか？
+#Chat No.00208 type: NORMALCHAT user: "い" time: 1:06
+- きたわよ
+#Chat No.00209 type: NORMALCHAT user: "慧理" time: 1:06
+- うるせえ
+#Chat No.00210 type: NORMALCHAT user: "荒やま" time: 1:06
+- うっさ
+#Chat No.00211 type: NORMALCHAT user: "黒橋哲也" time: 1:07
+- うっさ
+#Chat No.00212 type: NORMALCHAT user: "森中まき" time: 1:07
+- サウナ行ってきたなオメー
+#Chat No.00213 type: NORMALCHAT user: "しおにみ" time: 1:07
+- うるさくてたすかる
+#Chat No.00214 type: NORMALCHAT user: "まい伍" time: 1:09
+- あっつ
+#Chat No.00215 type: NORMALCHAT user: "ヨル" time: 1:09
+- おかえり
+#Chat No.00216 type: NORMALCHAT user: "ゆきのひ" time: 1:09
+- うるさい
+#Chat No.00217 type: NORMALCHAT user: "篠原ひー" time: 1:11
+- いつもよりうるさいなww
+#Chat No.00218 type: NORMALCHAT user: "もちみ" time: 1:11
+- 草
+#Chat No.00219 type: NORMALCHAT user: "ユラユラ" time: 1:13
+- うるせぇw
+#Chat No.00220 type: NORMALCHAT user: "直崎" time: 1:13
+- うっさ
+#Chat No.00221 type: NORMALCHAT user: "楼蘭." time: 1:14
+- きたわよ
+#Chat No.00222 type: NORMALCHAT user: "あっと" time: 1:14
+- 代謝あげてけ
+#Chat No.00223 type: NORMALCHAT user: "わさたこ" time: 1:14
+- うるさ
+#Chat No.00224 type: NORMALCHAT user: "ぽてお" time: 1:14
+- 燃えてんねぇ
+#Chat No.00225 type: NORMALCHAT user: "お吸い物" time: 1:14
+- うるせ
+#Chat No.00226 type: NORMALCHAT user: "よしの村長" time: 1:14
+- 🔥🌶🔥
+#Chat No.00227 type: NORMALCHAT user: "けい." time: 1:14
+- 草
+#Chat No.00228 type: NORMALCHAT user: "T N" time: 1:15
+- うっさ
+#Chat No.00229 type: NORMALCHAT user: "さんすも" time: 1:15
+- えぇ……
+#Chat No.00230 type: NORMALCHAT user: "飛燕" time: 1:16
+- バカバカ今何時だと思ってんだ！！
+#Chat No.00231 type: NORMALCHAT user: "45" time: 1:17
+- おかえり
+#Chat No.00232 type: NORMALCHAT user: "さわらび" time: 1:17
+- おかえり
+#Chat No.00233 type: NORMALCHAT user: "殿" time: 1:17
+- また久々に配信してる
+#Chat No.00234 type: NORMALCHAT user: "犬" time: 1:17
+- おかえり
+#Chat No.00235 type: NORMALCHAT user: "田中太郎" time: 1:17
+- 忘れそう
+#Chat No.00236 type: NORMALCHAT user: "すばる" time: 1:18
+- おかえり
+#Chat No.00237 type: NORMALCHAT user: "西瓜" time: 1:18
+- しつこい
+#Chat No.00238 type: NORMALCHAT user: "三ツ谷天馬" time: 1:18
+- おかえり
+#Chat No.00239 type: NORMALCHAT user: "楼蘭." time: 1:18
+- おかえり
+#Chat No.00240 type: NORMALCHAT user: "森野熊" time: 1:18
+- 壁ドンされろ
+#Chat No.00241 type: NORMALCHAT user: "あじしお" time: 1:18
+- おかえり〜
+#Chat No.00242 type: NORMALCHAT user: "もち" time: 1:18
+- おかえり
+#Chat No.00243 type: NORMALCHAT user: "すず" time: 1:19
+- おかえり！！
+#Chat No.00244 type: NORMALCHAT user: "イチリス" time: 1:19
+- 急に重いな
+#Chat No.00245 type: NORMALCHAT user: "アンパンマンちょこぺろぺろ党" time: 1:19
+- おかえり
+#Chat No.00246 type: NORMALCHAT user: "すみか" time: 1:19
+- おかえり
+#Chat No.00247 type: NORMALCHAT user: "#Noob卒業" time: 1:19
+- うるさい
+#Chat No.00248 type: NORMALCHAT user: "_ NASU" time: 1:19
+- 元気だな
+#Chat No.00249 type: NORMALCHAT user: "*のちぱん*" time: 1:19
+- おかえり
+#Chat No.00250 type: NORMALCHAT user: "ぜぜぜぜ" time: 1:19
+- おかえりうっさ
+#Chat No.00251 type: NORMALCHAT user: "悠華" time: 1:20
+- おかえり！
+#Chat No.00252 type: NORMALCHAT user: "いざかや" time: 1:20
+- おかえり！！！！！
+#Chat No.00253 type: NORMALCHAT user: "らむね。" time: 1:20
+- おかえり
+#Chat No.00254 type: NORMALCHAT user: "シロ。" time: 1:21
+- おかえり
+#Chat No.00255 type: NORMALCHAT user: "たぬき汁" time: 1:22
+- おかえり
+#Chat No.00256 type: NORMALCHAT user: "げっこーです" time: 1:23
+- 今来たけど音ないぞ？大丈夫か？放送事故？音量マックスなんだけどなぁ
+#Chat No.00257 type: NORMALCHAT user: "さくらざわ" time: 1:23
+- おかえり
+#Chat No.00258 type: NORMALCHAT user: "さかな." time: 1:23
+- 寝る前だよ明那ァ！！！！！！
+#Chat No.00259 type: NORMALCHAT user: "雨木" time: 1:24
+- 近隣大丈夫か？？？
+#Chat No.00260 type: NORMALCHAT user: "くろっく96" time: 1:24
+- おかえり
+#Chat No.00261 type: NORMALCHAT user: "おん" time: 1:25
+- おかえり
+#Chat No.00262 type: NORMALCHAT user: "美七月ほたて" time: 1:25
+- おかえりうっさ
+#Chat No.00263 type: NORMALCHAT user: "野茨" time: 1:25
+- 草
+#Chat No.00264 type: NORMALCHAT user: "楼蘭." time: 1:25
+- あつそう
+#Chat No.00265 type: NORMALCHAT user: "斜め" time: 1:26
+- おかえり！
+#Chat No.00266 type: NORMALCHAT user: "リオレイア" time: 1:27
+- 帰省を終えて奇声をあげるな
+#Chat No.00267 type: NORMALCHAT user: "ユラユラ" time: 1:27
+- 暑いべ
+#Chat No.00268 type: NORMALCHAT user: "あみの。" time: 1:27
+- ごめん音量下げた
+#Chat No.00269 type: SUPERCHAT user: "SYA-しゃ-" time: 1:28 amount: ￥250
+- おかえり！
+#Chat No.00270 type: NORMALCHAT user: "草薙八雲" time: 1:28
+- おかえり
+#Chat No.00271 type: NORMALCHAT user: "セメントの森" time: 1:29
+- うっっっさ！！！！
+#Chat No.00272 type: NORMALCHAT user: "ありんこ。" time: 1:29
+- おかえり
+#Chat No.00273 type: NORMALCHAT user: "45" time: 1:29
+- 夜中なんだよなあ
+#Chat No.00274 type: NORMALCHAT user: "0度" time: 1:29
+- おかえり
+#Chat No.00275 type: NORMALCHAT user: "きゃらら" time: 1:29
+- 帰省から帰ってきた？？？
+#Chat No.00276 type: NORMALCHAT user: "薔薇尻" time: 1:30
+- 寒いと余計に汗かかへん？
+#Chat No.00277 type: NORMALCHAT user: "れもんぱん" time: 1:30
+- おかえり
+#Chat No.00278 type: NORMALCHAT user: "千代田" time: 1:30
+- めっちゃ燃えてて草
+#Chat No.00279 type: NORMALCHAT user: "ひとつめ" time: 1:30
+- おかえり
+#Chat No.00280 type: NORMALCHAT user: "甘酒" time: 1:30
+- おかえり
+#Chat No.00281 type: NORMALCHAT user: "ずらこ" time: 1:30
+- おかえり
+#Chat No.00282 type: NORMALCHAT user: "ナヅキ" time: 1:30
+- おか〜
+#Chat No.00283 type: NORMALCHAT user: "庵田" time: 1:30
+- おかえり
+#Chat No.00284 type: NORMALCHAT user: "直崎" time: 1:31
+- おかえり
+#Chat No.00285 type: NORMALCHAT user: "まさ" time: 1:31
+- おかえりー
+#Chat No.00286 type: NORMALCHAT user: "たぬき汁" time: 1:32
+- うるさ
+#Chat No.00287 type: NORMALCHAT user: "カワヅ" time: 1:32
+- おかえり
+#Chat No.00288 type: NORMALCHAT user: "た" time: 1:32
+- おかえりきたえあよ
+#Chat No.00289 type: NORMALCHAT user: "もぐ" time: 1:33
+- うるせえ
+#Chat No.00290 type: NORMALCHAT user: "い" time: 1:33
+- おかえりー
+#Chat No.00291 type: NORMALCHAT user: "いろ" time: 1:33
+- 道場なの？
+#Chat No.00292 type: NORMALCHAT user: "コン郎 ch." time: 1:34
+- おかえり
+#Chat No.00293 type: NORMALCHAT user: "西瓜" time: 1:34
+- は？
+#Chat No.00294 type: NORMALCHAT user: "紺野夜半" time: 1:34
+- おかえり～
+#Chat No.00295 type: NORMALCHAT user: "巴川youmore" time: 1:34
+- どうされた？
+#Chat No.00296 type: NORMALCHAT user: "楓。" time: 1:34
+- おかえり
+#Chat No.00297 type: NORMALCHAT user: "よしの村長" time: 1:35
+- おかえり〜
+#Chat No.00298 type: NORMALCHAT user: "杉山文哉" time: 1:35
+- 初見です！
+#Chat No.00299 type: NORMALCHAT user: "悠華" time: 1:35
+- は？
+#Chat No.00300 type: NORMALCHAT user: "みやMAN" time: 1:35
+- おかえり
+#Chat No.00301 type: NORMALCHAT user: "紅城直人" time: 1:36
+- うるさ
+#Chat No.00302 type: NORMALCHAT user: "浅瀬" time: 1:36
+- おかえり
+#Chat No.00303 type: NORMALCHAT user: "しおにみ" time: 1:36
+- 元気そうで安心した
+#Chat No.00304 type: NORMALCHAT user: "はたけ" time: 1:36
+- おかえり
+#Chat No.00305 type: NORMALCHAT user: "yamada__" time: 1:36
+- なんだこいつ
+#Chat No.00306 type: NORMALCHAT user: "あみの。" time: 1:36
+- おかえり
+#Chat No.00307 type: NORMALCHAT user: "ち16" time: 1:36
+- おかえり！
+#Chat No.00308 type: NORMALCHAT user: "あるー" time: 1:37
+- は？？？？？
+#Chat No.00309 type: NORMALCHAT user: "カワヅ" time: 1:37
+- うるさくて草
+#Chat No.00310 type: NORMALCHAT user: "田中太郎" time: 1:37
+- は？
+#Chat No.00311 type: NORMALCHAT user: "t_anaka" time: 1:40
+- 暑苦しい
+#Chat No.00312 type: NORMALCHAT user: "なこの" time: 1:40
+- おかえり
+#Chat No.00313 type: NORMALCHAT user: "怜衣" time: 1:40
+- おかえり！
+#Chat No.00314 type: NORMALCHAT user: "雪瀬まつり" time: 1:40
+- おかえり
+#Chat No.00315 type: NORMALCHAT user: "ナツヲ" time: 1:40
+- おかえり
+#Chat No.00316 type: NORMALCHAT user: "白米" time: 1:40
+- おかえり
+#Chat No.00317 type: NORMALCHAT user: "ユラユラ" time: 1:40
+- いま寒くなった
+#Chat No.00318 type: NORMALCHAT user: "高校性" time: 1:40
+- どうしたんお前
+#Chat No.00319 type: NORMALCHAT user: "こえだちゃん" time: 1:41
+- テンションどうなってるんだ
+#Chat No.00320 type: NORMALCHAT user: "シロ。" time: 1:41
+- きっしば
+#Chat No.00321 type: NORMALCHAT user: "3歳!" time: 1:42
+- おかえり！！！！！！
+#Chat No.00322 type: NORMALCHAT user: "乃kinomi" time: 1:42
+- おかえり
+#Chat No.00323 type: NORMALCHAT user: "悠華" time: 1:43
+- ヴォエ！！！！！！！！！！！
+#Chat No.00324 type: NORMALCHAT user: "春雪[はるゆき]" time: 1:43
+- あちぃ
+#Chat No.00325 type: NORMALCHAT user: "やかん" time: 1:43
+- おかえり
+#Chat No.00326 type: NORMALCHAT user: "いざかや" time: 1:44
+- テンションたっか
+#Chat No.00327 type: NORMALCHAT user: "よしの村長" time: 1:44
+- うわきつ
+#Chat No.00328 type: NORMALCHAT user: "ゆきのひ" time: 1:44
+- おかえり
+#Chat No.00329 type: NORMALCHAT user: "パネェ第1体育館" time: 1:44
+- おかえり
+#Chat No.00330 type: NORMALCHAT user: "のの" time: 1:45
+- おかえり
+#Chat No.00331 type: NORMALCHAT user: "篠原ひー" time: 1:45
+- おかえり
+#Chat No.00332 type: NORMALCHAT user: "リオレイア" time: 1:45
+- 草
+#Chat No.00333 type: NORMALCHAT user: "りり針" time: 1:45
+- 脇汗もアウト？
+#Chat No.00334 type: NORMALCHAT user: "相模相澤 U" time: 1:46
+- はげしい
+#Chat No.00335 type: NORMALCHAT user: "柏餅桜餅" time: 1:47
+- おかえり‼
+#Chat No.00336 type: NORMALCHAT user: "イチリス" time: 1:48
+- 暇過ぎて震えるとは
+#Chat No.00337 type: NORMALCHAT user: "mii mee" time: 1:49
+- うるさ
+#Chat No.00338 type: NORMALCHAT user: "ぽてお" time: 1:49
+- おかえり～
+#Chat No.00339 type: NORMALCHAT user: "林檎飴" time: 1:50
+- もっとぶちゅってして
+#Chat No.00340 type: NORMALCHAT user: "バリスタブラック" time: 1:51
+- もも上げ50回しろ
+#Chat No.00341 type: NORMALCHAT user: "西瓜" time: 1:52
+- 火事になってますよ
+#Chat No.00342 type: NORMALCHAT user: "あじしお" time: 1:53
+- もう汗かいてそうな勢い
+#Chat No.00343 type: NORMALCHAT user: "棚果tanaka" time: 1:54
+- え？？？
+#Chat No.00344 type: NORMALCHAT user: "ꉂꉂ工藤" time: 1:54
+- 明那燃え尽きるぞそのテンション
+#Chat No.00345 type: NORMALCHAT user: "ぱんこ。" time: 1:55
+- おかえり
+#Chat No.00346 type: NORMALCHAT user: "けい." time: 1:55
+- うるさ
+#Chat No.00347 type: SUPERCHAT user: "恢兎カイト" time: 1:55 amount: ￥200
+- おかえり
+#Chat No.00348 type: NORMALCHAT user: "た" time: 1:56
+- お焚き上げですか？？
+#Chat No.00349 type: NORMALCHAT user: "3歳!" time: 1:56
+- 目の動きやば
+#Chat No.00350 type: NORMALCHAT user: "おちぇん" time: 1:56
+- 帰ってきたわね
+#Chat No.00351 type: NORMALCHAT user: "郷" time: 1:57
+- おかえりうるせぇ！！！！！！
+#Chat No.00352 type: NORMALCHAT user: "まい伍" time: 1:57
+- おかえり
+#Chat No.00353 type: NORMALCHAT user: "orzどげざ" time: 1:57
+- え！？
+#Chat No.00354 type: NORMALCHAT user: "アオイ" time: 1:57
+- いつにも増してきしょくて大好き
+#Chat No.00355 type: NORMALCHAT user: "楼蘭." time: 1:58
+- 暑苦しいなw
+#Chat No.00356 type: NORMALCHAT user: "もぜ" time: 1:58
+- 何このテンション 頭お菓子なったんか？
+#Chat No.00357 type: NORMALCHAT user: "ほっし" time: 1:58
+- 電車寝過ごしそうだったけどうるさくて起きたありがとう
+#Chat No.00358 type: NORMALCHAT user: "あっと" time: 1:58
+- うるせぇぞ！ﾄﾞﾝﾄﾞﾝﾄﾞﾝ
+#Chat No.00359 type: NORMALCHAT user: "ひも" time: 2:00
+- よかったな
+#Chat No.00360 type: NORMALCHAT user: "もち" time: 2:00
+- うっさ
+#Chat No.00361 type: NORMALCHAT user: "SYA-しゃ-" time: 2:01
+- いっぱいキスしてくれてありがとな😘
+#Chat No.00362 type: NORMALCHAT user: "翔空" time: 2:01
+- なんだこの配信
+#Chat No.00363 type: NORMALCHAT user: "慧理" time: 2:01
+- おかえり
+#Chat No.00364 type: SUPERCHAT user: "草薙八雲" time: 2:03 amount: ￥500
+- 炎上代
+#Chat No.00365 type: NORMALCHAT user: "むらを" time: 2:03
+- あばぶびべべあぼびぶぼおかえり！
+#Chat No.00366 type: NORMALCHAT user: "乃kinomi" time: 2:04
+- 何もかもがうるさい
+#Chat No.00367 type: NORMALCHAT user: "さかな." time: 2:04
+- もう暑い
+#Chat No.00368 type: NORMALCHAT user: "のーか" time: 2:04
+- お前よりは元気ない
+#Chat No.00369 type: NORMALCHAT user: "ねむいo0" time: 2:04
+- おかえり
+#Chat No.00370 type: NORMALCHAT user: "ユラユラ" time: 2:04
+- 耳痛えw
+#Chat No.00371 type: NORMALCHAT user: "高校性" time: 2:05
+- ってゆうてますけども
+#Chat No.00372 type: NORMALCHAT user: "たぬき汁" time: 2:05
+- テンション高
+#Chat No.00373 type: NORMALCHAT user: "棚果tanaka" time: 2:07
+- おかえりうるせぇｗ
+#Chat No.00374 type: NORMALCHAT user: "イチリス" time: 2:07
+- お焚き上げ草
+#Chat No.00375 type: NORMALCHAT user: "*のちぱん*" time: 2:08
+- にじさんじの松岡修造
+#Chat No.00376 type: NORMALCHAT user: "うみなり" time: 2:09
+- あついw
+#Chat No.00377 type: NORMALCHAT user: "田中太郎" time: 2:10
+- 絶対もう汗かいてる
+#Chat No.00378 type: NORMALCHAT user: "#Noob卒業" time: 2:10
+- ノンストップ雑談?
+#Chat No.00379 type: NORMALCHAT user: "こまる" time: 2:11
+- 元気が過ぎる
+#Chat No.00380 type: NORMALCHAT user: "はとこ" time: 2:12
+- あつくるしい
+#Chat No.00381 type: NORMALCHAT user: "再生したscp-1983先のない扉" time: 2:12
+- 熱い
+#Chat No.00382 type: NORMALCHAT user: "カワサキ" time: 2:13
+- おはホリケン
+#Chat No.00383 type: NORMALCHAT user: "ノーマ" time: 2:14
+- もう十分だよ
+#Chat No.00384 type: NORMALCHAT user: "高校性" time: 2:14
+- もうかいてるだろ
+#Chat No.00385 type: NORMALCHAT user: "おん" time: 2:15
+- もうかいてるのでは
+#Chat No.00386 type: NORMALCHAT user: "多田龍平" time: 2:15
+- 元気すぎ
+#Chat No.00387 type: NORMALCHAT user: "yamada__" time: 2:16
+- たにかる？
+#Chat No.00388 type: NORMALCHAT user: "もぜ" time: 2:16
+- たにかく？
+#Chat No.00389 type: NORMALCHAT user: "始発" time: 2:17
+- あつい
+#Chat No.00390 type: NORMALCHAT user: "SYA-しゃ-" time: 2:17
+- たにかく
+#Chat No.00391 type: NORMALCHAT user: "千代田" time: 2:18
+- ？？？？？？
+#Chat No.00392 type: NORMALCHAT user: "田中太郎" time: 2:18
+- たにかる
+#Chat No.00393 type: NORMALCHAT user: "コン" time: 2:18
+- 何この配信
+#Chat No.00394 type: NORMALCHAT user: "うすみや" time: 2:19
+- ？？？？？？？？？？
+#Chat No.00395 type: NORMALCHAT user: "アンパンマンちょこぺろぺろ党" time: 2:19
+- たにかく
+#Chat No.00396 type: NORMALCHAT user: "のーか" time: 2:19
+- いえーい
+#Chat No.00397 type: NORMALCHAT user: "キノノチャンネル" time: 2:20
+- 今来たけどうるせえなｗｗ
+#Chat No.00398 type: NORMALCHAT user: "Osaka" time: 2:20
+- いえーい
+#Chat No.00399 type: NORMALCHAT user: "たぬき汁" time: 2:21
+- たすかる
+#Chat No.00400 type: NORMALCHAT user: "n J!" time: 2:21
+- タニカル
+#Chat No.00401 type: NORMALCHAT user: "リオレイア" time: 2:21
+- うおおおおおおおおおおお
+#Chat No.00402 type: NORMALCHAT user: "すばる" time: 2:21
+- 無理
+#Chat No.00403 type: NORMALCHAT user: "いろ" time: 2:22
+- おー
+#Chat No.00404 type: NORMALCHAT user: "あっと" time: 2:22
+- いええええええいいいい
+#Chat No.00405 type: SUPERCHAT user: "igarasi" time: 2:22 amount: ￥250
+- おかえり！！！！！！あついね！！！！
+#Chat No.00406 type: NORMALCHAT user: "SYA-しゃ-" time: 2:22
+- いえーい！！！
+#Chat No.00407 type: NORMALCHAT user: "米派" time: 2:22
+- いええええええええええ
+#Chat No.00408 type: NORMALCHAT user: "orzどげざ" time: 2:22
+- お、おう
+#Chat No.00409 type: NORMALCHAT user: "西瓜" time: 2:22
+- 後ろ燃えてますよ
+#Chat No.00410 type: NORMALCHAT user: "すず" time: 2:22
+- たにかく
+#Chat No.00411 type: NORMALCHAT user: "#Noob卒業" time: 2:22
+- ウェイ
+#Chat No.00412 type: NORMALCHAT user: "再生したscp-1983先のない扉" time: 2:23
+- お、おー
+#Chat No.00413 type: NORMALCHAT user: "きゃらら" time: 2:23
+- ...
+#Chat No.00414 type: NORMALCHAT user: "辛位ドビー" time: 2:23
+- アツアツやんけ……
+#Chat No.00415 type: NORMALCHAT user: "ふうらん" time: 2:23
+- もう視聴者は汗かいてる
+#Chat No.00416 type: NORMALCHAT user: "イチリス" time: 2:23
+- わーい
+#Chat No.00417 type: NORMALCHAT user: "田中太郎" time: 2:23
+- はあ
+#Chat No.00418 type: NORMALCHAT user: "高校性" time: 2:24
+- うえあぁえぁぇあぁあぁあぁ！！！！
+#Chat No.00419 type: NORMALCHAT user: "悠華" time: 2:24
+- イェエエエエエエエエエエエエエエイ！！！！！！！！！！！！！１
+#Chat No.00420 type: NORMALCHAT user: "ナヅキ" time: 2:24
+- イェーー！！！！！！！！！
+#Chat No.00421 type: NORMALCHAT user: "斜め" time: 2:24
+- いええい
+#Chat No.00422 type: NORMALCHAT user: "こまる" time: 2:24
+- ついていける時間じゃねぇんだな
+#Chat No.00423 type: NORMALCHAT user: "なにゃな" time: 2:24
+- たにかる
+#Chat No.00424 type: NORMALCHAT user: "翔空" time: 2:24
+- うるせぇw
+#Chat No.00425 type: NORMALCHAT user: "た" time: 2:24
+- いえええええ
+#Chat No.00426 type: NORMALCHAT user: "Mk. V" time: 2:25
+- お、おう
+#Chat No.00427 type: NORMALCHAT user: "yamada__" time: 2:25
+- …………
+#Chat No.00428 type: NORMALCHAT user: "特になし" time: 2:25
+- いええええええい
+#Chat No.00429 type: NORMALCHAT user: "絵コンテ" time: 2:25
+- たにかく全力たすかる
+#Chat No.00430 type: NORMALCHAT user: "野咲" time: 2:26
+- いえーい！！！
+#Chat No.00431 type: NORMALCHAT user: "紺野夜半" time: 2:26
+- うおおおおおお！
+#Chat No.00432 type: NORMALCHAT user: "すばる" time: 2:26
+- 無理
+#Chat No.00433 type: NORMALCHAT user: "シリコン" time: 2:26
+- なんだこのテンション、、
+#Chat No.00434 type: NORMALCHAT user: "くろっく96" time: 2:27
+- はーい！！！！！！！
+#Chat No.00435 type: NORMALCHAT user: "T N" time: 2:27
+- いえーーーーーい
+#Chat No.00436 type: NORMALCHAT user: "あさま" time: 2:27
+- い、いえーい
+#Chat No.00437 type: NORMALCHAT user: "甘酒" time: 2:27
+- いえーい
+#Chat No.00438 type: NORMALCHAT user: "虎寅" time: 2:27
+- ？
+#Chat No.00439 type: NORMALCHAT user: "さかな." time: 2:27
+- もう終わってそう
+#Chat No.00440 type: NORMALCHAT user: "つぶこ" time: 2:28
+- いえーーーい
+#Chat No.00441 type: NORMALCHAT user: "千代田" time: 2:28
+- はい
+#Chat No.00442 type: NORMALCHAT user: "キノノチャンネル" time: 2:28
+- い、いえーい
+#Chat No.00443 type: NORMALCHAT user: "コン郎 ch." time: 2:28
+- いえええええええい
+#Chat No.00444 type: NORMALCHAT user: "たびゆるり" time: 2:29
+- いえーぃ！
+#Chat No.00445 type: NORMALCHAT user: "あおはる" time: 2:29
+- はーい
+#Chat No.00446 type: NORMALCHAT user: "Brown Wolf" time: 2:29
+- お、おう
+#Chat No.00447 type: NORMALCHAT user: "パネェ第1体育館" time: 2:30
+- いえええええええええええ！！！！
+#Chat No.00448 type: NORMALCHAT user: "れいじ" time: 2:30
+- …
+#Chat No.00449 type: NORMALCHAT user: "_ NASU" time: 2:31
+- いえーーーーい
+#Chat No.00450 type: NORMALCHAT user: "シロ。" time: 2:31
+- はーい（小声）
+#Chat No.00451 type: NORMALCHAT user: "いせえび" time: 2:31
+- うおおおおおおお
+#Chat No.00452 type: NORMALCHAT user: "コン" time: 2:31
+- おつぐさ
+#Chat No.00453 type: NORMALCHAT user: "きゃみー" time: 2:32
+- いえええええええええええええ！！！！！！！！！
+#Chat No.00454 type: NORMALCHAT user: "しおにみ" time: 2:32
+- いええええええええい
+#Chat No.00455 type: NORMALCHAT user: "寝る" time: 2:32
+- いえええええええええええええええええ
+#Chat No.00456 type: NORMALCHAT user: "はたけ" time: 2:32
+- ウェーイ
+#Chat No.00457 type: NORMALCHAT user: "バリスタブラック" time: 2:33
+- うおおおおおおおおおおお！！！！！
+#Chat No.00458 type: NORMALCHAT user: "カワサキ" time: 2:33
+- ついてこれない♡
+#Chat No.00459 type: SUPERCHAT user: "ひとつめ" time: 2:33 amount: ￥250
+- 燃えてんねえ！
+#Chat No.00460 type: NORMALCHAT user: "い" time: 2:33
+- おおおおおおおお
+#Chat No.00461 type: NORMALCHAT user: "あぞのとまと" time: 2:34
+- おー棒
+#Chat No.00462 type: NORMALCHAT user: "とっとこROM太郎" time: 2:34
+- yeaaaaaaaaahhhhhhh!!!!!!!
+#Chat No.00463 type: NORMALCHAT user: "砕牙" time: 2:34
+- いええええええい
+#Chat No.00464 type: NORMALCHAT user: "いちの" time: 2:34
+- 無理かな…
+#Chat No.00465 type: SUPERCHAT user: "ありんこ。" time: 2:34 amount: ￥200
+- いつも通りうるさくて助かる
+#Chat No.00466 type: NORMALCHAT user: "雪瀬まつり" time: 2:34
+- いえーい
+#Chat No.00467 type: NORMALCHAT user: "ぽてお" time: 2:35
+- うおおおおおおおお
+#Chat No.00468 type: NORMALCHAT user: "いもけんぴ" time: 2:35
+- イエーーー！！！
+#Chat No.00469 type: NORMALCHAT user: "ruiy" time: 2:35
+- うん
+#Chat No.00470 type: NORMALCHAT user: "ぺ汰" time: 2:35
+- いえー！！！
+#Chat No.00471 type: NORMALCHAT user: "なこの" time: 2:36
+- いえええええい
+#Chat No.00472 type: NORMALCHAT user: "うたかた" time: 2:36
+- 🔥
+#Chat No.00473 type: NORMALCHAT user: "皐" time: 2:36
+- うおおおおおお
+#Chat No.00474 type: NORMALCHAT user: "さわらび" time: 2:36
+- お、おう
+#Chat No.00475 type: NORMALCHAT user: "おちぇん" time: 2:37
+- いえー！
+#Chat No.00476 type: NORMALCHAT user: "白米" time: 2:37
+- いえーい
+#Chat No.00477 type: NORMALCHAT user: "ゆきのひ" time: 2:37
+- えーい！
+#Chat No.00478 type: NORMALCHAT user: "草薙八雲" time: 2:38
+- お、おう
+#Chat No.00479 type: NORMALCHAT user: "チャンタロウ" time: 2:38
+- うおおおお
+#Chat No.00480 type: NORMALCHAT user: "みずたに" time: 2:38
+- いええええええええええええええええい
+#Chat No.00481 type: NORMALCHAT user: "0度" time: 2:38
+- いええええええええい
+#Chat No.00482 type: NORMALCHAT user: "郷" time: 2:39
+- いぇええええええええーーーーーいいい！！！！
+#Chat No.00483 type: NORMALCHAT user: "あみの。" time: 2:39
+- いえーい
+#Chat No.00484 type: NORMALCHAT user: "ねむいo0" time: 2:39
+- いえーい
+#Chat No.00485 type: NORMALCHAT user: "おれこ" time: 2:40
+- 草
+#Chat No.00486 type: NORMALCHAT user: "れもんぱん" time: 2:40
+- いえーい
+#Chat No.00487 type: NORMALCHAT user: "やかん" time: 2:40
+- いえーい
+#Chat No.00488 type: NORMALCHAT user: "六法全書" time: 2:41
+- きたわよ
+#Chat No.00489 type: NORMALCHAT user: "ユラユラ" time: 2:41
+- 盛り上がってなくて草
+#Chat No.00490 type: NORMALCHAT user: "棚果tanaka" time: 2:41
+- い、いえ～～い
+#Chat No.00491 type: NORMALCHAT user: "ありをりはべりいまそかり" time: 2:41
+- お、おう......
+#Chat No.00492 type: NORMALCHAT user: "ゆきち" time: 2:42
+- そ、そうだね
+#Chat No.00493 type: NORMALCHAT user: "篠原ひー" time: 2:42
+- いえーい！
+#Chat No.00494 type: NORMALCHAT user: "さくらざわ" time: 2:42
+- 
+#Chat No.00495 type: NORMALCHAT user: "むらを" time: 2:42
+- いぇえぇえええええええーーー！
+#Chat No.00496 type: NORMALCHAT user: "こいみず" time: 2:43
+- ええ…（深夜24時）
+#Chat No.00497 type: NORMALCHAT user: "3歳!" time: 2:43
+- 楽しそうで草
+#Chat No.00498 type: NORMALCHAT user: "ドッカーノダレッカ" time: 2:43
+- 
+#Chat No.00499 type: NORMALCHAT user: "たぬき汁" time: 2:44
+- いえーい
+#Chat No.00500 type: NORMALCHAT user: "ゆきのひ" time: 2:45
+- いえーーい！！
+#Chat No.00501 type: NORMALCHAT user: "田中太郎" time: 2:45
+- うん
+#Chat No.00502 type: NORMALCHAT user: "黒橋哲也" time: 2:45
+- ふうううううううううう!111111111
+#Chat No.00503 type: NORMALCHAT user: "パン・パンダ4世" time: 2:45
+- いえーーーーーーーーーーーーい！！！！！！
+#Chat No.00504 type: NORMALCHAT user: "みやMAN" time: 2:45
+- おおおおおおおた
+#Chat No.00505 type: NORMALCHAT user: "慧理" time: 2:45
+- あ、はい
+#Chat No.00506 type: NORMALCHAT user: "ナヅキ" time: 2:46
+- 乾杯
+#Chat No.00507 type: NORMALCHAT user: "いざかや" time: 2:46
+- きゃーーーーーーーーーーーーー
+#Chat No.00508 type: NORMALCHAT user: "三ツ谷天馬" time: 2:46
+- だいじょうぶか
+#Chat No.00509 type: NORMALCHAT user: "イチリス" time: 2:47
+- 何が見えているんだ
+#Chat No.00510 type: NORMALCHAT user: "T N" time: 2:47
+- うえのほおおおおおおおお
+#Chat No.00511 type: NORMALCHAT user: "HitOMarOひとまろ" time: 2:47
+- いぇー⤵️
+#Chat No.00512 type: NORMALCHAT user: "SYA-しゃ-" time: 2:47
+- かんぱーい
+#Chat No.00513 type: NORMALCHAT user: "マシュマロ." time: 2:48
+- かんぱい
+#Chat No.00514 type: NORMALCHAT user: "のーか" time: 2:48
+- カンパーイ…
+#Chat No.00515 type: NORMALCHAT user: "秋の七草" time: 2:49
+- 元気だｗ助かる
+#Chat No.00516 type: NORMALCHAT user: "すばる" time: 2:49
+- アイドルですか？
+#Chat No.00517 type: NORMALCHAT user: "けい." time: 2:49
+- いえええええええええええ
+#Chat No.00518 type: NORMALCHAT user: "エス" time: 2:49
+- どしたん……
+#Chat No.00519 type: NORMALCHAT user: "にお" time: 2:49
+- 今来たけどもう暑い
+#Chat No.00520 type: NORMALCHAT user: "カワヅ" time: 2:49
+- そうだな
+#Chat No.00521 type: NORMALCHAT user: "ꉂꉂ工藤" time: 2:50
+- アリーナー！！
+#Chat No.00522 type: NORMALCHAT user: "Osaka" time: 2:50
+- 暑苦しいＢＧＭｗ
+#Chat No.00523 type: NORMALCHAT user: "ガンダーラおじさん" time: 2:50
+- 俺は何を見せられてるんだ？
+#Chat No.00524 type: NORMALCHAT user: "ヨル" time: 2:51
+- 草
+#Chat No.00525 type: NORMALCHAT user: "こえだちゃん" time: 2:52
+- いええええぇええええぇーーい！！
+#Chat No.00526 type: NORMALCHAT user: "西瓜" time: 2:52
+- カンパオ
+#Chat No.00527 type: NORMALCHAT user: "#Noob卒業" time: 2:54
+- 酒?w
+#Chat No.00528 type: NORMALCHAT user: "ノーマ" time: 2:54
+- 🔥🔥🔥🔥🔥🔥
+#Chat No.00529 type: NORMALCHAT user: "甘酒" time: 2:54
+- レッドアイ飲んでる？
+#Chat No.00530 type: NORMALCHAT user: "絵コンテ" time: 2:55
+- よっしゃあああああああああああああああああ
+#Chat No.00531 type: NORMALCHAT user: "うたかた" time: 2:56
+- 乾杯🥂
+#Chat No.00532 type: NORMALCHAT user: "ひも" time: 2:57
+- なにキメた？
+#Chat No.00533 type: NORMALCHAT user: "リオレイア" time: 2:58
+- 何飲んでんだ
+#Chat No.00534 type: NORMALCHAT user: "yusho 55" time: 2:58
+- こないだから嵐に染まってるねぇ！！
+#Chat No.00535 type: NORMALCHAT user: "高校性" time: 3:00
+- かんぱい
+#Chat No.00536 type: NORMALCHAT user: "なにゃな" time: 3:01
+- 冷や汗がとまらねぇよな！
+#Chat No.00537 type: NORMALCHAT user: "さかな." time: 3:01
+- 大丈夫壁ドンされない？
+#Chat No.00538 type: NORMALCHAT user: "ホルモンヌ" time: 3:01
+- おお…
+#Chat No.00539 type: NORMALCHAT user: "ミラジョボ" time: 3:03
+- 落ち着いてんじゃん
+#Chat No.00540 type: NORMALCHAT user: "iToYa 。" time: 3:04
+- 今北
+#Chat No.00541 type: NORMALCHAT user: "セメントの森" time: 3:05
+- 釣って〜〜〜〜🎣！！！
+#Chat No.00542 type: NORMALCHAT user: "ゆきのひ" time: 3:07
+- やっちゃー！！！
+#Chat No.00543 type: NORMALCHAT user: "HitOMarOひとまろ" time: 3:07
+- いぇーーーい↓↓↓↓
+#Chat No.00544 type: NORMALCHAT user: "パン・パンダ4世" time: 3:08
+- カンパイ
+#Chat No.00545 type: NORMALCHAT user: "みもざじる" time: 3:08
+- カプサイシンたっぷり
+#Chat No.00546 type: NORMALCHAT user: "Osaka" time: 3:09
+- 関西のどこ出身なのー？
+#Chat No.00547 type: NORMALCHAT user: "廷Ting" time: 3:10
+- きたわよ熱いね
+#Chat No.00548 type: NORMALCHAT user: "コン郎 ch." time: 3:11
+- なに乾杯してんねねん
+#Chat No.00549 type: NORMALCHAT user: "クウォータータルト" time: 3:12
+- 🔥三枝🔥
+#Chat No.00550 type: NORMALCHAT user: "Mk. V" time: 3:15
+- もっかい帰って
+#Chat No.00551 type: NORMALCHAT user: "もぜ" time: 3:16
+- 草
+#Chat No.00552 type: NORMALCHAT user: "ガンダーラおじさん" time: 3:17
+- ふぉーないんか
+#Chat No.00553 type: NORMALCHAT user: "3歳!" time: 3:18
+- 草
+#Chat No.00554 type: NORMALCHAT user: "むらを" time: 3:19
+- ばびびぶぼぶぼばびべべぼぶべぼびべあきなすき
+#Chat No.00555 type: NORMALCHAT user: "はやし" time: 3:19
+- 酒飲んでんねえ！
+#Chat No.00556 type: NORMALCHAT user: "リオレイア" time: 3:21
+- 草
+#Chat No.00557 type: NORMALCHAT user: "ラムネ" time: 3:23
+- もしかして強い？
+#Chat No.00558 type: NORMALCHAT user: "iToYa 。" time: 3:24
+- 草
+#Chat No.00559 type: NORMALCHAT user: "HitOMarOひとまろ" time: 3:24
+- いぇーーーい↓↓↓↓↓↓↓
+#Chat No.00560 type: NORMALCHAT user: "特になし" time: 3:24
+- 酒呑んでんのかよ草
+#Chat No.00561 type: NORMALCHAT user: "カワヅ" time: 3:25
+- フォーナインうまいよね
+#Chat No.00562 type: NORMALCHAT user: "槙" time: 3:26
+- 草
+#Chat No.00563 type: SUPERCHAT user: "殿" time: 3:26 amount: ￥500
+- 健康なのは解ったので三食食べろ代
+#Chat No.00564 type: NORMALCHAT user: "さわらび" time: 3:26
+- あれ美味しいよね
+#Chat No.00565 type: NORMALCHAT user: "高校性" time: 3:26
+- 🔥アッキーナ🔥
+#Chat No.00566 type: NORMALCHAT user: "雪瀬まつり" time: 3:26
+- 飲酒配信助かる
+#Chat No.00567 type: NORMALCHAT user: "たぬき汁" time: 3:27
+- 草
+#Chat No.00568 type: NORMALCHAT user: "ホオノキアオ" time: 3:27
+- 来たら背景燃えてて草
+#Chat No.00569 type: NORMALCHAT user: "いろ" time: 3:28
+- 酒飲むな汗かくでしょ
+#Chat No.00570 type: NORMALCHAT user: "辛位ドビー" time: 3:29
+- 酒美味いか？？
+#Chat No.00571 type: NORMALCHAT user: "SYA-しゃ-" time: 3:31
+- お酒飲むとポッカするぞ
+#Chat No.00572 type: NORMALCHAT user: "カワサキ" time: 3:31
+- バーチャル関西かな
+#Chat No.00573 type: NORMALCHAT user: "yamada__" time: 3:31
+- 草
+#Chat No.00574 type: NORMALCHAT user: "あじしお" time: 3:32
+- 元気ですねぇ
+#Chat No.00575 type: NORMALCHAT user: "みもざじる" time: 3:33
+- はい案件くるぞー
+#Chat No.00576 type: NORMALCHAT user: "直崎" time: 3:33
+- 飲んでんねぇ
+#Chat No.00577 type: NORMALCHAT user: "ナヅキ" time: 3:34
+- もう配信切らんでええか？
+#Chat No.00578 type: NORMALCHAT user: "西瓜" time: 3:34
+- サッポロビールはいいぞ
+#Chat No.00579 type: NORMALCHAT user: "再生したscp-1983先のない扉" time: 3:35
+- 倒れないように気を付けてね
+#Chat No.00580 type: NORMALCHAT user: "さかな." time: 3:37
+- チーターじゃん
+#Chat No.00581 type: NORMALCHAT user: "田中太郎" time: 3:38
+- メガインキャ
+#Chat No.00582 type: NORMALCHAT user: "柏餅桜餅" time: 3:38
+- 北海道にもきてくれよな‼
+#Chat No.00583 type: NORMALCHAT user: "絵コンテ" time: 3:39
+- 関西テンションたすかる
+#Chat No.00584 type: NORMALCHAT user: "しそ" time: 3:40
+- 今
+#Chat No.00585 type: NORMALCHAT user: "のーか" time: 3:40
+- 草
+#Chat No.00586 type: NORMALCHAT user: "ひび" time: 3:44
+- バーチャル関西
+#Chat No.00587 type: NORMALCHAT user: "クズの中のクズ" time: 3:45
+- 急は札幌ageに道民俺にっこり
+#Chat No.00588 type: NORMALCHAT user: "アンパンマンちょこぺろぺろ党" time: 3:45
+- あるこーr
+#Chat No.00589 type: NORMALCHAT user: "野茨" time: 3:45
+- 草
+#Chat No.00590 type: NORMALCHAT user: "郷" time: 3:46
+- 草
+#Chat No.00591 type: NORMALCHAT user: "高校性" time: 3:46
+- 酒は自重するって言ってただほ
+#Chat No.00592 type: NORMALCHAT user: "さかね" time: 3:49
+- 今きたら燃えてて草
+#Chat No.00593 type: NORMALCHAT user: "飛燕" time: 3:53
+- ９９．９９おいしいよね
+#Chat No.00594 type: NORMALCHAT user: "悠華" time: 3:58
+- なに？
+#Chat No.00595 type: NORMALCHAT user: "ミラジョボ" time: 3:58
+- こんな落ち着かない雑談初めて
+#Chat No.00596 type: NORMALCHAT user: "ラムネ" time: 3:58
+- なんか元気もらったありがと
+#Chat No.00597 type: NORMALCHAT user: "始発" time: 3:59
+- ﾄﾞｺﾄﾞｺﾄﾞｺ
+#Chat No.00598 type: NORMALCHAT user: "ふうらん" time: 4:01
+- BGM喧しくて草
+#Chat No.00599 type: NORMALCHAT user: "ほっし" time: 4:03
+- あれ美味しいよね！！！
+#Chat No.00600 type: NORMALCHAT user: "#Noob卒業" time: 4:03
+- 知らんなぁ
+#Chat No.00601 type: NORMALCHAT user: "パイナップル" time: 4:05
+- 肉やん
+#Chat No.00602 type: NORMALCHAT user: "高校性" time: 4:06
+- 知ってる
+#Chat No.00603 type: NORMALCHAT user: "ひび" time: 4:06
+- 三宮！？
+#Chat No.00604 type: NORMALCHAT user: "アリ" time: 4:07
+- おちつかねえ
+#Chat No.00605 type: NORMALCHAT user: "カワヅ" time: 4:07
+- へー
+#Chat No.00606 type: NORMALCHAT user: "カワサキ" time: 4:08
+- バーチャルどこいったよ
+#Chat No.00607 type: NORMALCHAT user: "すず" time: 4:08
+- へーー
+#Chat No.00608 type: NORMALCHAT user: "Osaka" time: 4:08
+- 高田馬場にもあるよね
+#Chat No.00609 type: NORMALCHAT user: "のーか" time: 4:09
+- あー知ってる
+#Chat No.00610 type: NORMALCHAT user: "くろっく96" time: 4:09
+- あーあの店か
+#Chat No.00611 type: NORMALCHAT user: "東のロン" time: 4:09
+- 高田馬場にもあるよな
+#Chat No.00612 type: NORMALCHAT user: "コン郎 ch." time: 4:10
+- あーあそこか近所だわ
+#Chat No.00613 type: NORMALCHAT user: "キノノチャンネル" time: 4:10
+- 東京にもあるよね
+#Chat No.00614 type: NORMALCHAT user: "紺野夜半" time: 4:11
+- ほ～
+#Chat No.00615 type: NORMALCHAT user: "リオレイア" time: 4:11
+- 初耳だ
+#Chat No.00616 type: NORMALCHAT user: "慧理" time: 4:12
+- しってる！
+#Chat No.00617 type: NORMALCHAT user: "セメントの森" time: 4:12
+- 昔ヤバ混んでたとこやんけ
+#Chat No.00618 type: NORMALCHAT user: "いざかや" time: 4:12
+- 今度行くわ
+#Chat No.00619 type: NORMALCHAT user: "斜め" time: 4:13
+- 聞いたことある
+#Chat No.00620 type: NORMALCHAT user: "まさ" time: 4:13
+- REDROCK！高田馬場とかにもあるね
+#Chat No.00621 type: NORMALCHAT user: "悠華" time: 4:14
+- 知らんぁ……
+#Chat No.00622 type: NORMALCHAT user: "ききちゃ" time: 4:15
+- 知ってる
+#Chat No.00623 type: NORMALCHAT user: "くるめ" time: 4:15
+- 今北燃えてて草
+#Chat No.00624 type: NORMALCHAT user: "槙" time: 4:16
+- 美味しいよね！
+#Chat No.00625 type: NORMALCHAT user: "ホオノキアオ" time: 4:16
+- 草
+#Chat No.00626 type: NORMALCHAT user: "ゆきのひ" time: 4:16
+- ほぉ
+#Chat No.00627 type: NORMALCHAT user: "SYA-しゃ-" time: 4:17
+- 草
+#Chat No.00628 type: NORMALCHAT user: "悠華" time: 4:18
+- いや草
+#Chat No.00629 type: NORMALCHAT user: "ひも" time: 4:18
+- 草
+#Chat No.00630 type: NORMALCHAT user: "autumn" time: 4:18
+- 兵庫か
+#Chat No.00631 type: NORMALCHAT user: "田中太郎" time: 4:18
+- 草
+#Chat No.00632 type: NORMALCHAT user: "カワヅ" time: 4:20
+- 悲しいねぇ
+#Chat No.00633 type: NORMALCHAT user: "yamada__" time: 4:20
+- 草
+#Chat No.00634 type: NORMALCHAT user: "のーざん" time: 4:20
+- あーーー
+#Chat No.00635 type: NORMALCHAT user: "西瓜" time: 4:20
+- 草
+#Chat No.00636 type: NORMALCHAT user: "ひとつめ" time: 4:20
+- やめたれや！
+#Chat No.00637 type: NORMALCHAT user: "なこの" time: 4:21
+- 草
+#Chat No.00638 type: NORMALCHAT user: "T N" time: 4:21
+- かなしいなあ
+#Chat No.00639 type: NORMALCHAT user: "翡翠琥珀" time: 4:21
+- オタク特有の早口
+#Chat No.00640 type: NORMALCHAT user: "ありんこ。" time: 4:21
+- ほえー
+#Chat No.00641 type: NORMALCHAT user: "甘酒" time: 4:21
+- バーチャル三宮
+#Chat No.00642 type: NORMALCHAT user: "シロ。" time: 4:21
+- 草
+#Chat No.00643 type: NORMALCHAT user: "すばる" time: 4:22
+- 草
+#Chat No.00644 type: NORMALCHAT user: "いざかや" time: 4:24
+- 草
+#Chat No.00645 type: NORMALCHAT user: "リオレイア" time: 4:24
+- 草
+#Chat No.00646 type: NORMALCHAT user: "ガンダーラおじさん" time: 4:24
+- 高田馬場にもあんぞ
+#Chat No.00647 type: NORMALCHAT user: "鯖の刺身" time: 4:26
+- 草
+#Chat No.00648 type: NORMALCHAT user: "たぬき汁" time: 4:26
+- 草
+#Chat No.00649 type: NORMALCHAT user: "棚果tanaka" time: 4:27
+- 草
+#Chat No.00650 type: NORMALCHAT user: "03" time: 4:27
+- 草
+#Chat No.00651 type: NORMALCHAT user: "紺野夜半" time: 4:27
+- 草
+#Chat No.00652 type: NORMALCHAT user: "うすみや" time: 4:28
+- 草
+#Chat No.00653 type: NORMALCHAT user: "ひび" time: 4:28
+- 草
+#Chat No.00654 type: NORMALCHAT user: "ねむいo0" time: 4:28
+- 草
+#Chat No.00655 type: NORMALCHAT user: "アリ" time: 4:28
+- うまそう
+#Chat No.00656 type: NORMALCHAT user: "Ayako" time: 4:29
+- ほえー
+#Chat No.00657 type: NORMALCHAT user: "さくらざわ" time: 4:29
+- 草
+#Chat No.00658 type: NORMALCHAT user: "千代田" time: 4:29
+- へー美味しそう
+#Chat No.00659 type: NORMALCHAT user: "直崎" time: 4:29
+- 草
+#Chat No.00660 type: NORMALCHAT user: "イチリス" time: 4:29
+- 良かったね
+#Chat No.00661 type: NORMALCHAT user: "ぽてお" time: 4:30
+- 草
+#Chat No.00662 type: NORMALCHAT user: "アンパンマンちょこぺろぺろ党" time: 4:33
+- 草
+#Chat No.00663 type: NORMALCHAT user: "ゆきのひ" time: 4:34
+- 草
+#Chat No.00664 type: NORMALCHAT user: "3歳!" time: 4:36
+- メモした
+#Chat No.00665 type: NORMALCHAT user: "#Noob卒業" time: 4:36
+- 交尾?
+#Chat No.00666 type: NORMALCHAT user: "Mk. V" time: 4:37
+- 草
+#Chat No.00667 type: NORMALCHAT user: "シロ色" time: 4:38
+- お主もしや兵庫か？
+#Chat No.00668 type: NORMALCHAT user: "はるすけ_" time: 4:39
+- 今来た。ＢＧＭの主張がアッキーナに負けてなくて草
+#Chat No.00669 type: NORMALCHAT user: "みもざじる" time: 4:41
+- 検索したらおなかすいてきた
+#Chat No.00670 type: NORMALCHAT user: "カワヅ" time: 4:41
+- 神戸行ったら食べるわ
+#Chat No.00671 type: NORMALCHAT user: "のーざん" time: 4:41
+- 今度いく
+#Chat No.00672 type: NORMALCHAT user: "相模相澤 U" time: 4:41
+- 草
+#Chat No.00673 type: NORMALCHAT user: "悠華" time: 4:43
+- 高田馬場の方行ってみるわ
+#Chat No.00674 type: NORMALCHAT user: "ひび" time: 4:44
+- 詳しいなww
+#Chat No.00675 type: NORMALCHAT user: "特になし" time: 4:44
+- へー
+#Chat No.00676 type: NORMALCHAT user: "のーか" time: 4:45
+- そんなに
+#Chat No.00677 type: NORMALCHAT user: "田中太郎" time: 4:46
+- それは関西感あるご飯なの？
+#Chat No.00678 type: NORMALCHAT user: "棚果tanaka" time: 4:46
+- 普通にうまそう
+#Chat No.00679 type: NORMALCHAT user: "もぜ" time: 4:47
+- はぇ～
+#Chat No.00680 type: NORMALCHAT user: "翔空" time: 4:47
+- ほぉ
+#Chat No.00681 type: NORMALCHAT user: "ありんこ。" time: 4:49
+- おいしそう
+#Chat No.00682 type: NORMALCHAT user: "辛位ドビー" time: 4:51
+- 美味そう～！
+#Chat No.00683 type: NORMALCHAT user: "白米" time: 4:51
+- 食べたい
+#Chat No.00684 type: NORMALCHAT user: "みやMAN" time: 4:51
+- 美味そう
+#Chat No.00685 type: NORMALCHAT user: "3歳!" time: 4:52
+- ぼっちで食べた？
+#Chat No.00686 type: NORMALCHAT user: "カワヅ" time: 4:53
+- ローストビーフ丼おいしそ
+#Chat No.00687 type: NORMALCHAT user: "ざざびー" time: 4:54
+- わかる
+#Chat No.00688 type: NORMALCHAT user: "高校性" time: 4:55
+- 多いからいいんだよー
+#Chat No.00689 type: NORMALCHAT user: "黄緑" time: 4:56
+- 何だこの枠！？
+#Chat No.00690 type: NORMALCHAT user: "Osaka" time: 4:56
+- 飽きるのめっちゃわかる
+#Chat No.00691 type: NORMALCHAT user: "三ツ谷天馬" time: 4:58
+- お腹すいてきた
+#Chat No.00692 type: NORMALCHAT user: "郷" time: 4:58
+- 美味しそう
+#Chat No.00693 type: NORMALCHAT user: "れもんぱん" time: 4:58
+- 今度いくわ
+#Chat No.00694 type: NORMALCHAT user: "まい伍" time: 4:59
+- 草
+#Chat No.00695 type: NORMALCHAT user: "廷Ting" time: 4:59
+- 🔥🔥🔥🔥🔥
+#Chat No.00696 type: NORMALCHAT user: "斜め" time: 4:59
+- ほー
+#Chat No.00697 type: NORMALCHAT user: "*のちぱん*" time: 5:00
+- お腹すいてきた
+#Chat No.00698 type: NORMALCHAT user: "ガンダーラおじさん" time: 5:01
+- 明那は神戸より尼崎感
+#Chat No.00699 type: NORMALCHAT user: "T N" time: 5:02
+- たすかる
+#Chat No.00700 type: NORMALCHAT user: "ひとつめ" time: 5:02
+- じゃあ大盛りオススメするな
+#Chat No.00701 type: NORMALCHAT user: "ホオノキアオ" time: 5:04
+- 明那は兵庫って前に言ってたやんね
+#Chat No.00702 type: NORMALCHAT user: "紺野夜半" time: 5:04
+- なるほどね
+#Chat No.00703 type: NORMALCHAT user: "ヨル" time: 5:05
+- 草
+#Chat No.00704 type: NORMALCHAT user: "アンパンマンちょこぺろぺろ党" time: 5:06
+- はーい
+#Chat No.00705 type: NORMALCHAT user: "山口紗輝" time: 5:06
+- 今来た 燃えてる……
+#Chat No.00706 type: NORMALCHAT user: "宇佐見" time: 5:08
+- 並でも飽きるよね
+#Chat No.00707 type: NORMALCHAT user: "柏餅桜餅" time: 5:08
+- 草
+#Chat No.00708 type: NORMALCHAT user: "雪瀬まつり" time: 5:08
+- 草
+#Chat No.00709 type: NORMALCHAT user: "あおはる" time: 5:09
+- 飯テロだ〜〜
+#Chat No.00710 type: NORMALCHAT user: "あさま" time: 5:09
+- いいもんたべてんねえ
+#Chat No.00711 type: NORMALCHAT user: "yuiko" time: 5:11
+- なんか燃えてて草
+#Chat No.00712 type: NORMALCHAT user: "リオレイア" time: 5:12
+- 情報助かる
+#Chat No.00713 type: NORMALCHAT user: "セメントの森" time: 5:12
+- 関西感は特にない
+#Chat No.00714 type: NORMALCHAT user: "郷" time: 5:15
+- ほんとぉ？
+#Chat No.00715 type: NORMALCHAT user: "ざざびー" time: 5:16
+- 見た目でテンション上がって味で落ちる
+#Chat No.00716 type: NORMALCHAT user: "#Noob卒業" time: 5:16
+- 後ろで誰か演奏してる?
+#Chat No.00717 type: NORMALCHAT user: "たぬき汁" time: 5:18
+- 最近寒いから🔥ありがたい
+#Chat No.00718 type: NORMALCHAT user: "ひも" time: 5:18
+- ごはんたべてえらいぞ
+#Chat No.00719 type: NORMALCHAT user: "チョコ甘くね?" time: 5:19
+- 三枝の喋り方癖になんだよな
+#Chat No.00720 type: NORMALCHAT user: "野原さいの" time: 5:19
+- ごはんたべてえらい
+#Chat No.00721 type: NORMALCHAT user: "イチリス" time: 5:21
+- 食いなさいよ
+#Chat No.00722 type: NORMALCHAT user: "廷Ting" time: 5:22
+- 食べてえらい
+#Chat No.00723 type: NORMALCHAT user: "すばる" time: 5:22
+- お腹空いたじゃんバカ痩せたいのに
+#Chat No.00724 type: NORMALCHAT user: "斜め" time: 5:25
+- えらい
+#Chat No.00725 type: NORMALCHAT user: "‰ぱあみる" time: 5:28
+- 
+#Chat No.00726 type: NORMALCHAT user: "sum min" time: 5:28
+- 初見 なにこれ
+#Chat No.00727 type: NORMALCHAT user: "東のロン" time: 5:29
+- 今日のテンション好き
+#Chat No.00728 type: NORMALCHAT user: "リオレイア" time: 5:29
+- えらい
+#Chat No.00729 type: NORMALCHAT user: "乙樽" time: 5:30
+- 朝ごはん食べてる？
+#Chat No.00730 type: NORMALCHAT user: "3歳!" time: 5:31
+- えらい
+#Chat No.00731 type: NORMALCHAT user: "ホオノキアオ" time: 5:31
+- ご飯食べてえらい
+#Chat No.00732 type: NORMALCHAT user: "乃kinomi" time: 5:33
+- みんな関西おいで
+#Chat No.00733 type: NORMALCHAT user: "ねむいo0" time: 5:33
+- ちゃんと食べるのえらい
+#Chat No.00734 type: NORMALCHAT user: "高校性" time: 5:34
+- えらい
+#Chat No.00735 type: NORMALCHAT user: "槙" time: 5:34
+- えらい
+#Chat No.00736 type: NORMALCHAT user: "ナヅキ" time: 5:34
+- ラグビーやな
+#Chat No.00737 type: NORMALCHAT user: "ゆきのひ" time: 5:37
+- ちゃんと食べてえらい
+#Chat No.00738 type: NORMALCHAT user: "iToYa 。" time: 5:38
+- ラグビーやってたねえ
+#Chat No.00739 type: NORMALCHAT user: "たぬき汁" time: 5:38
+- えらい
+#Chat No.00740 type: NORMALCHAT user: "もぜ" time: 5:38
+- そうね
+#Chat No.00741 type: NORMALCHAT user: "郷" time: 5:39
+- もっとご飯食べな！！！！！！！！！
+#Chat No.00742 type: NORMALCHAT user: "HitOMarOひとまろ" time: 5:39
+- えらい
+#Chat No.00743 type: NORMALCHAT user: "Ayako" time: 5:40
+- えらい
+#Chat No.00744 type: NORMALCHAT user: "い" time: 5:43
+- いいもん食えよ
+#Chat No.00745 type: NORMALCHAT user: "野茨" time: 5:52
+- ずっとドコドコ言ってて落ち着かなさすぎる
+#Chat No.00746 type: NORMALCHAT user: "ざざびー" time: 5:52
+- 三宮とか神戸駅めっちゃ外人さんおるよな
+#Chat No.00747 type: NORMALCHAT user: "さばみそ" time: 5:53
+- うしろうるさっ！
+#Chat No.00748 type: NORMALCHAT user: "クラゲクラゲ" time: 6:01
+- bgmやばくて草
+#Chat No.00749 type: NORMALCHAT user: "ねこぱんち" time: 6:05
+- 今北！
+#Chat No.00750 type: NORMALCHAT user: "*のちぱん*" time: 6:09
+- 後ろのﾄﾞｺﾄﾞｺが気になってきた
+#Chat No.00751 type: NORMALCHAT user: "‰ぱあみる" time: 6:10
+- 後ろうるせえww
+#Chat No.00752 type: NORMALCHAT user: "#Noob卒業" time: 6:15
+- 草
+#Chat No.00753 type: NORMALCHAT user: "もぜ" time: 6:17
+- 草
+#Chat No.00754 type: NORMALCHAT user: "まい伍" time: 6:17
+- 草
+#Chat No.00755 type: NORMALCHAT user: "特になし" time: 6:18
+- 草
+#Chat No.00756 type: NORMALCHAT user: "ねこぱんち" time: 6:18
+- 草
+#Chat No.00757 type: NORMALCHAT user: "斜め" time: 6:18
+- 草
+#Chat No.00758 type: NORMALCHAT user: "西瓜" time: 6:19
+- 草
+#Chat No.00759 type: NORMALCHAT user: "ホオノキアオ" time: 6:19
+- Hey Boy！草
+#Chat No.00760 type: NORMALCHAT user: "原色グラデーション" time: 6:20
+- すげぇ。ヘッドホン付けてないのに流れてる音だけでうるせぇ
+#Chat No.00761 type: NORMALCHAT user: "のーか" time: 6:20
+- 草
+#Chat No.00762 type: NORMALCHAT user: "3歳!" time: 6:20
+- 草
+#Chat No.00763 type: NORMALCHAT user: "yamada__" time: 6:20
+- もう草
+#Chat No.00764 type: NORMALCHAT user: "yuiko" time: 6:20
+- 草
+#Chat No.00765 type: NORMALCHAT user: "Ayako" time: 6:21
+- 草
+#Chat No.00766 type: NORMALCHAT user: "よう" time: 6:21
+- 草
+#Chat No.00767 type: NORMALCHAT user: "iToYa 。" time: 6:21
+- 草
+#Chat No.00768 type: NORMALCHAT user: "廷Ting" time: 6:21
+- BGM草
+#Chat No.00769 type: NORMALCHAT user: "夯" time: 6:21
+- 草
+#Chat No.00770 type: NORMALCHAT user: "紺野夜半" time: 6:21
+- 草
+#Chat No.00771 type: NORMALCHAT user: "ヨル" time: 6:22
+- 草
+#Chat No.00772 type: NORMALCHAT user: "あじしお" time: 6:23
+- 草
+#Chat No.00773 type: NORMALCHAT user: "高校性" time: 6:23
+- 陽キャ怖い
+#Chat No.00774 type: NORMALCHAT user: "慧理" time: 6:24
+- 草
+#Chat No.00775 type: NORMALCHAT user: "田中太郎" time: 6:24
+- ナンパ？
+#Chat No.00776 type: NORMALCHAT user: "翔空" time: 6:24
+- 草
+#Chat No.00777 type: NORMALCHAT user: "*のちぱん*" time: 6:25
+- 草
+#Chat No.00778 type: NORMALCHAT user: "0度" time: 6:25
+- 草
+#Chat No.00779 type: NORMALCHAT user: "なこの" time: 6:25
+- 草
+#Chat No.00780 type: NORMALCHAT user: "神速のインパルス" time: 6:26
+- 今来、なにこれ
+#Chat No.00781 type: NORMALCHAT user: "のーざん" time: 6:26
+- 草
+#Chat No.00782 type: NORMALCHAT user: "白米" time: 6:26
+- 草
+#Chat No.00783 type: NORMALCHAT user: "ぽてお" time: 6:27
+- 草
+#Chat No.00784 type: NORMALCHAT user: "ひとつめ" time: 6:27
+- 草
+#Chat No.00785 type: NORMALCHAT user: "相模相澤 U" time: 6:27
+- 草
+#Chat No.00786 type: NORMALCHAT user: "リオレイア" time: 6:27
+- 草
+#Chat No.00787 type: NORMALCHAT user: "椿遠井" time: 6:28
+- 今来たけど圧が凄すぎて草
+#Chat No.00788 type: NORMALCHAT user: "いざかや" time: 6:28
+- 草
+#Chat No.00789 type: NORMALCHAT user: "ねむいo0" time: 6:29
+- 草
+#Chat No.00790 type: NORMALCHAT user: "‰ぱあみる" time: 6:30
+- 草
+#Chat No.00791 type: NORMALCHAT user: "イチリス" time: 6:30
+- 静かに燃える明那
+#Chat No.00792 type: NORMALCHAT user: "にんじん" time: 6:30
+- 草
+#Chat No.00793 type: NORMALCHAT user: "おれこ" time: 6:32
+- ボーイね......
+#Chat No.00794 type: NORMALCHAT user: "クラゲクラゲ" time: 6:33
+- 草
+#Chat No.00795 type: NORMALCHAT user: "たぬき汁" time: 6:33
+- 草
+#Chat No.00796 type: NORMALCHAT user: "はたけ" time: 6:34
+- 草
+#Chat No.00797 type: NORMALCHAT user: "高校性" time: 6:35
+- 草
+#Chat No.00798 type: NORMALCHAT user: "カワサキ" time: 6:35
+- ただの雑談になって草
+#Chat No.00799 type: NORMALCHAT user: "ねむたい" time: 6:35
+- 草
+#Chat No.00800 type: NORMALCHAT user: "ひも" time: 6:35
+- 草
+#Chat No.00801 type: NORMALCHAT user: "あおはる" time: 6:35
+- 草
+#Chat No.00802 type: NORMALCHAT user: "ゆきのひ" time: 6:36
+- 草
+#Chat No.00803 type: NORMALCHAT user: "ありをりはべりいまそかり" time: 6:37
+- 草
+#Chat No.00804 type: NORMALCHAT user: "棚果tanaka" time: 6:39
+- 草
+#Chat No.00805 type: NORMALCHAT user: "しおにみ" time: 6:42
+- 陰キャくん絡まれてるじゃん…
+#Chat No.00806 type: NORMALCHAT user: "ガンダーラおじさん" time: 6:44
+- ナンパだ
+#Chat No.00807 type: NORMALCHAT user: "Osaka" time: 6:44
+- 関西は絡まれがち
+#Chat No.00808 type: NORMALCHAT user: "ホオノキアオ" time: 6:45
+- 草
+#Chat No.00809 type: NORMALCHAT user: "ナヅキ" time: 6:47
+- 草
+#Chat No.00810 type: NORMALCHAT user: "シロ。" time: 6:47
+- 草
+#Chat No.00811 type: NORMALCHAT user: "03" time: 6:48
+- 草
+#Chat No.00812 type: NORMALCHAT user: "うすみや" time: 6:48
+- 草
+#Chat No.00813 type: NORMALCHAT user: "ヨル" time: 6:48
+- 草
+#Chat No.00814 type: NORMALCHAT user: "ききちゃ" time: 6:48
+- 草
+#Chat No.00815 type: NORMALCHAT user: "野原さいの" time: 6:49
+- 草
+#Chat No.00816 type: NORMALCHAT user: "YU-KI" time: 6:49
+- 草
+#Chat No.00817 type: NORMALCHAT user: "ひび" time: 6:49
+- 草
+#Chat No.00818 type: NORMALCHAT user: "iToYa 。" time: 6:49
+- 草
+#Chat No.00819 type: NORMALCHAT user: "千代田" time: 6:49
+- 草
+#Chat No.00820 type: NORMALCHAT user: "ひとつめ" time: 6:50
+- 痛そう
+#Chat No.00821 type: NORMALCHAT user: "米派" time: 6:50
+- 草
+#Chat No.00822 type: NORMALCHAT user: "3歳!" time: 6:50
+- hey boy!
+#Chat No.00823 type: NORMALCHAT user: "いかこ" time: 6:50
+- 草
+#Chat No.00824 type: NORMALCHAT user: "ありんこ。" time: 6:50
+- 草
+#Chat No.00825 type: NORMALCHAT user: "のーか" time: 6:51
+- 草
+#Chat No.00826 type: NORMALCHAT user: "慧理" time: 6:51
+- 草
+#Chat No.00827 type: NORMALCHAT user: "海わかめ" time: 6:52
+- 草
+#Chat No.00828 type: NORMALCHAT user: "#Noob卒業" time: 6:52
+- わかんねーよw
+#Chat No.00829 type: NORMALCHAT user: "翔空" time: 6:52
+- 草
+#Chat No.00830 type: NORMALCHAT user: "もぜ" time: 6:52
+- 草
+#Chat No.00831 type: NORMALCHAT user: "野茨" time: 6:53
+- 草
+#Chat No.00832 type: NORMALCHAT user: "斜め" time: 6:53
+- 草
+#Chat No.00833 type: NORMALCHAT user: "みもざじる" time: 6:53
+- 草
+#Chat No.00834 type: NORMALCHAT user: "ざざびー" time: 6:53
+- 草
+#Chat No.00835 type: NORMALCHAT user: "すず" time: 6:53
+- 草
+#Chat No.00836 type: NORMALCHAT user: "紺野夜半" time: 6:53
+- 草
+#Chat No.00837 type: NORMALCHAT user: "絵コンテ" time: 6:54
+- 草
+#Chat No.00838 type: NORMALCHAT user: "Rindou _" time: 6:54
+- 草
+#Chat No.00839 type: NORMALCHAT user: "ひも" time: 6:54
+- わかんねえよ
+#Chat No.00840 type: NORMALCHAT user: "さくらざわ" time: 6:54
+- 草
+#Chat No.00841 type: NORMALCHAT user: "SYA-しゃ-" time: 6:55
+- 草
+#Chat No.00842 type: NORMALCHAT user: "たぬき汁" time: 6:55
+- detawane！
+#Chat No.00843 type: NORMALCHAT user: "ガチャは悪い文明" time: 6:55
+- 草
+#Chat No.00844 type: NORMALCHAT user: "廷Ting" time: 6:55
+- 草
+#Chat No.00845 type: NORMALCHAT user: "れもんぱん" time: 6:56
+- 草
+#Chat No.00846 type: NORMALCHAT user: "雪瀬まつり" time: 6:56
+- 草
+#Chat No.00847 type: NORMALCHAT user: "よう" time: 6:57
+- 草
+#Chat No.00848 type: NORMALCHAT user: "yamada__" time: 6:57
+- 草
+#Chat No.00849 type: NORMALCHAT user: "こまる" time: 6:58
+- 袖ある？
+#Chat No.00850 type: NORMALCHAT user: "郷" time: 6:58
+- 草
+#Chat No.00851 type: NORMALCHAT user: "ホオノキアオ" time: 6:58
+- バシーッン！！！！！！ってか？
+#Chat No.00852 type: NORMALCHAT user: "はたおりべ" time: 6:59
+- 草
+#Chat No.00853 type: NORMALCHAT user: "*のちぱん*" time: 6:59
+- 草
+#Chat No.00854 type: NORMALCHAT user: "あひる子" time: 6:59
+- 草
+#Chat No.00855 type: NORMALCHAT user: "西瓜" time: 7:00
+- 草
+#Chat No.00856 type: NORMALCHAT user: "にお" time: 7:00
+- 草
+#Chat No.00857 type: NORMALCHAT user: "けい." time: 7:00
+- 草
+#Chat No.00858 type: NORMALCHAT user: "ソニアン" time: 7:00
+- 草
+#Chat No.00859 type: NORMALCHAT user: "3歳!" time: 7:01
+- 草
+#Chat No.00860 type: NORMALCHAT user: "い" time: 7:01
+- 草
+#Chat No.00861 type: NORMALCHAT user: "ひの。" time: 7:01
+- 草
+#Chat No.00862 type: NORMALCHAT user: "クラゲクラゲ" time: 7:02
+- 草
+#Chat No.00863 type: NORMALCHAT user: "リオレイア" time: 7:02
+- 骨折れそう
+#Chat No.00864 type: NORMALCHAT user: "直崎" time: 7:02
+- 草
+#Chat No.00865 type: NORMALCHAT user: "ナヅキ" time: 7:03
+- 右手拾ったけどこれ君のか
+#Chat No.00866 type: NORMALCHAT user: "charo 3" time: 7:03
+- 折れなくてよかったね
+#Chat No.00867 type: NORMALCHAT user: "T N" time: 7:03
+- 草
+#Chat No.00868 type: NORMALCHAT user: "ゆきのひ" time: 7:04
+- 草
+#Chat No.00869 type: NORMALCHAT user: "黒糖侍" time: 7:06
+- 草
+#Chat No.00870 type: NORMALCHAT user: "あさま" time: 7:06
+- oh yeah!
+#Chat No.00871 type: NORMALCHAT user: "いざかや" time: 7:07
+- 関西弁バリバリになってて草
+#Chat No.00872 type: NORMALCHAT user: "甘酒" time: 7:08
+- アッキーナが細すぎるんや
+#Chat No.00873 type: NORMALCHAT user: "‰ぱあみる" time: 7:08
+- パリピこえー
+#Chat No.00874 type: NORMALCHAT user: "特になし" time: 7:08
+- こわいこわい
+#Chat No.00875 type: NORMALCHAT user: "紺野夜半" time: 7:08
+- 痛そう
+#Chat No.00876 type: NORMALCHAT user: "ホオノキアオ" time: 7:08
+- 草
+#Chat No.00877 type: NORMALCHAT user: "げっこーです" time: 7:09
+- 草
+#Chat No.00878 type: NORMALCHAT user: "ひび" time: 7:09
+- テンションww
+#Chat No.00879 type: NORMALCHAT user: "高校性" time: 7:09
+- 草
+#Chat No.00880 type: NORMALCHAT user: "殿" time: 7:11
+- 草
+#Chat No.00881 type: NORMALCHAT user: "ねこぱんち" time: 7:11
+- 草
+#Chat No.00882 type: NORMALCHAT user: "やかん" time: 7:12
+- 草
+#Chat No.00883 type: NORMALCHAT user: "辛位ドビー" time: 7:12
+- 草
+#Chat No.00884 type: NORMALCHAT user: "あじしお" time: 7:12
+- 草
+#Chat No.00885 type: NORMALCHAT user: "斜め" time: 7:12
+- こわｗ
+#Chat No.00886 type: NORMALCHAT user: "はるすけ_" time: 7:13
+- 草
+#Chat No.00887 type: NORMALCHAT user: "もち" time: 7:13
+- 草
+#Chat No.00888 type: NORMALCHAT user: "イチリス" time: 7:14
+- お、おう…ってなるな
+#Chat No.00889 type: NORMALCHAT user: "すばる" time: 7:14
+- ベロッベロやなぁw
+#Chat No.00890 type: NORMALCHAT user: "アンパンマンちょこぺろぺろ党" time: 7:15
+- 草
+#Chat No.00891 type: NORMALCHAT user: "よしの村長" time: 7:16
+- 草
+#Chat No.00892 type: NORMALCHAT user: "のーざん" time: 7:16
+- べりないす
+#Chat No.00893 type: NORMALCHAT user: "ねむいo0" time: 7:17
+- かわいそうで草
+#Chat No.00894 type: NORMALCHAT user: "千代田" time: 7:17
+- 酔ってんね〜
+#Chat No.00895 type: NORMALCHAT user: "クラゲクラゲ" time: 7:18
+- 海外勢陽キャすぎる
+#Chat No.00896 type: NORMALCHAT user: "おやさい" time: 7:19
+- 草
+#Chat No.00897 type: NORMALCHAT user: "3歳!" time: 7:19
+- 困惑する陰キャ
+#Chat No.00898 type: NORMALCHAT user: "SYA-しゃ-" time: 7:19
+- 日本の良さに貢献出来て良かったじゃん
+#Chat No.00899 type: NORMALCHAT user: "45" time: 7:22
+- 草
+#Chat No.00900 type: NORMALCHAT user: "さくらざわ" time: 7:22
+- 草
+#Chat No.00901 type: NORMALCHAT user: "あさま" time: 7:22
+- 陰キャにはきつそうだ
+#Chat No.00902 type: NORMALCHAT user: "野茨" time: 7:23
+- ！？
+#Chat No.00903 type: NORMALCHAT user: "#Noob卒業" time: 7:24
+- あっ
+#Chat No.00904 type: NORMALCHAT user: "リオレイア" time: 7:24
+- ん？
+#Chat No.00905 type: NORMALCHAT user: "翔空" time: 7:26
+- べりぃないす
+#Chat No.00906 type: NORMALCHAT user: "みずち" time: 7:26
+- 草
+#Chat No.00907 type: NORMALCHAT user: "猫村猫吉" time: 7:27
+- あっ
+#Chat No.00908 type: NORMALCHAT user: "もぜ" time: 7:27
+- 草
+#Chat No.00909 type: NORMALCHAT user: "ひも" time: 7:27
+- 草
+#Chat No.00910 type: NORMALCHAT user: "まい伍" time: 7:28
+- 草
+#Chat No.00911 type: NORMALCHAT user: "ホオノキアオ" time: 7:28
+- 草
+#Chat No.00912 type: NORMALCHAT user: "しおにみ" time: 7:29
+- おや…
+#Chat No.00913 type: NORMALCHAT user: "すばる" time: 7:29
+- 草
+#Chat No.00914 type: NORMALCHAT user: "棚果tanaka" time: 7:30
+- こっわ
+#Chat No.00915 type: NORMALCHAT user: "T N" time: 7:30
+- あっ
+#Chat No.00916 type: NORMALCHAT user: "乙樽" time: 7:31
+- ジェームズ！？
+#Chat No.00917 type: NORMALCHAT user: "たぬき汁" time: 7:31
+- 草
+#Chat No.00918 type: NORMALCHAT user: "紅葉饅頭" time: 7:32
+- ｗｗ
+#Chat No.00919 type: NORMALCHAT user: "とっとこROM太郎" time: 7:32
+- あっ…
+#Chat No.00920 type: NORMALCHAT user: "ぬい" time: 7:32
+- ほられる！！
+#Chat No.00921 type: NORMALCHAT user: "ヨル" time: 7:32
+- 草
+#Chat No.00922 type: NORMALCHAT user: "おれこ" time: 7:33
+- くそわろた
+#Chat No.00923 type: NORMALCHAT user: "東のロン" time: 7:33
+- あっ…
+#Chat No.00924 type: NORMALCHAT user: "紺野夜半" time: 7:33
+- やばいやばい
+#Chat No.00925 type: NORMALCHAT user: "うすみや" time: 7:33
+- パリピ怖
+#Chat No.00926 type: NORMALCHAT user: "あおはる" time: 7:33
+- こわ
+#Chat No.00927 type: NORMALCHAT user: "アンパンマンちょこぺろぺろ党" time: 7:34
+- 誘拐じゃん
+#Chat No.00928 type: NORMALCHAT user: "namekuji" time: 7:34
+- 草
+#Chat No.00929 type: NORMALCHAT user: "SYA-しゃ-" time: 7:34
+- あっ…
+#Chat No.00930 type: NORMALCHAT user: "荒やま" time: 7:35
+- 草
+#Chat No.00931 type: NORMALCHAT user: "ガンダーラおじさん" time: 7:35
+- ジェームズだ
+#Chat No.00932 type: NORMALCHAT user: "白米" time: 7:36
+- 危ないw
+#Chat No.00933 type: NORMALCHAT user: "カワサキ" time: 7:36
+- 掘られたのか
+#Chat No.00934 type: NORMALCHAT user: "高校性" time: 7:36
+- 襲われそうになってて草
+#Chat No.00935 type: NORMALCHAT user: "田中太郎" time: 7:36
+- 距離感えぐい
+#Chat No.00936 type: NORMALCHAT user: "いざかや" time: 7:36
+- 草
+#Chat No.00937 type: NORMALCHAT user: "よう" time: 7:36
+- ナンパ草
+#Chat No.00938 type: NORMALCHAT user: "ドッカーノダレッカ" time: 7:37
+- アッー
+#Chat No.00939 type: NORMALCHAT user: "#Noob卒業" time: 7:38
+- 草
+#Chat No.00940 type: NORMALCHAT user: "ぽてお" time: 7:38
+- 草
+#Chat No.00941 type: NORMALCHAT user: "絵コンテ" time: 7:38
+- ショタコンが外国人に食われる図
+#Chat No.00942 type: NORMALCHAT user: "けい." time: 7:38
+- 草
+#Chat No.00943 type: NORMALCHAT user: "ひとつめ" time: 7:38
+- 草
+#Chat No.00944 type: NORMALCHAT user: "なこの" time: 7:39
+- 草
+#Chat No.00945 type: NORMALCHAT user: "おーでん" time: 7:39
+- 草
+#Chat No.00946 type: NORMALCHAT user: "YU-KI" time: 7:39
+- 草
+#Chat No.00947 type: NORMALCHAT user: "れもんぱん" time: 7:39
+- 草
+#Chat No.00948 type: NORMALCHAT user: "千代田" time: 7:39
+- 草
+#Chat No.00949 type: NORMALCHAT user: "SYA-しゃ-" time: 7:39
+- 草
+#Chat No.00950 type: NORMALCHAT user: "ざざびー" time: 7:39
+- 草
+#Chat No.00951 type: NORMALCHAT user: "iToYa 。" time: 7:39
+- ラストバス草
+#Chat No.00952 type: NORMALCHAT user: "氷上雪乃" time: 7:39
+- 草
+#Chat No.00953 type: NORMALCHAT user: "ありんこ。" time: 7:39
+- 草
+#Chat No.00954 type: NORMALCHAT user: "ruiy" time: 7:39
+- 草
+#Chat No.00955 type: NORMALCHAT user: "ぬい" time: 7:39
+- らすとばす！！！！
+#Chat No.00956 type: NORMALCHAT user: "イチリス" time: 7:39
+- あいむらすとばす
+#Chat No.00957 type: NORMALCHAT user: "翔空" time: 7:39
+- 草
+#Chat No.00958 type: NORMALCHAT user: "郷" time: 7:40
+- あっ……
+#Chat No.00959 type: NORMALCHAT user: "米派" time: 7:40
+- 草
+#Chat No.00960 type: NORMALCHAT user: "山口紗輝" time: 7:40
+- 草
+#Chat No.00961 type: NORMALCHAT user: "ねむいo0" time: 7:41
+- ！？
+#Chat No.00962 type: NORMALCHAT user: "いざかや" time: 7:41
+- よく帰ってきた
+#Chat No.00963 type: NORMALCHAT user: "悠華" time: 7:41
+- バスで帰ってきたの？
+#Chat No.00964 type: NORMALCHAT user: "HitOMarOひとまろ" time: 7:41
+- 草
+#Chat No.00965 type: NORMALCHAT user: "はたけ" time: 7:42
+- 草
+#Chat No.00966 type: NORMALCHAT user: "始発" time: 7:42
+- ﾗｽﾄﾊﾞｽ！
+#Chat No.00967 type: NORMALCHAT user: "*のちぱん*" time: 7:43
+- 草
+#Chat No.00968 type: NORMALCHAT user: "野原さいの" time: 7:43
+- ラストバス草
+#Chat No.00969 type: NORMALCHAT user: "あさま" time: 7:43
+- ラストバスｗｗ
+#Chat No.00970 type: NORMALCHAT user: "特になし" time: 7:43
+- 声だしてワロタ
+#Chat No.00971 type: NORMALCHAT user: "Osaka" time: 7:44
+- I`m last Bus!
+#Chat No.00972 type: NORMALCHAT user: "まい伍" time: 7:44
+- 私は最後のバスです
+#Chat No.00973 type: NORMALCHAT user: "あじしお" time: 7:45
+- 草
+#Chat No.00974 type: NORMALCHAT user: "よしの村長" time: 7:45
+- ナンパされてて草
+#Chat No.00975 type: NORMALCHAT user: "Ka Ya" time: 7:45
+- 草
+#Chat No.00976 type: NORMALCHAT user: "0度" time: 7:45
+- ラストバス！！
+#Chat No.00977 type: NORMALCHAT user: "ナツヲ" time: 7:45
+- 草
+#Chat No.00978 type: NORMALCHAT user: "Ayako" time: 7:45
+- あっ…
+#Chat No.00979 type: NORMALCHAT user: "野茨" time: 7:46
+- ジェームズだ
+#Chat No.00980 type: NORMALCHAT user: "辛位ドビー" time: 7:46
+- ナンパやんけ
+#Chat No.00981 type: NORMALCHAT user: "すみか" time: 7:46
+- 草
+#Chat No.00982 type: NORMALCHAT user: "クウォータータルト" time: 7:46
+- 筋トレ始めちゃう？
+#Chat No.00983 type: NORMALCHAT user: "棚果tanaka" time: 7:47
+- 草
+#Chat No.00984 type: NORMALCHAT user: "みもざじる" time: 7:47
+- あいむらすとばす
+#Chat No.00985 type: NORMALCHAT user: "アリ" time: 7:47
+- らすとばす
+#Chat No.00986 type: NORMALCHAT user: "S K" time: 7:48
+- 草
+#Chat No.00987 type: NORMALCHAT user: "うすみや" time: 7:48
+- ナンパやんけ………
+#Chat No.00988 type: NORMALCHAT user: "3歳!" time: 7:49
+- 俺は最後のバス！！！！
+#Chat No.00989 type: NORMALCHAT user: "廷Ting" time: 7:49
+- BGM再来
+#Chat No.00990 type: NORMALCHAT user: "SYA-しゃ-" time: 7:49
+- それジョンニキ説
+#Chat No.00991 type: NORMALCHAT user: "槙" time: 7:49
+- ナンパ…？
+#Chat No.00992 type: NORMALCHAT user: "西瓜" time: 7:49
+- I'm last Bus!!!
+#Chat No.00993 type: NORMALCHAT user: "ゆきち" time: 7:49
+- アイムラストバス？
+#Chat No.00994 type: NORMALCHAT user: "リオレイア" time: 7:50
+- 貞操守れてえらい
+#Chat No.00995 type: NORMALCHAT user: "相模相澤 U" time: 7:50
+- 草
+#Chat No.00996 type: NORMALCHAT user: "さくらざわ" time: 7:50
+- 草
+#Chat No.00997 type: NORMALCHAT user: "翔空" time: 7:51
+- 貞操守れた？
+#Chat No.00998 type: NORMALCHAT user: "慧理" time: 7:51
+- 草
+#Chat No.00999 type: NORMALCHAT user: "三ツ谷天馬" time: 7:52
+- 東京ってすごいんだな
+#Chat No.01000 type: NORMALCHAT user: "い" time: 7:53
+- ﾋｴｯ
+#Chat No.01001 type: NORMALCHAT user: "郷" time: 7:53
+- ラストバス！ww
+#Chat No.01002 type: NORMALCHAT user: "こげた" time: 7:54
+- 草
+#Chat No.01003 type: NORMALCHAT user: "ホオノキアオ" time: 7:54
+- わろた
+#Chat No.01004 type: NORMALCHAT user: "ねむいo0" time: 7:54
+- あぶない
+#Chat No.01005 type: NORMALCHAT user: "ざざびー" time: 7:55
+- きんにくんされてそう
+#Chat No.01006 type: NORMALCHAT user: "ラムネ" time: 7:55
+- アイムラストバスは草
+#Chat No.01007 type: NORMALCHAT user: "はやし" time: 7:56
+- アイムラストバス！！！
+#Chat No.01008 type: NORMALCHAT user: "youkan" time: 7:56
+- ﾆｸﾝ…
+#Chat No.01009 type: NORMALCHAT user: "ヨル" time: 7:56
+- 草
+#Chat No.01010 type: NORMALCHAT user: "すず" time: 7:57
+- 草すぎ
+#Chat No.01011 type: NORMALCHAT user: "柏餅桜餅" time: 7:57
+- 草
+#Chat No.01012 type: NORMALCHAT user: "ききちゃ" time: 7:57
+- 帰れてよかったね
+#Chat No.01013 type: NORMALCHAT user: "れいじ" time: 7:58
+- i'm last bus は草
+#Chat No.01014 type: NORMALCHAT user: "とっとこROM太郎" time: 7:59
+- 食物連鎖か？
+#Chat No.01015 type: NORMALCHAT user: "もぜ" time: 8:00
+- 草
+#Chat No.01016 type: NORMALCHAT user: "おやさい" time: 8:00
+- 帰れてえらい
+#Chat No.01017 type: NORMALCHAT user: "あさま" time: 8:00
+- last busは意味違いそうだがｗ
+#Chat No.01018 type: NORMALCHAT user: "うすみや" time: 8:01
+- 帰れてえらい
+#Chat No.01019 type: NORMALCHAT user: "*のちぱん*" time: 8:02
+- 電車ですらなくて草
+#Chat No.01020 type: NORMALCHAT user: "こまる" time: 8:02
+- ラストトレイン
+#Chat No.01021 type: NORMALCHAT user: "#Noob卒業" time: 8:02
+- 最後のバス草
+#Chat No.01022 type: NORMALCHAT user: "ぬい" time: 8:03
+- どういう意味に聞こえたんだろうｗ
+#Chat No.01023 type: NORMALCHAT user: "3歳!" time: 8:05
+- 外人は多分それでわかる
+#Chat No.01024 type: NORMALCHAT user: "た" time: 8:05
+- 草
+#Chat No.01025 type: NORMALCHAT user: "いちにのさんすう" time: 8:05
+- 電車でもなくて草
+#Chat No.01026 type: NORMALCHAT user: "いざかや" time: 8:07
+- 無事に良く帰ってこれた
+#Chat No.01027 type: NORMALCHAT user: "ホオノキアオ" time: 8:07
+- ラストバス！！！！
+#Chat No.01028 type: NORMALCHAT user: "たぬき汁" time: 8:07
+- 草
+#Chat No.01029 type: NORMALCHAT user: "すみか" time: 8:07
+- ラストバスは草
+#Chat No.01030 type: NORMALCHAT user: "紺野夜半" time: 8:08
+- 無事でよかった
+#Chat No.01031 type: NORMALCHAT user: "ざわめ" time: 8:08
+- なんのBGMだコレ
+#Chat No.01032 type: NORMALCHAT user: "ありんこ。" time: 8:09
+- おつかれw
+#Chat No.01033 type: NORMALCHAT user: "殿" time: 8:10
+- Last Bus!
+#Chat No.01034 type: NORMALCHAT user: "高校性" time: 8:12
+- trainって言えよw
+#Chat No.01035 type: NORMALCHAT user: "S K" time: 8:15
+- 都会怖いわ
+#Chat No.01036 type: NORMALCHAT user: "たぬき汁" time: 8:16
+- BGMおかえり
+#Chat No.01037 type: NORMALCHAT user: "田中太郎" time: 8:20
+- わかった
+#Chat No.01038 type: NORMALCHAT user: "クラゲクラゲ" time: 8:21
+- めっちゃ草
+#Chat No.01039 type: NORMALCHAT user: "西瓜" time: 8:22
+- 草
+#Chat No.01040 type: NORMALCHAT user: "斜め" time: 8:25
+- 草
+#Chat No.01041 type: NORMALCHAT user: "ゆきのひ" time: 8:25
+- 危なかったな
+#Chat No.01042 type: NORMALCHAT user: "ひとつめ" time: 8:25
+- ためになった
+#Chat No.01043 type: NORMALCHAT user: "にお" time: 8:26
+- とりあえず無事でよかった
+#Chat No.01044 type: NORMALCHAT user: "みやMAN" time: 8:27
+- 草
+#Chat No.01045 type: NORMALCHAT user: "東のロン" time: 8:29
+- 小さいから…
+#Chat No.01046 type: NORMALCHAT user: "ひの。" time: 8:29
+- 帰って来れてよかったね
+#Chat No.01047 type: NORMALCHAT user: "‰ぱあみる" time: 8:29
+- ラストバス！！！！って言うのね覚えた
+#Chat No.01048 type: NORMALCHAT user: "ホオノキアオ" time: 8:30
+- 俺は最後のバス！！！！！
+#Chat No.01049 type: NORMALCHAT user: "イチリス" time: 8:31
+- (右腕が)持ってかれた…！
+#Chat No.01050 type: SUPERCHAT user: "くろっく96" time: 8:32 amount: ￥500
+- 危機管理偉い
+#Chat No.01051 type: NORMALCHAT user: "リオレイア" time: 8:33
+- 草
+#Chat No.01052 type: NORMALCHAT user: "辛位ドビー" time: 8:33
+- ねこ？！！
+#Chat No.01053 type: NORMALCHAT user: "ナヅキ" time: 8:33
+- 草
+#Chat No.01054 type: NORMALCHAT user: "Osaka" time: 8:33
+- あるある
+#Chat No.01055 type: NORMALCHAT user: "ひび" time: 8:33
+- 草
+#Chat No.01056 type: NORMALCHAT user: "SYA-しゃ-" time: 8:34
+- 草
+#Chat No.01057 type: NORMALCHAT user: "のーざん" time: 8:34
+- 草
+#Chat No.01058 type: NORMALCHAT user: "クラゲクラゲ" time: 8:34
+- かわいそう
+#Chat No.01059 type: NORMALCHAT user: "もぜ" time: 8:34
+- かわいそう
+#Chat No.01060 type: NORMALCHAT user: "すばる" time: 8:34
+- 草
+#Chat No.01061 type: NORMALCHAT user: "千代田" time: 8:34
+- 草
+#Chat No.01062 type: NORMALCHAT user: "ひとつめ" time: 8:34
+- 草
+#Chat No.01063 type: NORMALCHAT user: "れもんぱん" time: 8:35
+- 草
+#Chat No.01064 type: NORMALCHAT user: "fukuin" time: 8:35
+- 草
+#Chat No.01065 type: NORMALCHAT user: "まい伍" time: 8:35
+- 草
+#Chat No.01066 type: NORMALCHAT user: "野原さいの" time: 8:35
+- 草
+#Chat No.01067 type: NORMALCHAT user: "iToYa 。" time: 8:35
+- 草
+#Chat No.01068 type: NORMALCHAT user: "T N" time: 8:35
+- 草
+#Chat No.01069 type: NORMALCHAT user: "悠華" time: 8:35
+- ウケる
+#Chat No.01070 type: NORMALCHAT user: "*のちぱん*" time: 8:35
+- 悲しい
+#Chat No.01071 type: NORMALCHAT user: "はるすけ_" time: 8:36
+- 草
+#Chat No.01072 type: NORMALCHAT user: "いちにのさんすう" time: 8:36
+- 草
+#Chat No.01073 type: NORMALCHAT user: "SYA-しゃ-" time: 8:37
+- 悲しい
+#Chat No.01074 type: NORMALCHAT user: "にお" time: 8:37
+- かわいそう
+#Chat No.01075 type: NORMALCHAT user: "紺野夜半" time: 8:37
+- かわいそう
+#Chat No.01076 type: NORMALCHAT user: "こまる" time: 8:37
+- 楽しそう
+#Chat No.01077 type: NORMALCHAT user: "あじしお" time: 8:37
+- 草
+#Chat No.01078 type: NORMALCHAT user: "斜め" time: 8:37
+- あるある
+#Chat No.01079 type: NORMALCHAT user: "おん" time: 8:38
+- ねこ！！！
+#Chat No.01080 type: NORMALCHAT user: "3歳!" time: 8:38
+- 可哀想で草
+#Chat No.01081 type: NORMALCHAT user: "よう" time: 8:39
+- 悲しい
+#Chat No.01082 type: NORMALCHAT user: "郷" time: 8:40
+- かわいそう……
+#Chat No.01083 type: NORMALCHAT user: "ホオノキアオ" time: 8:40
+- 猫に顔忘れられるの悲しい
+#Chat No.01084 type: NORMALCHAT user: "棚果tanaka" time: 8:40
+- かなしい
+#Chat No.01085 type: NORMALCHAT user: "あおはる" time: 8:40
+- 草
+#Chat No.01086 type: NORMALCHAT user: "ひも" time: 8:40
+- かなしいねえ
+#Chat No.01087 type: NORMALCHAT user: "0度" time: 8:41
+- 草
+#Chat No.01088 type: NORMALCHAT user: "のーか" time: 8:41
+- 草
+#Chat No.01089 type: NORMALCHAT user: "甘酒" time: 8:41
+- かわいそう
+#Chat No.01090 type: NORMALCHAT user: "紅葉饅頭" time: 8:42
+- oh...
+#Chat No.01091 type: NORMALCHAT user: "さくらざわ" time: 8:42
+- 草
+#Chat No.01092 type: NORMALCHAT user: "すみか" time: 8:42
+- 悲しい
+#Chat No.01093 type: NORMALCHAT user: "高校性" time: 8:42
+- 泣くなよ
+#Chat No.01094 type: NORMALCHAT user: "03" time: 8:43
+- ; ;
+#Chat No.01095 type: NORMALCHAT user: "カワサキ" time: 8:43
+- 泣かないで
+#Chat No.01096 type: NORMALCHAT user: "HitOMarOひとまろ" time: 8:44
+- かわいい
+#Chat No.01097 type: NORMALCHAT user: "いがっち" time: 8:45
+- 深夜テンションやべぇw
+#Chat No.01098 type: NORMALCHAT user: "海苔海苔" time: 8:45
+- なんだこれ
+#Chat No.01099 type: NORMALCHAT user: "うみなり" time: 8:45
+- 草
+#Chat No.01100 type: NORMALCHAT user: "山口紗輝" time: 8:45
+- ；；
+#Chat No.01101 type: NORMALCHAT user: "翔空" time: 8:45
+- 悲しいなw
+#Chat No.01102 type: NORMALCHAT user: "さかな." time: 8:46
+- あー悲しい！！！！！！！！
+#Chat No.01103 type: NORMALCHAT user: "柏餅桜餅" time: 8:47
+- 草
+#Chat No.01104 type: NORMALCHAT user: "しおにみ" time: 8:47
+- 猫様は厳しいからな
+#Chat No.01105 type: NORMALCHAT user: "おーでん" time: 8:47
+- ねこ草
+#Chat No.01106 type: NORMALCHAT user: "なこの" time: 8:47
+- かなしい
+#Chat No.01107 type: NORMALCHAT user: "ぽてお" time: 8:47
+- かわいそう
+#Chat No.01108 type: NORMALCHAT user: "うすみや" time: 8:47
+- ウケる
+#Chat No.01109 type: NORMALCHAT user: "いろ" time: 8:49
+- 草
+#Chat No.01110 type: NORMALCHAT user: "たぬき汁" time: 8:49
+- かわいそう
+#Chat No.01111 type: NORMALCHAT user: "い" time: 8:49
+- 草
+#Chat No.01112 type: NORMALCHAT user: "ヨル" time: 8:49
+- かなし
+#Chat No.01113 type: NORMALCHAT user: "ゆきゆきね" time: 8:49
+- 草
+#Chat No.01114 type: NORMALCHAT user: "しそ" time: 8:49
+- 猫そのままで草
+#Chat No.01115 type: NORMALCHAT user: "廷Ting" time: 8:50
+- かなしい
+#Chat No.01116 type: NORMALCHAT user: "もちお" time: 8:50
+- 仮名？？
+#Chat No.01117 type: NORMALCHAT user: "ミラジョボ" time: 8:51
+- 汗どう？
+#Chat No.01118 type: NORMALCHAT user: "はたけ" time: 8:51
+- 辛いな
+#Chat No.01119 type: NORMALCHAT user: "もち" time: 8:52
+- 草
+#Chat No.01120 type: NORMALCHAT user: "けい." time: 8:52
+- 悲しい
+#Chat No.01121 type: NORMALCHAT user: "ゆきのひ" time: 8:52
+- 悲しい
+#Chat No.01122 type: NORMALCHAT user: "直崎" time: 8:53
+- かなしいな
+#Chat No.01123 type: NORMALCHAT user: "なたね" time: 8:53
+- かなしい0…
+#Chat No.01124 type: NORMALCHAT user: "槙" time: 8:53
+- 悲しい……
+#Chat No.01125 type: NORMALCHAT user: "ねむいo0" time: 8:53
+- かわいそう
+#Chat No.01126 type: NORMALCHAT user: "まい伍" time: 8:53
+- かなしいね...
+#Chat No.01127 type: NORMALCHAT user: "あじしお" time: 8:53
+- ねこちゃんかわいいな
+#Chat No.01128 type: NORMALCHAT user: "ぬい" time: 8:53
+- たぶんにおいがいつもと違っただけだよｗ
+#Chat No.01129 type: NORMALCHAT user: "野茨" time: 8:53
+- かなしい
+#Chat No.01130 type: NORMALCHAT user: "youkan" time: 8:54
+- 飼い猫の個人情報を守る飼い主の鑑
+#Chat No.01131 type: NORMALCHAT user: "Ka Ya" time: 8:54
+- かなしい
+#Chat No.01132 type: NORMALCHAT user: "ちいずショ糖" time: 8:54
+- それ拗ねてるだけかもw
+#Chat No.01133 type: NORMALCHAT user: "おれこ" time: 8:54
+- かわいそう助かる
+#Chat No.01134 type: NORMALCHAT user: "namekuji" time: 8:54
+- 草
+#Chat No.01135 type: NORMALCHAT user: "さくらざわ" time: 8:55
+- かわいそう
+#Chat No.01136 type: NORMALCHAT user: "ホオノキアオ" time: 8:55
+- 悲しすぎる
+#Chat No.01137 type: NORMALCHAT user: "はるすけ_" time: 8:56
+- 悲しいけど草
+#Chat No.01138 type: NORMALCHAT user: "Ayako" time: 8:57
+- かなしい
+#Chat No.01139 type: NORMALCHAT user: "イチリス" time: 8:58
+- ネコトモあるやろ
+#Chat No.01140 type: NORMALCHAT user: "秋の七草" time: 8:58
+- 泣けるｗ
+#Chat No.01141 type: NORMALCHAT user: "殿" time: 8:58
+- かなしいねえ
+#Chat No.01142 type: NORMALCHAT user: "セメントの森" time: 8:59
+- かなしいね
+#Chat No.01143 type: NORMALCHAT user: "‰ぱあみる" time: 8:59
+- かなしいなあ
+#Chat No.01144 type: NORMALCHAT user: "絵コンテ" time: 8:59
+- 猫飼いあるある
+#Chat No.01145 type: NORMALCHAT user: "ありをりはべりいまそかり" time: 9:00
+- かなしい
+#Chat No.01146 type: NORMALCHAT user: "Mk. V" time: 9:00
+- 涙ふけよ
+#Chat No.01147 type: NORMALCHAT user: "ヨル" time: 9:00
+- 草
+#Chat No.01148 type: NORMALCHAT user: "千代田" time: 9:00
+- 草
+#Chat No.01149 type: NORMALCHAT user: "廷Ting" time: 9:00
+- オーーネコ！
+#Chat No.01150 type: NORMALCHAT user: "槙" time: 9:00
+- 泣かないで
+#Chat No.01151 type: NORMALCHAT user: "悠華" time: 9:00
+- 汚い
+#Chat No.01152 type: NORMALCHAT user: "もぜ" time: 9:01
+- かなしいね…
+#Chat No.01153 type: NORMALCHAT user: "よしの村長" time: 9:03
+- (；ω；)
+#Chat No.01154 type: NORMALCHAT user: "さかな." time: 9:03
+- つらい…
+#Chat No.01155 type: NORMALCHAT user: "みもざじる" time: 9:03
+- ちくしょうw
+#Chat No.01156 type: NORMALCHAT user: "すず" time: 9:03
+- かなしい
+#Chat No.01157 type: NORMALCHAT user: "いろ" time: 9:04
+- きたないぞ
+#Chat No.01158 type: NORMALCHAT user: "棚果tanaka" time: 9:04
+- 草
+#Chat No.01159 type: NORMALCHAT user: "いざかや" time: 9:04
+- 畜生草
+#Chat No.01160 type: NORMALCHAT user: "森野熊" time: 9:05
+- 一番猫が嫌がる立ち回り・・・流石大型犬
+#Chat No.01161 type: NORMALCHAT user: "*のちぱん*" time: 9:06
+- うるさいからか
+#Chat No.01162 type: NORMALCHAT user: "カワサキ" time: 9:06
+- ねこ(仮名)
+#Chat No.01163 type: NORMALCHAT user: "もぜ" time: 9:07
+- 畜生って言ったルナ
+#Chat No.01164 type: NORMALCHAT user: "ピエロール" time: 9:07
+- 今来た、何このBGM！？！？
+#Chat No.01165 type: NORMALCHAT user: "ぬい" time: 9:07
+- うるさいから好かれないはある
+#Chat No.01166 type: NORMALCHAT user: "紺野夜半" time: 9:08
+- 草
+#Chat No.01167 type: NORMALCHAT user: "まい伍" time: 9:08
+- うるさすぎたか
+#Chat No.01168 type: NORMALCHAT user: "田中太郎" time: 9:10
+- 人間のガキにも嫌われる
+#Chat No.01169 type: NORMALCHAT user: "斜め" time: 9:10
+- 畜生草
+#Chat No.01170 type: NORMALCHAT user: "雪瀬まつり" time: 9:11
+- 猫ツンデレなんだよ
+#Chat No.01171 type: NORMALCHAT user: "すばる" time: 9:12
+- うるさい自覚あって安心したわ
+#Chat No.01172 type: NORMALCHAT user: "西瓜" time: 9:13
+- 大型犬だから・・・
+#Chat No.01173 type: NORMALCHAT user: "なーさん" time: 9:14
+- 今北、背景サウナ？
+#Chat No.01174 type: NORMALCHAT user: "Mk. V" time: 9:14
+- 実家でもそのテンションなのか
+#Chat No.01175 type: NORMALCHAT user: "高校性" time: 9:14
+- かまいすぎるんじゃない？
+#Chat No.01176 type: NORMALCHAT user: "みやMAN" time: 9:15
+- 持っていかれた…！
+#Chat No.01177 type: NORMALCHAT user: "お吸い物" time: 9:15
+- 悲しいねぇ
+#Chat No.01178 type: NORMALCHAT user: "とっとこROM太郎" time: 9:16
+- ネコトモがいるだろ
+#Chat No.01179 type: NORMALCHAT user: "ガンダーラおじさん" time: 9:17
+- ネコのプライバシーを守る飼い主の鑑
+#Chat No.01180 type: NORMALCHAT user: "三ツ谷天馬" time: 9:18
+- おいぬは遊んでくれる人が好きだぞ
+#Chat No.01181 type: NORMALCHAT user: "野茨" time: 9:20
+- 猫はうるさい人ダメよな……
+#Chat No.01182 type: NORMALCHAT user: "youkan" time: 9:21
+- 盆帰ってないのかよ
+#Chat No.01183 type: NORMALCHAT user: "らいあ" time: 9:23
+- やっほ
+#Chat No.01184 type: NORMALCHAT user: "yamada__" time: 9:24
+- ネコトモの罪がバレてるんだぞ
+#Chat No.01185 type: NORMALCHAT user: "しおにみ" time: 9:26
+- 唐辛子の刺激は犬猫に厳しい
+#Chat No.01186 type: NORMALCHAT user: "まい伍" time: 9:30
+- 草
+#Chat No.01187 type: NORMALCHAT user: "クラゲクラゲ" time: 9:30
+- 泣くなよ
+#Chat No.01188 type: NORMALCHAT user: "リオレイア" time: 9:31
+- ネコトモやるしかないな
+#Chat No.01189 type: NORMALCHAT user: "あさま" time: 9:32
+- あーそうなんだ
+#Chat No.01190 type: NORMALCHAT user: "くろっく96" time: 9:32
+- 現住所で猫飼ってるのかと思った
+#Chat No.01191 type: NORMALCHAT user: "みやMAN" time: 9:32
+- そんなもんよw
+#Chat No.01192 type: NORMALCHAT user: "いざかや" time: 9:32
+- かなしいなぁ…
+#Chat No.01193 type: NORMALCHAT user: "ヨル" time: 9:32
+- 悲しいよな
+#Chat No.01194 type: NORMALCHAT user: "げっこーです" time: 9:33
+- 草
+#Chat No.01195 type: NORMALCHAT user: "3歳!" time: 9:33
+- 草
+#Chat No.01196 type: NORMALCHAT user: "千代田" time: 9:33
+- ドンマイ…
+#Chat No.01197 type: NORMALCHAT user: "アンパンマンちょこぺろぺろ党" time: 9:33
+- 猫は結構忘れるよな
+#Chat No.01198 type: NORMALCHAT user: "悠華" time: 9:35
+- わかる
+#Chat No.01199 type: NORMALCHAT user: "こまる" time: 9:35
+- 配信見てるんじゃない？
+#Chat No.01200 type: NORMALCHAT user: "野原さいの" time: 9:35
+- わかるわ
+#Chat No.01201 type: NORMALCHAT user: "ひび" time: 9:36
+- 草
+#Chat No.01202 type: NORMALCHAT user: "絵コンテ" time: 9:37
+- わかる！！！！！！！
+#Chat No.01203 type: NORMALCHAT user: "甘酒" time: 9:37
+- もう過去の男なんだよ
+#Chat No.01204 type: NORMALCHAT user: "ちいずショ糖" time: 9:37
+- わかる
+#Chat No.01205 type: NORMALCHAT user: "もぜ" time: 9:37
+- ﾈｯｺ…
+#Chat No.01206 type: NORMALCHAT user: "イチリス" time: 9:38
+- でも興奮したんでしょう？
+#Chat No.01207 type: NORMALCHAT user: "*のちぱん*" time: 9:38
+- ネコトモ
+#Chat No.01208 type: NORMALCHAT user: "michika" time: 9:39
+- わかる
+#Chat No.01209 type: NORMALCHAT user: "ありんこ。" time: 9:41
+- 泣いてもいいぞ
+#Chat No.01210 type: NORMALCHAT user: "た" time: 9:41
+- ゴミはつらいな…
+#Chat No.01211 type: NORMALCHAT user: "斜め" time: 9:43
+- わかる
+#Chat No.01212 type: NORMALCHAT user: "さわらび" time: 9:43
+- かなしいなぁ
+#Chat No.01213 type: NORMALCHAT user: "はるすけ_" time: 9:48
+- 宇宙猫みたいな顔してそう
+#Chat No.01214 type: NORMALCHAT user: "ゆきのひ" time: 9:48
+- うわつら
+#Chat No.01215 type: NORMALCHAT user: "あじしお" time: 9:49
+- かなしいなぁ…
+#Chat No.01216 type: NORMALCHAT user: "廷Ting" time: 9:50
+- 浮気バレた
+#Chat No.01217 type: NORMALCHAT user: "郷" time: 9:50
+- ネコトモ透けてんな
+#Chat No.01218 type: NORMALCHAT user: "犬" time: 9:51
+- ネコチャンかわいいね
+#Chat No.01219 type: NORMALCHAT user: "たぬき汁" time: 9:52
+- 草
+#Chat No.01220 type: NORMALCHAT user: "棚果tanaka" time: 9:53
+- ネコトモで癒されようぜ
+#Chat No.01221 type: NORMALCHAT user: "セメントの森" time: 9:54
+- 猫にもそんな顔されるのかなしいなぁ
+#Chat No.01222 type: NORMALCHAT user: "絵コンテ" time: 9:54
+- あいつら中に人間入ってるよね
+#Chat No.01223 type: NORMALCHAT user: "yuiko" time: 9:54
+- ネコトモ。。。
+#Chat No.01224 type: NORMALCHAT user: "慧理" time: 9:56
+- せつねぇ
+#Chat No.01225 type: NORMALCHAT user: "おん" time: 9:57
+- つらいね
+#Chat No.01226 type: NORMALCHAT user: "西瓜" time: 9:58
+- ネコトモのツケが回ってきたな
+#Chat No.01227 type: NORMALCHAT user: "いろ" time: 9:58
+- ネコトモの罪
+#Chat No.01228 type: NORMALCHAT user: "3歳!" time: 9:58
+- 自分の胸に手を当ててみな
+#Chat No.01229 type: NORMALCHAT user: "yamada__" time: 9:59
+- 猫がネコトモ配信見てんだぞ
+#Chat No.01230 type: NORMALCHAT user: "三ツ谷天馬" time: 10:00
+- かわいそう
+#Chat No.01231 type: NORMALCHAT user: "紺野夜半" time: 10:01
+- ネコトモがばれたな
+#Chat No.01232 type: NORMALCHAT user: "‰ぱあみる" time: 10:01
+- 泣かないで
+#Chat No.01233 type: SUPERCHAT user: "ホオノキアオ" time: 10:01 amount: ￥250
+- ほかの猫にうつつを抜かしてるのがバレてるんだよ…
+#Chat No.01234 type: NORMALCHAT user: "アリ" time: 10:02
+- うちの猫は3日で忘れてた
+#Chat No.01235 type: NORMALCHAT user: "もぜ" time: 10:02
+- ヘラるな
+#Chat No.01236 type: NORMALCHAT user: "いざかや" time: 10:02
+- 猫の冷たい顔は分かりやすい
+#Chat No.01237 type: NORMALCHAT user: "悠華" time: 10:02
+- 逝くな
+#Chat No.01238 type: NORMALCHAT user: "ゆきゆきね" time: 10:03
+- ネッコ｢お前誰や｣
+#Chat No.01239 type: NORMALCHAT user: "ひび" time: 10:03
+- やば
+#Chat No.01240 type: NORMALCHAT user: "みやMAN" time: 10:04
+- せつないね
+#Chat No.01241 type: NORMALCHAT user: "ひとつめ" time: 10:05
+- こわ
+#Chat No.01242 type: NORMALCHAT user: "特になし" time: 10:05
+- 3本あるんか…
+#Chat No.01243 type: NORMALCHAT user: "りり" time: 10:05
+- メンヘラあきな
+#Chat No.01244 type: NORMALCHAT user: "うすみや" time: 10:06
+- サウナ行こうな………
+#Chat No.01245 type: NORMALCHAT user: "カワサキ" time: 10:06
+- アッキーナオルタ
+#Chat No.01246 type: NORMALCHAT user: "ナヅキ" time: 10:07
+- 結構いってて草
+#Chat No.01247 type: NORMALCHAT user: "ひも" time: 10:07
+- は？
+#Chat No.01248 type: NORMALCHAT user: "いざかや" time: 10:07
+- 草
+#Chat No.01249 type: NORMALCHAT user: "野原さいの" time: 10:07
+- 手首何個あるんだよ
+#Chat No.01250 type: NORMALCHAT user: "youkan" time: 10:07
+- ねこ（仮名）からしたら過去の男なんだよな
+#Chat No.01251 type: NORMALCHAT user: "紺野夜半" time: 10:07
+- ヘラるな
+#Chat No.01252 type: NORMALCHAT user: "クラゲクラゲ" time: 10:08
+- 草
+#Chat No.01253 type: NORMALCHAT user: "おーでん" time: 10:08
+- え？
+#Chat No.01254 type: NORMALCHAT user: "しおにみ" time: 10:08
+- ヘラるな
+#Chat No.01255 type: NORMALCHAT user: "yamada__" time: 10:09
+- ？
+#Chat No.01256 type: NORMALCHAT user: "03" time: 10:09
+- は？
+#Chat No.01257 type: NORMALCHAT user: "Osaka" time: 10:09
+- え
+#Chat No.01258 type: NORMALCHAT user: "まい伍" time: 10:09
+- は？
+#Chat No.01259 type: NORMALCHAT user: "ナヅキ" time: 10:09
+- は？
+#Chat No.01260 type: NORMALCHAT user: "イチリス" time: 10:09
+- 手首2，3本いかないで
+#Chat No.01261 type: NORMALCHAT user: "たぬき汁" time: 10:09
+- 手首三本は草
+#Chat No.01262 type: NORMALCHAT user: "西瓜" time: 10:10
+- は？
+#Chat No.01263 type: NORMALCHAT user: "おん" time: 10:10
+- は
+#Chat No.01264 type: NORMALCHAT user: "くろっく96" time: 10:11
+- ヘラるな
+#Chat No.01265 type: NORMALCHAT user: "リオレイア" time: 10:12
+- やめなさい
+#Chat No.01266 type: NORMALCHAT user: "絵コンテ" time: 10:12
+- ん？
+#Chat No.01267 type: NORMALCHAT user: "いかこ" time: 10:12
+- 草
+#Chat No.01268 type: NORMALCHAT user: "甘酒" time: 10:12
+- は？
+#Chat No.01269 type: NORMALCHAT user: "HitOMarOひとまろ" time: 10:12
+- 勝手にヘラるな
+#Chat No.01270 type: NORMALCHAT user: "hiorim -ヒオリム-" time: 10:13
+- ？？？
+#Chat No.01271 type: NORMALCHAT user: "なないろコンパス" time: 10:13
+- サクッといくな
+#Chat No.01272 type: NORMALCHAT user: "ひび" time: 10:13
+- 一人ボケツッコミ草
+#Chat No.01273 type: NORMALCHAT user: "こまる" time: 10:14
+- え？
+#Chat No.01274 type: NORMALCHAT user: "辛位ドビー" time: 10:14
+- 草
+#Chat No.01275 type: NORMALCHAT user: "ねむたい" time: 10:14
+- ドコドコうるさくて草
+#Chat No.01276 type: NORMALCHAT user: "Mk. V" time: 10:15
+- ？？
+#Chat No.01277 type: NORMALCHAT user: "みずち" time: 10:15
+- は？
+#Chat No.01278 type: NORMALCHAT user: "なこの" time: 10:15
+- ？
+#Chat No.01279 type: NORMALCHAT user: "直崎" time: 10:15
+- ？
+#Chat No.01280 type: NORMALCHAT user: "hatigatu" time: 10:16
+- 草
+#Chat No.01281 type: NORMALCHAT user: "のーざん" time: 10:16
+- は？
+#Chat No.01282 type: NORMALCHAT user: "SYA-しゃ-" time: 10:17
+- ネコくんもアッキーナを東京で会った外人兄貴と思ったんだぞ
+#Chat No.01283 type: NORMALCHAT user: "ねむいo0" time: 10:17
+- いくな
+#Chat No.01284 type: NORMALCHAT user: "槙" time: 10:17
+- え？
+#Chat No.01285 type: NORMALCHAT user: "高校性" time: 10:18
+- 新人見た？
+#Chat No.01286 type: NORMALCHAT user: "さくらざわ" time: 10:18
+- ？
+#Chat No.01287 type: NORMALCHAT user: "Osaka" time: 10:18
+- 今日新人の配信あったよ
+#Chat No.01288 type: NORMALCHAT user: "にんじん" time: 10:19
+- やめて
+#Chat No.01289 type: NORMALCHAT user: "yuiko" time: 10:19
+- は？
+#Chat No.01290 type: NORMALCHAT user: "kさん" time: 10:19
+- ヘラるな
+#Chat No.01291 type: NORMALCHAT user: "いざかや" time: 10:20
+- 新人さんきたね！
+#Chat No.01292 type: NORMALCHAT user: "ゆきのひ" time: 10:21
+- ヘラるな
+#Chat No.01293 type: NORMALCHAT user: "カワサキ" time: 10:21
+- にじさんじ人増えたで
+#Chat No.01294 type: NORMALCHAT user: "た" time: 10:24
+- 突然の闇で草
+#Chat No.01295 type: NORMALCHAT user: "Mk. V" time: 10:25
+- すまん
+#Chat No.01296 type: NORMALCHAT user: "ひび" time: 10:25
+- 草
+#Chat No.01297 type: NORMALCHAT user: "殿" time: 10:25
+- 料理対決おもしろかったよ
+#Chat No.01298 type: NORMALCHAT user: "ガンダーラおじさん" time: 10:26
+- 新しい男ができたんだよ
+#Chat No.01299 type: NORMALCHAT user: "げっこーです" time: 10:26
+- えげつない新人入ってきたくらいかな
+#Chat No.01300 type: NORMALCHAT user: "もぜ" time: 10:26
+- 見てないです
+#Chat No.01301 type: NORMALCHAT user: "西瓜" time: 10:27
+- 新人がきたわね
+#Chat No.01302 type: NORMALCHAT user: "_ NASU" time: 10:27
+- 草
+#Chat No.01303 type: NORMALCHAT user: "楓。" time: 10:27
+- 草
+#Chat No.01304 type: NORMALCHAT user: "しおにみ" time: 10:27
+- 見てないぞ
+#Chat No.01305 type: NORMALCHAT user: "さかな." time: 10:28
+- 新人さんが増えた
+#Chat No.01306 type: NORMALCHAT user: "ASUKAさん" time: 10:28
+- 新人
+#Chat No.01307 type: NORMALCHAT user: "Ayako" time: 10:29
+- ​は？
+#Chat No.01308 type: NORMALCHAT user: "悠華" time: 10:29
+- みどりさんといっしょ
+#Chat No.01309 type: NORMALCHAT user: "棚果tanaka" time: 10:29
+- 草
+#Chat No.01310 type: NORMALCHAT user: "イチリス" time: 10:29
+- 新人配信
+#Chat No.01311 type: NORMALCHAT user: "ゆきゆきね" time: 10:30
+- トマト飛ばすぞ
+#Chat No.01312 type: NORMALCHAT user: "なたね" time: 10:30
+- 料理対決
+#Chat No.01313 type: NORMALCHAT user: "パイナップル" time: 10:30
+- 嫉妬深くて草
+#Chat No.01314 type: NORMALCHAT user: "リオレイア" time: 10:30
+- 見てないぞ
+#Chat No.01315 type: NORMALCHAT user: "HitOMarOひとまろ" time: 10:31
+- ヘラってね
+#Chat No.01316 type: NORMALCHAT user: "アリ" time: 10:31
+- 三枝のアーカイブだけ見てたぞ
+#Chat No.01317 type: NORMALCHAT user: "yamada__" time: 10:31
+- 新人さん
+#Chat No.01318 type: NORMALCHAT user: "絵コンテ" time: 10:31
+- 料理対決、新人初配信
+#Chat No.01319 type: NORMALCHAT user: "紺野夜半" time: 10:31
+- 新人さん見てたよ
+#Chat No.01320 type: NORMALCHAT user: "よしの村長" time: 10:31
+- すまんな…
+#Chat No.01321 type: NORMALCHAT user: "ガンダーラおじさん" time: 10:32
+- 新人入ったぞ
+#Chat No.01322 type: NORMALCHAT user: "ホオノキアオ" time: 10:32
+- さっきまでエクスの配信見てた
+#Chat No.01323 type: NORMALCHAT user: "おれこ" time: 10:33
+- 新人
+#Chat No.01324 type: NORMALCHAT user: "SYA-しゃ-" time: 10:33
+- 新人さんは見た
+#Chat No.01325 type: NORMALCHAT user: "海苔海苔" time: 10:33
+- 料理
+#Chat No.01326 type: NORMALCHAT user: "ひび" time: 10:34
+- 新人さん
+#Chat No.01327 type: NORMALCHAT user: "たぬき汁" time: 10:36
+- 料理対決見てた
+#Chat No.01328 type: NORMALCHAT user: "寝る" time: 10:36
+- 草
+#Chat No.01329 type: NORMALCHAT user: "あさま" time: 10:36
+- みみみてないぞ
+#Chat No.01330 type: NORMALCHAT user: "‰ぱあみる" time: 10:38
+- 新人さんの初配信みてた
+#Chat No.01331 type: NORMALCHAT user: "高校性" time: 10:39
+- お料理配信
+#Chat No.01332 type: NORMALCHAT user: "三ツ谷天馬" time: 10:40
+- アッキーナのアーカイブずっと見てたぞ
+#Chat No.01333 type: NORMALCHAT user: "ジーザス魔王" time: 10:41
+- 草
+#Chat No.01334 type: NORMALCHAT user: "佐藤花苗" time: 10:41
+- 嫉妬するなよ かえあいいな
+#Chat No.01335 type: NORMALCHAT user: "慧理" time: 10:42
+- 料理対決
+#Chat No.01336 type: NORMALCHAT user: "雪瀬まつり" time: 10:42
+- 料理対決
+#Chat No.01337 type: NORMALCHAT user: "みやMAN" time: 10:44
+- 新人きたね
+#Chat No.01338 type: NORMALCHAT user: "ゆきのひ" time: 10:44
+- みどりさんといっしょ
+#Chat No.01339 type: NORMALCHAT user: "SYA-しゃ-" time: 10:45
+- 草
+#Chat No.01340 type: NORMALCHAT user: "クラゲクラゲ" time: 10:45
+- 草
+#Chat No.01341 type: NORMALCHAT user: "アンパンマンちょこぺろぺろ党" time: 10:46
+- ハンバーガー対決
+#Chat No.01342 type: NORMALCHAT user: "相模相澤 U" time: 10:46
+- わかる
+#Chat No.01343 type: NORMALCHAT user: "すばる" time: 10:46
+- 剣持刀也が沖縄に行ってた
+#Chat No.01344 type: NORMALCHAT user: "ナヅキ" time: 10:46
+- そうなのか
+#Chat No.01345 type: NORMALCHAT user: "うすみや" time: 10:48
+- みどりさんといっしょくらいかな
+#Chat No.01346 type: NORMALCHAT user: "Osaka" time: 10:49
+- みどりさんといっしょ
+#Chat No.01347 type: NORMALCHAT user: "トムトムプリン" time: 10:49
+- にじさんじんろう
+#Chat No.01348 type: NORMALCHAT user: "ひも" time: 10:50
+- 無事に終わってよかったね
+#Chat No.01349 type: NORMALCHAT user: "ありんこ。" time: 10:50
+- 草
+#Chat No.01350 type: NORMALCHAT user: "まさ" time: 10:50
+- 料理番組
+#Chat No.01351 type: NORMALCHAT user: "なないろコンパス" time: 10:50
+- 俺はお前だけだよ
+#Chat No.01352 type: NORMALCHAT user: "3歳!" time: 10:51
+- 草
+#Chat No.01353 type: NORMALCHAT user: "カワサキ" time: 10:51
+- おめーさっきアルスの配信おったやろ
+#Chat No.01354 type: NORMALCHAT user: "ひび" time: 10:51
+- 草
+#Chat No.01355 type: NORMALCHAT user: "ぬい" time: 10:51
+- うんうん
+#Chat No.01356 type: NORMALCHAT user: "白米" time: 10:51
+- みどりさんといっしょ見てたぞ
+#Chat No.01357 type: NORMALCHAT user: "クズの中のクズ" time: 10:51
+- エクスのボタンのやつみてた
+#Chat No.01358 type: NORMALCHAT user: "槙" time: 10:52
+- 嫉妬かわいい
+#Chat No.01359 type: NORMALCHAT user: "おん" time: 10:52
+- みどりさんみたで
+#Chat No.01360 type: NORMALCHAT user: "ひとつめ" time: 10:52
+- 新人さんよかったね
+#Chat No.01361 type: NORMALCHAT user: "YU-KI" time: 10:52
+- 草
+#Chat No.01362 type: NORMALCHAT user: "もぜ" time: 10:52
+- みどりさんといっしょくらいしか見てない
+#Chat No.01363 type: NORMALCHAT user: "ホオノキアオ" time: 10:52
+- 料理対決見てた
+#Chat No.01364 type: NORMALCHAT user: "甘酒" time: 10:52
+- みどりさんといっしょ見た
+#Chat No.01365 type: NORMALCHAT user: "ききちゃ" time: 10:53
+- みてないよ？
+#Chat No.01366 type: NORMALCHAT user: "いろ" time: 10:53
+- みどりさんといっしょ
+#Chat No.01367 type: NORMALCHAT user: "ガンダーラおじさん" time: 10:54
+- 大遅刻新人と癒しの新人とやばい新人入ったぞ
+#Chat No.01368 type: NORMALCHAT user: "度会" time: 10:55
+- 草
+#Chat No.01369 type: NORMALCHAT user: "高校性" time: 10:56
+- ヘラってんねぇ
+#Chat No.01370 type: NORMALCHAT user: "こまる" time: 10:56
+- みどりさん
+#Chat No.01371 type: NORMALCHAT user: "ちいずショ糖" time: 10:58
+- 料理おもしろかった
+#Chat No.01372 type: NORMALCHAT user: "楓。" time: 10:58
+- みどりさんといっしょ
+#Chat No.01373 type: NORMALCHAT user: "0度" time: 10:58
+- 料理対決あった
+#Chat No.01374 type: NORMALCHAT user: "おれこ" time: 10:58
+- あきなくん
+#Chat No.01375 type: NORMALCHAT user: "Ayako" time: 10:58
+- ​料理対決、新人初配信見てた
+#Chat No.01376 type: NORMALCHAT user: "郷" time: 10:59
+- お料理とみどりさん見てた
+#Chat No.01377 type: NORMALCHAT user: "iToYa 。" time: 11:00
+- 草
+#Chat No.01378 type: NORMALCHAT user: "千代田" time: 11:00
+- 料理対決面白かった
+#Chat No.01379 type: NORMALCHAT user: "西瓜" time: 11:01
+- 草
+#Chat No.01380 type: NORMALCHAT user: "田中太郎" time: 11:01
+- 草
+#Chat No.01381 type: NORMALCHAT user: "ホオノキアオ" time: 11:01
+- そうだね
+#Chat No.01382 type: NORMALCHAT user: "リオレイア" time: 11:02
+- おっそうだな
+#Chat No.01383 type: NORMALCHAT user: "するめぶた" time: 11:02
+- ハンバーガー
+#Chat No.01384 type: NORMALCHAT user: "ぬい" time: 11:03
+- みどりさんといっしょ良かったよアッキーナ！！
+#Chat No.01385 type: NORMALCHAT user: "れもんぱん" time: 11:03
+- みどりさんといっしょ
+#Chat No.01386 type: NORMALCHAT user: "みもざじる" time: 11:04
+- dane
+#Chat No.01387 type: NORMALCHAT user: "クラゲクラゲ" time: 11:04
+- みどりさんといっしょ見たよ
+#Chat No.01388 type: NORMALCHAT user: "Osaka" time: 11:04
+- ニュイさんパチンコで勝ってて笑った
+#Chat No.01389 type: NORMALCHAT user: "*のちぱん*" time: 11:05
+- 料理対決
+#Chat No.01390 type: NORMALCHAT user: "T N" time: 11:05
+- 放送事故同じことやってたやついたなあ
+#Chat No.01391 type: NORMALCHAT user: "イチリス" time: 11:05
+- あっエビオくんに返せたの？
+#Chat No.01392 type: NORMALCHAT user: "特になし" time: 11:06
+- 草
+#Chat No.01393 type: NORMALCHAT user: "高校性" time: 11:06
+- あーなるほどね
+#Chat No.01394 type: NORMALCHAT user: "ヨル" time: 11:07
+- みどりさんといっしょ
+#Chat No.01395 type: NORMALCHAT user: "い" time: 11:07
+- ん？
+#Chat No.01396 type: NORMALCHAT user: "ぺ汰" time: 11:08
+- みどりさんといっしょよかったよ
+#Chat No.01397 type: NORMALCHAT user: "たぬき汁" time: 11:09
+- あきなくん大丈夫だったんか
+#Chat No.01398 type: NORMALCHAT user: "SYA-しゃ-" time: 11:10
+- そうなんだ
+#Chat No.01399 type: NORMALCHAT user: "はるすけ_" time: 11:10
+- さえぐさ君がえくす君のスイッチ取ってたよ
+#Chat No.01400 type: NORMALCHAT user: "ねむいo0" time: 11:11
+- みどりさん
+#Chat No.01401 type: NORMALCHAT user: "あさま" time: 11:11
+- 同期な
+#Chat No.01402 type: NORMALCHAT user: "よしの村長" time: 11:12
+- へー！
+#Chat No.01403 type: NORMALCHAT user: "みやMAN" time: 11:12
+- みどりさんといっしょ第2回あった
+#Chat No.01404 type: NORMALCHAT user: "アンパンマンちょこぺろぺろ党" time: 11:13
+- 今日のあきなめっちゃかわいいな
+#Chat No.01405 type: NORMALCHAT user: "あじしお" time: 11:13
+- (Vtuberカー見ました)
+#Chat No.01406 type: NORMALCHAT user: "紺野夜半" time: 11:13
+- そうなんか
+#Chat No.01407 type: NORMALCHAT user: "masa miya" time: 11:15
+- それもそうか
+#Chat No.01408 type: NORMALCHAT user: "くろっく96" time: 11:15
+- 君の小学五年ボイスも聞いたぞ
+#Chat No.01409 type: NORMALCHAT user: "カワヅ" time: 11:15
+- なるほど
+#Chat No.01410 type: NORMALCHAT user: "春雪[はるゆき]" time: 11:16
+- あきなくんかわいかった
+#Chat No.01411 type: NORMALCHAT user: "始発" time: 11:16
+- みどりさん見たよー
+#Chat No.01412 type: NORMALCHAT user: "ゆきのひ" time: 11:16
+- そうですね
+#Chat No.01413 type: NORMALCHAT user: "たびゆるり" time: 11:16
+- そうだね
+#Chat No.01414 type: NORMALCHAT user: "Book Bird" time: 11:17
+- あと1人いるよな同期
+#Chat No.01415 type: NORMALCHAT user: "yamada__" time: 11:18
+- みどりさんといっしょ
+#Chat No.01416 type: NORMALCHAT user: "するめぶた" time: 11:19
+- エクスがSwitch取られてた
+#Chat No.01417 type: NORMALCHAT user: "さかな." time: 11:21
+- 加賀美社長のタイムアタック昼休み30分プラモ組み立て
+#Chat No.01418 type: NORMALCHAT user: "いざかや" time: 11:21
+- みどりさんとっしょな…
+#Chat No.01419 type: NORMALCHAT user: "げっこーです" time: 11:21
+- 星川
+#Chat No.01420 type: NORMALCHAT user: "*のちぱん*" time: 11:22
+- みどりさん良かったぞ
+#Chat No.01421 type: NORMALCHAT user: "篠原ひー" time: 11:22
+- みどりさん
+#Chat No.01422 type: NORMALCHAT user: "HitOMarOひとまろ" time: 11:22
+- みどりさんといっしょ
+#Chat No.01423 type: NORMALCHAT user: "りり" time: 11:23
+- エビオにSwitch返した？仲直りした？
+#Chat No.01424 type: NORMALCHAT user: "‰ぱあみる" time: 11:24
+- そうなんだ
+#Chat No.01425 type: NORMALCHAT user: "ひび" time: 11:24
+- みどりさんといっしょ
+#Chat No.01426 type: NORMALCHAT user: "ホオノキアオ" time: 11:27
+- みどりさんといっしょも見たぞ
+#Chat No.01427 type: NORMALCHAT user: "野原さいの" time: 11:30
+- みどりさんよかったよ
+#Chat No.01428 type: NORMALCHAT user: "まい伍" time: 11:31
+- 草
+#Chat No.01429 type: NORMALCHAT user: "たびゆるり" time: 11:31
+- 山神カルタさんね
+#Chat No.01430 type: NORMALCHAT user: "米派" time: 11:32
+- 今日料理対決とチューリップ組一か月記念配信見た
+#Chat No.01431 type: NORMALCHAT user: "ねむいo0" time: 11:33
+- へー
+#Chat No.01432 type: NORMALCHAT user: "ありんこ。" time: 11:33
+- あれ笑ったw
+#Chat No.01433 type: NORMALCHAT user: "よう" time: 11:33
+- 草
+#Chat No.01434 type: NORMALCHAT user: "楓。" time: 11:33
+- 草
+#Chat No.01435 type: NORMALCHAT user: "有坂" time: 11:33
+- 今来た どういうことなのこれ
+#Chat No.01436 type: NORMALCHAT user: "ちいずショ糖" time: 11:33
+- 草
+#Chat No.01437 type: NORMALCHAT user: "SYA-しゃ-" time: 11:34
+- 草
+#Chat No.01438 type: NORMALCHAT user: "西瓜" time: 11:35
+- あれ草
+#Chat No.01439 type: NORMALCHAT user: "3歳!" time: 11:36
+- カルタさんラップ好きでおお〜！ってなった
+#Chat No.01440 type: NORMALCHAT user: "はたけ" time: 11:37
+- あの後、アキナくんどうなったんや？
+#Chat No.01441 type: NORMALCHAT user: "03" time: 11:37
+- それほんと草
+#Chat No.01442 type: NORMALCHAT user: "ひび" time: 11:38
+- 草
+#Chat No.01443 type: NORMALCHAT user: "なたね" time: 11:38
+- あれ草だった
+#Chat No.01444 type: NORMALCHAT user: "紺野夜半" time: 11:39
+- 衝撃だった
+#Chat No.01445 type: NORMALCHAT user: "棚果tanaka" time: 11:40
+- 草
+#Chat No.01446 type: NORMALCHAT user: "千代田" time: 11:40
+- 草
+#Chat No.01447 type: NORMALCHAT user: "なこの" time: 11:41
+- あれ草
+#Chat No.01448 type: NORMALCHAT user: "ピピお" time: 11:42
+- 草
+#Chat No.01449 type: NORMALCHAT user: "カワヅ" time: 11:42
+- わかる
+#Chat No.01450 type: NORMALCHAT user: "田中太郎" time: 11:42
+- 鋭角すぎるトーク
+#Chat No.01451 type: NORMALCHAT user: "野原さいの" time: 11:43
+- マッチングアプリ草
+#Chat No.01452 type: NORMALCHAT user: "たけも" time: 11:44
+- 草
+#Chat No.01453 type: NORMALCHAT user: "クラゲクラゲ" time: 11:44
+- あれまじで笑った
+#Chat No.01454 type: NORMALCHAT user: "斜め" time: 11:45
+- 草
+#Chat No.01455 type: NORMALCHAT user: "れもんぱん" time: 11:45
+- 草
+#Chat No.01456 type: NORMALCHAT user: "槙" time: 11:45
+- 草
+#Chat No.01457 type: NORMALCHAT user: "わらじぃ" time: 11:45
+- なんだこれ
+#Chat No.01458 type: NORMALCHAT user: "ホオノキアオ" time: 11:45
+- 草
+#Chat No.01459 type: NORMALCHAT user: "zkk _" time: 11:46
+- もしかして数日間逃げてたの？
+#Chat No.01460 type: NORMALCHAT user: "さくらざわ" time: 11:46
+- 草
+#Chat No.01461 type: NORMALCHAT user: "カムくん" time: 11:50
+- こんばんは 燃えてる
+#Chat No.01462 type: NORMALCHAT user: "ひとつめ" time: 11:50
+- 草
+#Chat No.01463 type: NORMALCHAT user: "特になし" time: 11:50
+- それビビった
+#Chat No.01464 type: NORMALCHAT user: "はるすけ_" time: 11:51
+- やってんねぇ！
+#Chat No.01465 type: NORMALCHAT user: "イチリス" time: 11:51
+- おぅおぅおぅ
+#Chat No.01466 type: NORMALCHAT user: "郷" time: 11:51
+- 草
+#Chat No.01467 type: NORMALCHAT user: "あさま" time: 11:51
+- 草
+#Chat No.01468 type: NORMALCHAT user: "げっこーです" time: 11:51
+- 草
+#Chat No.01469 type: NORMALCHAT user: "のーか" time: 11:52
+- やってんねぇ草
+#Chat No.01470 type: NORMALCHAT user: "たぬき汁" time: 11:52
+- 草
+#Chat No.01471 type: NORMALCHAT user: "リオレイア" time: 11:52
+- まじか
+#Chat No.01472 type: NORMALCHAT user: "もぜ" time: 11:52
+- 草
+#Chat No.01473 type: NORMALCHAT user: "*のちぱん*" time: 11:53
+- やってんねぇ！
+#Chat No.01474 type: NORMALCHAT user: "HitOMarOひとまろ" time: 11:53
+- あきなくんSwitchとったでしょ！！
+#Chat No.01475 type: NORMALCHAT user: "たびゆるり" time: 11:54
+- 草
+#Chat No.01476 type: NORMALCHAT user: "ぽてお" time: 11:54
+- 草
+#Chat No.01477 type: NORMALCHAT user: "あおはる" time: 11:55
+- みどりさんといっしょみたよ
+#Chat No.01478 type: NORMALCHAT user: "カワヅ" time: 11:55
+- 初手アプリは草
+#Chat No.01479 type: NORMALCHAT user: "Osaka" time: 11:56
+- 最近の新人は初手キャラ付けしないといかんのか？
+#Chat No.01480 type: NORMALCHAT user: "雪瀬まつり" time: 11:56
+- ティンダーはほんと草
+#Chat No.01481 type: NORMALCHAT user: "絵コンテ" time: 11:56
+- やってんねぇで草
+#Chat No.01482 type: NORMALCHAT user: "ピピお" time: 11:57
+- やってんねぇ！
+#Chat No.01483 type: NORMALCHAT user: "悠華" time: 11:58
+- 星川
+#Chat No.01484 type: NORMALCHAT user: "い" time: 11:58
+- やってんねぇは草
+#Chat No.01485 type: NORMALCHAT user: "Ayako" time: 12:01
+- ​やってんねぇ！
+#Chat No.01486 type: NORMALCHAT user: "絵コンテ" time: 12:01
+- 星川サラ
+#Chat No.01487 type: NORMALCHAT user: "高校性" time: 12:02
+- 草
+#Chat No.01488 type: NORMALCHAT user: "ゆきゆきね" time: 12:03
+- さすがにじさんじ
+#Chat No.01489 type: NORMALCHAT user: "椿遠井" time: 12:04
+- 陽キャの塊
+#Chat No.01490 type: NORMALCHAT user: "クウォータータルト" time: 12:05
+- 社長から逃げ切れた？
+#Chat No.01491 type: NORMALCHAT user: "みやMAN" time: 12:06
+- ほんと草
+#Chat No.01492 type: NORMALCHAT user: "カワサキ" time: 12:07
+- ヤってんねぇ！
+#Chat No.01493 type: NORMALCHAT user: "よう" time: 12:07
+- やってんねぇ！
+#Chat No.01494 type: NORMALCHAT user: "のーか" time: 12:08
+- ギ…
+#Chat No.01495 type: NORMALCHAT user: "‰ぱあみる" time: 12:09
+- やってんねぇ！
+#Chat No.01496 type: NORMALCHAT user: "ホオノキアオ" time: 12:09
+- 草
+#Chat No.01497 type: SUPERCHAT user: "ざざびー" time: 12:10 amount: ￥500
+- 帰省話親近感めっちゃ湧いた これからも頑張って！
+#Chat No.01498 type: NORMALCHAT user: "カワヅ" time: 12:11
+- 草
+#Chat No.01499 type: NORMALCHAT user: "#Noob卒業" time: 12:11
+- 草
+#Chat No.01500 type: NORMALCHAT user: "ひとつめ" time: 12:12
+- わかる
+#Chat No.01501 type: NORMALCHAT user: "ありんこ。" time: 12:12
+- 草
+#Chat No.01502 type: NORMALCHAT user: "もぜ" time: 12:12
+- 草
+#Chat No.01503 type: NORMALCHAT user: "げっこーです" time: 12:12
+- 草
+#Chat No.01504 type: NORMALCHAT user: "SYA-しゃ-" time: 12:12
+- わかる
+#Chat No.01505 type: NORMALCHAT user: "西瓜" time: 12:12
+- 草
+#Chat No.01506 type: NORMALCHAT user: "T N" time: 12:14
+- 草
+#Chat No.01507 type: NORMALCHAT user: "田中太郎" time: 12:14
+- 草
+#Chat No.01508 type: NORMALCHAT user: "もち" time: 12:14
+- 草
+#Chat No.01509 type: NORMALCHAT user: "なたね" time: 12:14
+- 草
+#Chat No.01510 type: NORMALCHAT user: "yamada__" time: 12:15
+- ギ……
+#Chat No.01511 type: NORMALCHAT user: "楓。" time: 12:15
+- 草
+#Chat No.01512 type: NORMALCHAT user: "ひも" time: 12:16
+- 草
+#Chat No.01513 type: NORMALCHAT user: "高校性" time: 12:16
+- ギバラ…
+#Chat No.01514 type: NORMALCHAT user: "白米" time: 12:17
+- 草
+#Chat No.01515 type: NORMALCHAT user: "ひび" time: 12:17
+- 草
+#Chat No.01516 type: NORMALCHAT user: "森野熊" time: 12:17
+- ぎば・・・
+#Chat No.01517 type: NORMALCHAT user: "イチリス" time: 12:17
+- そうですね
+#Chat No.01518 type: NORMALCHAT user: "ねむいo0" time: 12:17
+- 草
+#Chat No.01519 type: NORMALCHAT user: "HitOMarOひとまろ" time: 12:17
+- あきなくん！
+#Chat No.01520 type: NORMALCHAT user: "相模相澤 U" time: 12:17
+- 星川はやべえやつ
+#Chat No.01521 type: NORMALCHAT user: "こまる" time: 12:18
+- ギバラァ
+#Chat No.01522 type: NORMALCHAT user: "たぬき汁" time: 12:19
+- 草
+#Chat No.01523 type: NORMALCHAT user: "ソニアン" time: 12:19
+- 草
+#Chat No.01524 type: NORMALCHAT user: "しおにみ" time: 12:19
+- ぎば…
+#Chat No.01525 type: NORMALCHAT user: "まさ" time: 12:19
+- 草
+#Chat No.01526 type: NORMALCHAT user: "さくらざわ" time: 12:19
+- 草
+#Chat No.01527 type: NORMALCHAT user: "紺野夜半" time: 12:20
+- 草
+#Chat No.01528 type: NORMALCHAT user: "‰ぱあみる" time: 12:20
+- ギb…
+#Chat No.01529 type: NORMALCHAT user: "千代田" time: 12:20
+- 草
+#Chat No.01530 type: NORMALCHAT user: "iToYa 。" time: 12:20
+- 草
+#Chat No.01531 type: NORMALCHAT user: "なこの" time: 12:20
+- 草
+#Chat No.01532 type: NORMALCHAT user: "れいじ" time: 12:21
+- 草
+#Chat No.01533 type: NORMALCHAT user: "あさま" time: 12:21
+- 悪い人ｗ
+#Chat No.01534 type: NORMALCHAT user: "慧理" time: 12:21
+- 草
+#Chat No.01535 type: NORMALCHAT user: "あじしお" time: 12:21
+- 草
+#Chat No.01536 type: NORMALCHAT user: "まい伍" time: 12:21
+- 草
+#Chat No.01537 type: NORMALCHAT user: "ゆきのひ" time: 12:21
+- 草
+#Chat No.01538 type: NORMALCHAT user: "米派" time: 12:22
+- 草
+#Chat No.01539 type: NORMALCHAT user: "ホオノキアオ" time: 12:22
+- 草
+#Chat No.01540 type: NORMALCHAT user: "おれこ" time: 12:22
+- ぎ...ぎ...
+#Chat No.01541 type: NORMALCHAT user: "ひの。" time: 12:23
+- 草
+#Chat No.01542 type: NORMALCHAT user: "斜め" time: 12:23
+- わるいひとｗ
+#Chat No.01543 type: NORMALCHAT user: "ヨル" time: 12:23
+- 草
+#Chat No.01544 type: NORMALCHAT user: "よう" time: 12:23
+- 草
+#Chat No.01545 type: NORMALCHAT user: "Max" time: 12:23
+- 草
+#Chat No.01546 type: NORMALCHAT user: "ゴルゴムの" time: 12:23
+- 草
+#Chat No.01547 type: NORMALCHAT user: "クラゲクラゲ" time: 12:23
+- 草
+#Chat No.01548 type: NORMALCHAT user: "けい." time: 12:23
+- 草
+#Chat No.01549 type: NORMALCHAT user: "野原さいの" time: 12:23
+- 草
+#Chat No.01550 type: NORMALCHAT user: "うすみや" time: 12:24
+- 草
+#Chat No.01551 type: NORMALCHAT user: "飛鳥ちゃんねる" time: 12:24
+- 草
+#Chat No.01552 type: NORMALCHAT user: "すみか" time: 12:24
+- 草
+#Chat No.01553 type: NORMALCHAT user: "3歳!" time: 12:25
+- 草
+#Chat No.01554 type: NORMALCHAT user: "ありをりはべりいまそかり" time: 12:26
+- 草
+#Chat No.01555 type: NORMALCHAT user: "槙" time: 12:26
+- 草
+#Chat No.01556 type: NORMALCHAT user: "皐" time: 12:26
+- 草
+#Chat No.01557 type: NORMALCHAT user: "箸ちゃん" time: 12:27
+- 草
+#Chat No.01558 type: NORMALCHAT user: "直崎" time: 12:27
+- 草
+#Chat No.01559 type: NORMALCHAT user: "Book Bird" time: 12:28
+- わかるわぁ
+#Chat No.01560 type: NORMALCHAT user: "特になし" time: 12:29
+- 草
+#Chat No.01561 type: NORMALCHAT user: "*のちぱん*" time: 12:29
+- 草
+#Chat No.01562 type: NORMALCHAT user: "さかな." time: 12:30
+- 加賀美ハヤト社長のタイムアタック30分玩具組み立て配信
+#Chat No.01563 type: NORMALCHAT user: "たびゆるり" time: 12:30
+- 草
+#Chat No.01564 type: NORMALCHAT user: "SYA-しゃ-" time: 12:30
+- ギ…
+#Chat No.01565 type: NORMALCHAT user: "高校性" time: 12:30
+- 草
+#Chat No.01566 type: NORMALCHAT user: "棚果tanaka" time: 12:31
+- ギ…
+#Chat No.01567 type: NORMALCHAT user: "荒やま" time: 12:31
+- 草
+#Chat No.01568 type: NORMALCHAT user: "三ツ谷天馬" time: 12:32
+- 草
+#Chat No.01569 type: NORMALCHAT user: "げっこーです" time: 12:32
+- ベルさんが星川っていうくらいだもん
+#Chat No.01570 type: NORMALCHAT user: "ホオノキアオ" time: 12:32
+- 悪い人です。草
+#Chat No.01571 type: NORMALCHAT user: "西瓜" time: 12:33
+- 草
+#Chat No.01572 type: NORMALCHAT user: "絵コンテ" time: 12:33
+- ギギギギギギ
+#Chat No.01573 type: NORMALCHAT user: "たけも" time: 12:34
+- ぎ...
+#Chat No.01574 type: NORMALCHAT user: "はたけ" time: 12:34
+- 草
+#Chat No.01575 type: NORMALCHAT user: "たぬき汁" time: 12:34
+- せやね
+#Chat No.01576 type: NORMALCHAT user: "れもんぱん" time: 12:34
+- 草
+#Chat No.01577 type: NORMALCHAT user: "くるめ" time: 12:35
+- 悪い人は草
+#Chat No.01578 type: NORMALCHAT user: "黒糖侍" time: 12:35
+- 草
+#Chat No.01579 type: NORMALCHAT user: "氷上雪乃" time: 12:35
+- 草
+#Chat No.01580 type: NORMALCHAT user: "Book Bird" time: 12:35
+- ギバってきたな
+#Chat No.01581 type: NORMALCHAT user: "槙" time: 12:36
+- わるいひとは草
+#Chat No.01582 type: NORMALCHAT user: "もち" time: 12:37
+- 草
+#Chat No.01583 type: NORMALCHAT user: "ひとつめ" time: 12:41
+- 初配信で化けの皮剥がれてたね
+#Chat No.01584 type: NORMALCHAT user: "猫村猫吉" time: 12:41
+- 草
+#Chat No.01585 type: NORMALCHAT user: "森野熊" time: 12:41
+- いつかレジる
+#Chat No.01586 type: NORMALCHAT user: "Osaka" time: 12:42
+- 草
+#Chat No.01587 type: NORMALCHAT user: "あおはる" time: 12:44
+- 草
+#Chat No.01588 type: NORMALCHAT user: "namekuji" time: 12:45
+- 草
+#Chat No.01589 type: NORMALCHAT user: "はやし" time: 12:45
+- この人ワルイ人
+#Chat No.01590 type: NORMALCHAT user: "よう" time: 12:46
+- 草
+#Chat No.01591 type: NORMALCHAT user: "ねむいo0" time: 12:47
+- 草
+#Chat No.01592 type: NORMALCHAT user: "東のロン" time: 12:48
+- 草
+#Chat No.01593 type: NORMALCHAT user: "殿" time: 12:48
+- 初回で暴言出てて良かった
+#Chat No.01594 type: NORMALCHAT user: "Osaka" time: 12:49
+- ここ切り抜かれるぞ
+#Chat No.01595 type: NORMALCHAT user: "はるすけ_" time: 12:49
+- やらかす前提なの草
+#Chat No.01596 type: NORMALCHAT user: "郷" time: 12:49
+- わるいひとで草
+#Chat No.01597 type: NORMALCHAT user: "Max" time: 12:51
+- なんかやらかすは草
+#Chat No.01598 type: NORMALCHAT user: "ゆきのひ" time: 12:51
+- ギ…
+#Chat No.01599 type: NORMALCHAT user: "HitOMarOひとまろ" time: 12:51
+- あきなくんSwitchとったでしょ！！
+#Chat No.01600 type: NORMALCHAT user: "しおにみ" time: 12:52
+- 正直サラちゃんと相性良さそう
+#Chat No.01601 type: NORMALCHAT user: "柏餅桜餅" time: 12:53
+- 草
+#Chat No.01602 type: NORMALCHAT user: "みやMAN" time: 12:57
+- 草
+#Chat No.01603 type: NORMALCHAT user: "絵コンテ" time: 12:57
+- 予言してて草
+#Chat No.01604 type: NORMALCHAT user: "巴" time: 12:58
+- 
+#Chat No.01605 type: NORMALCHAT user: "youkan" time: 12:58
+- サラちゃんWW1前のバルカン半島並に火薬庫
+#Chat No.01606 type: NORMALCHAT user: "HitOMarOひとまろ" time: 12:59
+- 草
+#Chat No.01607 type: NORMALCHAT user: "飛鳥ちゃんねる" time: 13:01
+- レジりそう
+#Chat No.01608 type: NORMALCHAT user: "西瓜" time: 13:02
+- なんかやらかすは草
+#Chat No.01609 type: NORMALCHAT user: "りり" time: 13:04
+- BGMうるせえ
+#Chat No.01610 type: NORMALCHAT user: "‰ぱあみる" time: 13:06
+- なんかやらかすは草
+#Chat No.01611 type: NORMALCHAT user: "3歳!" time: 13:08
+- 試されてる…！？
+#Chat No.01612 type: NORMALCHAT user: "あさま" time: 13:09
+- 名物になってるねえ
+#Chat No.01613 type: NORMALCHAT user: "カエルアカウント" time: 13:10
+- 今北、暑い
+#Chat No.01614 type: SUPERCHAT user: "アンパンマンちょこぺろぺろ党" time: 13:10 amount: ￥250
+- switch代
+#Chat No.01615 type: NORMALCHAT user: "野茨" time: 13:10
+- みどりさん見たよ〜
+#Chat No.01616 type: NORMALCHAT user: "yamada__" time: 13:13
+- 草
+#Chat No.01617 type: NORMALCHAT user: "もぜ" time: 13:13
+- 草
+#Chat No.01618 type: NORMALCHAT user: "高校性" time: 13:14
+- うるさいぞ
+#Chat No.01619 type: NORMALCHAT user: "イチリス" time: 13:14
+- 反応一覧みたいなので切り抜かれそう
+#Chat No.01620 type: NORMALCHAT user: "カワヅ" time: 13:15
+- 草
+#Chat No.01621 type: NORMALCHAT user: "ホオノキアオ" time: 13:15
+- 草
+#Chat No.01622 type: NORMALCHAT user: "悠華" time: 13:16
+- うるせぇ！！！！
+#Chat No.01623 type: NORMALCHAT user: "hirona _" time: 13:16
+- 草
+#Chat No.01624 type: NORMALCHAT user: "たびゆるり" time: 13:16
+- 草
+#Chat No.01625 type: NORMALCHAT user: "ひも" time: 13:17
+- 全てがうるせえ
+#Chat No.01626 type: NORMALCHAT user: "千代田" time: 13:17
+- うるせぇ
+#Chat No.01627 type: NORMALCHAT user: "棚果tanaka" time: 13:17
+- 草
+#Chat No.01628 type: NORMALCHAT user: "紺野夜半" time: 13:17
+- 草
+#Chat No.01629 type: NORMALCHAT user: "斜め" time: 13:18
+- 草
+#Chat No.01630 type: NORMALCHAT user: "リオレイア" time: 13:18
+- 草
+#Chat No.01631 type: NORMALCHAT user: "陸猫" time: 13:18
+- 草
+#Chat No.01632 type: NORMALCHAT user: "絵コンテ" time: 13:19
+- 今や一大イベントとなったよね
+#Chat No.01633 type: NORMALCHAT user: "おーでん" time: 13:19
+- 草
+#Chat No.01634 type: NORMALCHAT user: "郷" time: 13:19
+- えくすくんのSwitch返せた？
+#Chat No.01635 type: NORMALCHAT user: "Ayako" time: 13:19
+- 草
+#Chat No.01636 type: NORMALCHAT user: "24 km" time: 13:20
+- うるさw
+#Chat No.01637 type: NORMALCHAT user: "3歳!" time: 13:21
+- BGMに負けるな
+#Chat No.01638 type: NORMALCHAT user: "いざかや" time: 13:21
+- 草
+#Chat No.01639 type: NORMALCHAT user: "悠華" time: 13:22
+- きったね
+#Chat No.01640 type: NORMALCHAT user: "野原さいの" time: 13:22
+- 草
+#Chat No.01641 type: NORMALCHAT user: "りり" time: 13:23
+- 草
+#Chat No.01642 type: NORMALCHAT user: "まい伍" time: 13:23
+- 草
+#Chat No.01643 type: NORMALCHAT user: "ありんこ。" time: 13:23
+- もうだめじゃん
+#Chat No.01644 type: NORMALCHAT user: "ヨル" time: 13:23
+- 草
+#Chat No.01645 type: NORMALCHAT user: "ひび" time: 13:23
+- 草
+#Chat No.01646 type: NORMALCHAT user: "箸ちゃん" time: 13:23
+- うるさっ
+#Chat No.01647 type: NORMALCHAT user: "クラゲクラゲ" time: 13:23
+- 声もbgmも全部うるせえ
+#Chat No.01648 type: NORMALCHAT user: "SYA-しゃ-" time: 13:23
+- 草
+#Chat No.01649 type: NORMALCHAT user: "アヴァリスGREED" time: 13:23
+- 草
+#Chat No.01650 type: NORMALCHAT user: "のーか" time: 13:24
+- 草
+#Chat No.01651 type: NORMALCHAT user: "ふうらん" time: 13:24
+- じゃあ
+#Chat No.01652 type: NORMALCHAT user: "のーざん" time: 13:24
+- きたない
+#Chat No.01653 type: NORMALCHAT user: "yamada__" time: 13:25
+- かいてるじゃねえか！
+#Chat No.01654 type: NORMALCHAT user: "ひとつめ" time: 13:25
+- おつぐさか？
+#Chat No.01655 type: NORMALCHAT user: "Osaka" time: 13:25
+- 汗っかきなの？
+#Chat No.01656 type: NORMALCHAT user: "米派" time: 13:26
+- 草
+#Chat No.01657 type: NORMALCHAT user: "田中太郎" time: 13:26
+- おつぐさ
+#Chat No.01658 type: NORMALCHAT user: "もぜ" time: 13:26
+- 草
+#Chat No.01659 type: NORMALCHAT user: "アンパンマンちょこぺろぺろ党" time: 13:26
+- 草
+#Chat No.01660 type: NORMALCHAT user: "野茨" time: 13:27
+- 草
+#Chat No.01661 type: NORMALCHAT user: "SYA-しゃ-" time: 13:27
+- は？
+#Chat No.01662 type: NORMALCHAT user: "ゆきのひ" time: 13:28
+- やめないで
+#Chat No.01663 type: NORMALCHAT user: "はるすけ_" time: 13:28
+- 草
+#Chat No.01664 type: NORMALCHAT user: "こまる" time: 13:29
+- くさ
+#Chat No.01665 type: NORMALCHAT user: "郷" time: 13:29
+- 草
+#Chat No.01666 type: NORMALCHAT user: "紺野夜半" time: 13:30
+- いかないで
+#Chat No.01667 type: NORMALCHAT user: "ひび" time: 13:30
+- かいてないよね？
+#Chat No.01668 type: NORMALCHAT user: "#Noob卒業" time: 13:30
+- いま座ってる?
+#Chat No.01669 type: NORMALCHAT user: "廷Ting" time: 13:30
+- 草
+#Chat No.01670 type: NORMALCHAT user: "あさま" time: 13:30
+- Switchちゃんとかえした？
+#Chat No.01671 type: NORMALCHAT user: "アンパンマンちょこぺろぺろ党" time: 13:31
+- まだ待って
+#Chat No.01672 type: NORMALCHAT user: "雪瀬まつり" time: 13:32
+- サウナにでもいるの？
+#Chat No.01673 type: NORMALCHAT user: "いろ" time: 13:32
+- は？？？？？
+#Chat No.01674 type: NORMALCHAT user: "ガンダーラおじさん" time: 13:32
+- 星川の方がうるさかったぞ
+#Chat No.01675 type: NORMALCHAT user: "クズの中のクズ" time: 13:32
+- ええ……
+#Chat No.01676 type: NORMALCHAT user: "れいじ" time: 13:32
+- おつぐさー
+#Chat No.01677 type: NORMALCHAT user: "‰ぱあみる" time: 13:32
+- 草
+#Chat No.01678 type: NORMALCHAT user: "甘酒" time: 13:33
+- 対あり
+#Chat No.01679 type: NORMALCHAT user: "もちきなこ" time: 13:33
+- おつぐさ〜！
+#Chat No.01680 type: NORMALCHAT user: "た" time: 13:33
+- やば
+#Chat No.01681 type: NORMALCHAT user: "youkan" time: 13:33
+- 男にデカくて困るものはないからガンガン声出していけ
+#Chat No.01682 type: NORMALCHAT user: "悠華" time: 13:33
+- おつぐさ！！！！！！！１
+#Chat No.01683 type: NORMALCHAT user: "さかな." time: 13:34
+- 壁ドンされない大丈夫？？？
+#Chat No.01684 type: NORMALCHAT user: "さわらび" time: 13:34
+- おつぐさ～
+#Chat No.01685 type: NORMALCHAT user: "推しが尊い" time: 13:34
+- なんかBGMと背景凄くて草、きたわよ！
+#Chat No.01686 type: NORMALCHAT user: "T N" time: 13:35
+- 草
+#Chat No.01687 type: NORMALCHAT user: "なたね" time: 13:35
+- 草
+#Chat No.01688 type: NORMALCHAT user: "い" time: 13:35
+- おつぐさー
+#Chat No.01689 type: NORMALCHAT user: "槙" time: 13:35
+- 草
+#Chat No.01690 type: NORMALCHAT user: "斜め" time: 13:35
+- かいてるんかい
+#Chat No.01691 type: NORMALCHAT user: "yamada__" time: 13:36
+- 足臭い
+#Chat No.01692 type: NORMALCHAT user: "さかね" time: 13:37
+- みどりさんといっしょの話ききたい
+#Chat No.01693 type: NORMALCHAT user: "ケイ" time: 13:37
+- みどりさんといっしょ見たよ
+#Chat No.01694 type: NORMALCHAT user: "翔空" time: 13:37
+- ほんとに汗？
+#Chat No.01695 type: NORMALCHAT user: "ヤマグチ" time: 13:37
+- お疲れ！
+#Chat No.01696 type: NORMALCHAT user: "HitOMarOひとまろ" time: 13:37
+- あきなくんSwitchとったでしょ！！
+#Chat No.01697 type: NORMALCHAT user: "なこの" time: 13:38
+- おつぐさ〜
+#Chat No.01698 type: NORMALCHAT user: "クラゲクラゲ" time: 13:38
+- 草
+#Chat No.01699 type: NORMALCHAT user: "MurakuMo" time: 13:38
+- おつぐさ
+#Chat No.01700 type: NORMALCHAT user: "わさたこ" time: 13:38
+- 足の裏？？
+#Chat No.01701 type: NORMALCHAT user: "‰ぱあみる" time: 13:39
+- おつぐさする？
+#Chat No.01702 type: NORMALCHAT user: "野咲" time: 13:39
+- どうゆうこっちゃ
+#Chat No.01703 type: NORMALCHAT user: "*のちぱん*" time: 13:39
+- そういえばアッキーナ社長に殺されたはずじゃ...
+#Chat No.01704 type: NORMALCHAT user: "げっこーです" time: 13:41
+- サムネ詐欺かよw
+#Chat No.01705 type: NORMALCHAT user: "sk" time: 13:41
+- サウナから配信してんのかーい
+#Chat No.01706 type: NORMALCHAT user: "田中太郎" time: 13:43
+- ルールは守ろうや
+#Chat No.01707 type: NORMALCHAT user: "高校性" time: 13:43
+- あきなくん
+#Chat No.01708 type: NORMALCHAT user: "すず" time: 13:43
+- みたわよ
+#Chat No.01709 type: NORMALCHAT user: "カワサキ" time: 13:44
+- それは調和じゃなくて反発って言うんやで
+#Chat No.01710 type: NORMALCHAT user: "慧理" time: 13:44
+- おつぐさ？
+#Chat No.01711 type: NORMALCHAT user: "たぬき汁" time: 13:45
+- あきなくん………
+#Chat No.01712 type: NORMALCHAT user: "おれこ" time: 13:45
+- ほりうちくんを出せ
+#Chat No.01713 type: NORMALCHAT user: "りり" time: 13:46
+- おなじのやつ草
+#Chat No.01714 type: NORMALCHAT user: "しろ。" time: 13:46
+- おつぐさ～
+#Chat No.01715 type: NORMALCHAT user: "45" time: 13:47
+- あきなくんかわいい
+#Chat No.01716 type: NORMALCHAT user: "リオレイア" time: 13:47
+- 可愛かったぁ…
+#Chat No.01717 type: NORMALCHAT user: "ガンダーラおじさん" time: 13:47
+- 30分行ってなくて草
+#Chat No.01718 type: NORMALCHAT user: "紺野夜半" time: 13:48
+- あきなくん……
+#Chat No.01719 type: NORMALCHAT user: "いざかや" time: 13:49
+- マジで笑った
+#Chat No.01720 type: NORMALCHAT user: "ホオノキアオ" time: 13:49
+- 可愛かったぞ
+#Chat No.01721 type: NORMALCHAT user: "ひも" time: 13:50
+- みどりさんよかった
+#Chat No.01722 type: NORMALCHAT user: "森野熊" time: 13:50
+- アキナくん・・・
+#Chat No.01723 type: NORMALCHAT user: "斜め" time: 13:51
+- あきなくん
+#Chat No.01724 type: NORMALCHAT user: "owada" time: 13:52
+- 今北。おかえりー
+#Chat No.01725 type: NORMALCHAT user: "箸ちゃん" time: 13:52
+- 草
+#Chat No.01726 type: NORMALCHAT user: "寝る" time: 13:52
+- 同じで草
+#Chat No.01727 type: NORMALCHAT user: "まい伍" time: 13:53
+- 小五明那よかったぞ
+#Chat No.01728 type: NORMALCHAT user: "推しが尊い" time: 13:53
+- みどりさんといっしょのさえぐさあきなくんめちゃよかった
+#Chat No.01729 type: NORMALCHAT user: "ひび" time: 13:53
+- エクスのSwitch盗っちゃダメでしょ
+#Chat No.01730 type: NORMALCHAT user: "_ NASU" time: 13:53
+- あきなくん
+#Chat No.01731 type: NORMALCHAT user: "ねむいo0" time: 13:54
+- うるせえ
+#Chat No.01732 type: NORMALCHAT user: "ありんこ。" time: 13:54
+- まさかだったね
+#Chat No.01733 type: NORMALCHAT user: "なこの" time: 13:54
+- あきなくん
+#Chat No.01734 type: NORMALCHAT user: "楓。" time: 13:55
+- 草
+#Chat No.01735 type: NORMALCHAT user: "巴" time: 13:55
+- ショタボ無限に聴いた
+#Chat No.01736 type: NORMALCHAT user: "犬" time: 13:55
+- ショタ声ちょうだい
+#Chat No.01737 type: NORMALCHAT user: "雪瀬まつり" time: 13:55
+- あきなくん5年生
+#Chat No.01738 type: NORMALCHAT user: "さかな." time: 13:56
+- よかったよ明那…
+#Chat No.01739 type: NORMALCHAT user: "もち" time: 13:57
+- いまも同級生だろ
+#Chat No.01740 type: NORMALCHAT user: "いざかや" time: 13:58
+- 草
+#Chat No.01741 type: NORMALCHAT user: "りり" time: 13:58
+- 最悪
+#Chat No.01742 type: NORMALCHAT user: "おん" time: 13:59
+- よかったよ
+#Chat No.01743 type: NORMALCHAT user: "直崎" time: 13:59
+- かわいかったぞ
+#Chat No.01744 type: NORMALCHAT user: "3歳!" time: 13:59
+- 草
+#Chat No.01745 type: NORMALCHAT user: "クラゲクラゲ" time: 13:59
+- 草
+#Chat No.01746 type: NORMALCHAT user: "ガンダーラおじさん" time: 14:00
+- 三枝くんあの後どうなったんだろうな
+#Chat No.01747 type: NORMALCHAT user: "あさま" time: 14:00
+- えくしゅくんの！
+#Chat No.01748 type: NORMALCHAT user: "ナヅキ" time: 14:00
+- 草
+#Chat No.01749 type: NORMALCHAT user: "なこの" time: 14:00
+- 草
+#Chat No.01750 type: NORMALCHAT user: "ヨル" time: 14:00
+- 草
+#Chat No.01751 type: NORMALCHAT user: "もぜ" time: 14:00
+- 草
+#Chat No.01752 type: NORMALCHAT user: "野茨" time: 14:01
+- 草
+#Chat No.01753 type: NORMALCHAT user: "悠華" time: 14:01
+- 草
+#Chat No.01754 type: NORMALCHAT user: "田中太郎" time: 14:01
+- ショタたすかった
+#Chat No.01755 type: NORMALCHAT user: "*のちぱん*" time: 14:02
+- あきなくん可愛かった
+#Chat No.01756 type: NORMALCHAT user: "春雪[はるゆき]" time: 14:02
+- 草
+#Chat No.01757 type: NORMALCHAT user: "高校性" time: 14:03
+- 草
+#Chat No.01758 type: NORMALCHAT user: "すず" time: 14:03
+- ホリケンじゃん
+#Chat No.01759 type: NORMALCHAT user: "あじしお" time: 14:03
+- かわいかったぞ
+#Chat No.01760 type: NORMALCHAT user: "_ NASU" time: 14:03
+- クソガキじゃん
+#Chat No.01761 type: NORMALCHAT user: "ホオノキアオ" time: 14:03
+- クソガキもすこ
+#Chat No.01762 type: NORMALCHAT user: "絵コンテ" time: 14:03
+- 草
+#Chat No.01763 type: NORMALCHAT user: "みやMAN" time: 14:04
+- 小5の明那くん
+#Chat No.01764 type: NORMALCHAT user: "たぬき汁" time: 14:04
+- めちゃくちゃ良かった
+#Chat No.01765 type: NORMALCHAT user: "たるたる" time: 14:05
+- エクスくんにスイッチ返せ
+#Chat No.01766 type: NORMALCHAT user: "西瓜" time: 14:06
+- そのほうがそれっぽかった
+#Chat No.01767 type: NORMALCHAT user: "おれこ" time: 14:06
+- クソガキ草
+#Chat No.01768 type: NORMALCHAT user: "ひび" time: 14:06
+- 草
+#Chat No.01769 type: NORMALCHAT user: "紺野夜半" time: 14:06
+- クソガキ草
+#Chat No.01770 type: NORMALCHAT user: "おーでん" time: 14:06
+- あきなくんすき
+#Chat No.01771 type: NORMALCHAT user: "さくらざわ" time: 14:07
+- 草
+#Chat No.01772 type: NORMALCHAT user: "masa miya" time: 14:07
+- 草
+#Chat No.01773 type: NORMALCHAT user: "棚果tanaka" time: 14:07
+- 草
+#Chat No.01774 type: NORMALCHAT user: "カワヅ" time: 14:07
+- 草
+#Chat No.01775 type: NORMALCHAT user: "米派" time: 14:07
+- 可愛かった
+#Chat No.01776 type: NORMALCHAT user: "けい." time: 14:08
+- それ好きだからやって
+#Chat No.01777 type: NORMALCHAT user: "すばる" time: 14:08
+- 公式ショタ化ビーム把握
+#Chat No.01778 type: NORMALCHAT user: "直崎" time: 14:08
+- 草
+#Chat No.01779 type: NORMALCHAT user: "れもんぱん" time: 14:08
+- 草
+#Chat No.01780 type: NORMALCHAT user: "ゆりか" time: 14:09
+- かわいかった
+#Chat No.01781 type: NORMALCHAT user: "ざざびー" time: 14:09
+- ショタぐさ明那かわいい
+#Chat No.01782 type: NORMALCHAT user: "のーか" time: 14:09
+- 草
+#Chat No.01783 type: NORMALCHAT user: "春雪[はるゆき]" time: 14:10
+- かわいかった
+#Chat No.01784 type: NORMALCHAT user: "yayayaや" time: 14:10
+- あきなくん
+#Chat No.01785 type: NORMALCHAT user: "巴" time: 14:11
+- かわいいやん
+#Chat No.01786 type: NORMALCHAT user: "よしの村長" time: 14:11
+- あきなくんかわいい
+#Chat No.01787 type: NORMALCHAT user: "はるすけ_" time: 14:11
+- アッキーナから見てエクス君の声は何歳くらいのショタ？
+#Chat No.01788 type: NORMALCHAT user: "郷" time: 14:11
+- 草
+#Chat No.01789 type: NORMALCHAT user: "ねむいo0" time: 14:11
+- 草
+#Chat No.01790 type: NORMALCHAT user: "相模相澤 U" time: 14:11
+- kusa
+#Chat No.01791 type: NORMALCHAT user: "古今東西" time: 14:12
+- 草
+#Chat No.01792 type: NORMALCHAT user: "owada" time: 14:12
+- その方がクソガキ感あったわねw
+#Chat No.01793 type: NORMALCHAT user: "椿遠井" time: 14:12
+- あれ怖かった
+#Chat No.01794 type: NORMALCHAT user: "いざかや" time: 14:12
+- 真面目ショタよかったぞ
+#Chat No.01795 type: NORMALCHAT user: "リオレイア" time: 14:12
+- 結果よかった
+#Chat No.01796 type: NORMALCHAT user: "つみき" time: 14:12
+- 見たわよ
+#Chat No.01797 type: NORMALCHAT user: "しおにみ" time: 14:13
+- ジャイアンじゃなくて助かった
+#Chat No.01798 type: NORMALCHAT user: "*のちぱん*" time: 14:14
+- 草
+#Chat No.01799 type: NORMALCHAT user: "0度" time: 14:15
+- クソガキ草
+#Chat No.01800 type: NORMALCHAT user: "みやMAN" time: 14:16
+- クソガキボイスたすかる
+#Chat No.01801 type: NORMALCHAT user: "斜め" time: 14:16
+- クソガキで来ると思ってたよ
+#Chat No.01802 type: NORMALCHAT user: "ぺ汰" time: 14:17
+- 可愛かったよ
+#Chat No.01803 type: NORMALCHAT user: "郷" time: 14:17
+- あきなくん可愛かった
+#Chat No.01804 type: NORMALCHAT user: "ぽてお" time: 14:18
+- 草
+#Chat No.01805 type: NORMALCHAT user: "高校性" time: 14:18
+- どっちでも面白かったと思うぞ
+#Chat No.01806 type: NORMALCHAT user: "はたけ" time: 14:18
+- 可愛かった
+#Chat No.01807 type: NORMALCHAT user: "MurakuMo" time: 14:18
+- それ見たかった
+#Chat No.01808 type: NORMALCHAT user: "Ayako" time: 14:20
+- かわいかった
+#Chat No.01809 type: NORMALCHAT user: "さわらび" time: 14:20
+- それ正解
+#Chat No.01810 type: NORMALCHAT user: "ひび" time: 14:20
+- クソガキもすこ
+#Chat No.01811 type: NORMALCHAT user: "クズの中のクズ" time: 14:20
+- 英断
+#Chat No.01812 type: NORMALCHAT user: "さかな." time: 14:20
+- ショタたすかる
+#Chat No.01813 type: NORMALCHAT user: "カワサキ" time: 14:21
+- 一瞬だけBGM止めるの草
+#Chat No.01814 type: NORMALCHAT user: "特になし" time: 14:21
+- たしかにな
+#Chat No.01815 type: NORMALCHAT user: "ナヅキ" time: 14:22
+- えらい
+#Chat No.01816 type: NORMALCHAT user: "クラゲクラゲ" time: 14:22
+- セルフショタ
+#Chat No.01817 type: NORMALCHAT user: "よしの村長" time: 14:23
+- ショタへのこだわり
+#Chat No.01818 type: NORMALCHAT user: "りり" time: 14:23
+- 可愛くて困った
+#Chat No.01819 type: NORMALCHAT user: "翔空" time: 14:24
+- あきなくん…
+#Chat No.01820 type: NORMALCHAT user: "野原さいの" time: 14:26
+- かわいかった
+#Chat No.01821 type: NORMALCHAT user: "野茨" time: 14:26
+- 堀内くん草
+#Chat No.01822 type: NORMALCHAT user: "なこの" time: 14:27
+- かわいかった
+#Chat No.01823 type: NORMALCHAT user: "なたね" time: 14:27
+- 正解！
+#Chat No.01824 type: NORMALCHAT user: "田中太郎" time: 14:28
+- やはりお笑い芸人だ
+#Chat No.01825 type: NORMALCHAT user: "くろっく96" time: 14:28
+- 英断
+#Chat No.01826 type: NORMALCHAT user: "犬" time: 14:28
+- えらい
+#Chat No.01827 type: NORMALCHAT user: "れもんぱん" time: 14:28
+- 可愛い
+#Chat No.01828 type: NORMALCHAT user: "悠華" time: 14:29
+- 判断助かる
+#Chat No.01829 type: NORMALCHAT user: "イチリス" time: 14:29
+- 仲直りできた？
+#Chat No.01830 type: NORMALCHAT user: "ラムネ" time: 14:30
+- 賢い
+#Chat No.01831 type: NORMALCHAT user: "アンパンマンちょこぺろぺろ党" time: 14:30
+- せやな
+#Chat No.01832 type: NORMALCHAT user: "こまる" time: 14:30
+- 正直かわいかった
+#Chat No.01833 type: NORMALCHAT user: "郷" time: 14:31
+- プロのこだわり
+#Chat No.01834 type: NORMALCHAT user: "もち" time: 14:32
+- あきなくんかわいかった
+#Chat No.01835 type: NORMALCHAT user: "さかな." time: 14:32
+- えらい
+#Chat No.01836 type: NORMALCHAT user: "ヤマグチ" time: 14:33
+- その判断いいぞ
+#Chat No.01837 type: NORMALCHAT user: "あさま" time: 14:33
+- 可愛かったねｗ
+#Chat No.01838 type: NORMALCHAT user: "もち" time: 14:33
+- 可愛かったよ
+#Chat No.01839 type: NORMALCHAT user: "ヨル" time: 14:34
+- あきなくん可愛かった
+#Chat No.01840 type: NORMALCHAT user: "SYA-しゃ-" time: 14:34
+- 流石芸人
+#Chat No.01841 type: NORMALCHAT user: "ねむいo0" time: 14:34
+- あきなくんかわいい
+#Chat No.01842 type: NORMALCHAT user: "ヨロズ" time: 14:34
+- 草
+#Chat No.01843 type: NORMALCHAT user: "ぱうぜ" time: 14:35
+- ショタになっちまえばいいじゃん
+#Chat No.01844 type: NORMALCHAT user: "リオレイア" time: 14:35
+- 正解なんだよな
+#Chat No.01845 type: NORMALCHAT user: "箸ちゃん" time: 14:35
+- かわいかったよ
+#Chat No.01846 type: NORMALCHAT user: "YU-KI" time: 14:36
+- 良かった
+#Chat No.01847 type: NORMALCHAT user: "たぬき汁" time: 14:36
+- 草
+#Chat No.01848 type: NORMALCHAT user: "古今東西" time: 14:38
+- それでも面白かったと思う
+#Chat No.01849 type: NORMALCHAT user: "推しが尊い" time: 14:38
+- えらい
+#Chat No.01850 type: NORMALCHAT user: "HitOMarOひとまろ" time: 14:38
+- お前生きてたんか！！
+#Chat No.01851 type: NORMALCHAT user: "DSMチャンネル" time: 14:39
+- ホリケン
+#Chat No.01852 type: NORMALCHAT user: "03" time: 14:39
+- あれで正解
+#Chat No.01853 type: NORMALCHAT user: "槙" time: 14:40
+- 可愛かったよ
+#Chat No.01854 type: NORMALCHAT user: "‰ぱあみる" time: 14:40
+- 英断
+#Chat No.01855 type: NORMALCHAT user: "ホオノキアオ" time: 14:41
+- あきなくん可愛かった
+#Chat No.01856 type: NORMALCHAT user: "たけも" time: 14:42
+- ホリウチくんで草
+#Chat No.01857 type: NORMALCHAT user: "ガンダーラおじさん" time: 14:42
+- 次のやしろがオチだからね、それが正解
+#Chat No.01858 type: NORMALCHAT user: "甘酒" time: 14:42
+- お前がショタになるんだぉ！
+#Chat No.01859 type: NORMALCHAT user: "うすみや" time: 14:42
+- 清楚ショタ非常に助かった
+#Chat No.01860 type: NORMALCHAT user: "ぺらぺらいぬ小池" time: 14:43
+- すまん遅れた今北
+#Chat No.01861 type: NORMALCHAT user: "ひの。" time: 14:44
+- 英断
+#Chat No.01862 type: NORMALCHAT user: "3歳!" time: 14:44
+- よかったよ
+#Chat No.01863 type: NORMALCHAT user: "ゆきのひ" time: 14:44
+- 助かった
+#Chat No.01864 type: NORMALCHAT user: "ナツヲ" time: 14:45
+- かわいかったよ
+#Chat No.01865 type: NORMALCHAT user: "にみに" time: 14:45
+- ショタボ可愛かったぞ
+#Chat No.01866 type: NORMALCHAT user: "owada" time: 14:45
+- あれもよかった
+#Chat No.01867 type: NORMALCHAT user: "アンパンマンちょこぺろぺろ党" time: 14:46
+- 可愛かった
+#Chat No.01868 type: NORMALCHAT user: "joe" time: 14:47
+- クソガキでもよかったぞ
+#Chat No.01869 type: NORMALCHAT user: "悠華" time: 14:48
+- ニュイ？
+#Chat No.01870 type: NORMALCHAT user: "とっとこROM太郎" time: 14:49
+- 判断助かる
+#Chat No.01871 type: NORMALCHAT user: "さくらざわ" time: 14:49
+- よかった
+#Chat No.01872 type: NORMALCHAT user: "kaol" time: 14:50
+- ｶｯｯ
+#Chat No.01873 type: NORMALCHAT user: "すみか" time: 14:52
+- かわいかったよ
+#Chat No.01874 type: NORMALCHAT user: "たるたる" time: 14:52
+- 多分ショタボで正解だったと思うよ
+#Chat No.01875 type: NORMALCHAT user: "いざかや" time: 14:53
+- にゅいパチ？
+#Chat No.01876 type: NORMALCHAT user: "街屋" time: 14:55
+- 今北あきなくん（小５）って生きてる？
+#Chat No.01877 type: NORMALCHAT user: "*のちぱん*" time: 14:58
+- 可愛かったから良い
+#Chat No.01878 type: NORMALCHAT user: "DSMチャンネル" time: 14:59
+- ホリウチくんは草
+#Chat No.01879 type: NORMALCHAT user: "ho chi" time: 15:04
+- あれすき
+#Chat No.01880 type: NORMALCHAT user: "owada" time: 15:04
+- あったあった
+#Chat No.01881 type: NORMALCHAT user: "のーか" time: 15:04
+- あーアレか
+#Chat No.01882 type: NORMALCHAT user: "ヨロズ" time: 15:05
+- あのファンアートよかったね
+#Chat No.01883 type: NORMALCHAT user: "廷Ting" time: 15:06
+- 残り15分
+#Chat No.01884 type: NORMALCHAT user: "あさま" time: 15:06
+- あれよかった
+#Chat No.01885 type: NORMALCHAT user: "もぜ" time: 15:07
+- あっ
+#Chat No.01886 type: NORMALCHAT user: "甘酒" time: 15:08
+- あ、見た
+#Chat No.01887 type: NORMALCHAT user: "なたね" time: 15:08
+- 出た
+#Chat No.01888 type: NORMALCHAT user: "イチリス" time: 15:08
+- 天使ｗｗ
+#Chat No.01889 type: NORMALCHAT user: "ホオノキアオ" time: 15:08
+- 見た！！
+#Chat No.01890 type: NORMALCHAT user: "45" time: 15:08
+- 見た
+#Chat No.01891 type: NORMALCHAT user: "HitOMarOひとまろ" time: 15:08
+- みたーーーー！！！
+#Chat No.01892 type: NORMALCHAT user: "クズの中のクズ" time: 15:09
+- それだいすき
+#Chat No.01893 type: NORMALCHAT user: "とっとこROM太郎" time: 15:09
+- あれすき
+#Chat No.01894 type: NORMALCHAT user: "翔空" time: 15:10
+- 草
+#Chat No.01895 type: NORMALCHAT user: "サハラ・デラックス" time: 15:10
+- かわいかったよ
+#Chat No.01896 type: NORMALCHAT user: "96saki" time: 15:10
+- あれか～～～～～～
+#Chat No.01897 type: NORMALCHAT user: "すみか" time: 15:10
+- 見た！
+#Chat No.01898 type: NORMALCHAT user: "リオレイア" time: 15:10
+- あれね
+#Chat No.01899 type: NORMALCHAT user: "R A" time: 15:11
+- あれすき
+#Chat No.01900 type: NORMALCHAT user: "くろっく96" time: 15:11
+- 見た
+#Chat No.01901 type: NORMALCHAT user: "西瓜" time: 15:11
+- 草
+#Chat No.01902 type: NORMALCHAT user: "千代田" time: 15:11
+- 草
+#Chat No.01903 type: NORMALCHAT user: "郷" time: 15:11
+- 良かった
+#Chat No.01904 type: NORMALCHAT user: "_ NASU" time: 15:11
+- あっ
+#Chat No.01905 type: NORMALCHAT user: "始発" time: 15:12
+- あれか
+#Chat No.01906 type: NORMALCHAT user: "おやさい" time: 15:12
+- 背景の炎で蒸発してるからセーフセーフ
+#Chat No.01907 type: NORMALCHAT user: "フェイ" time: 15:12
+- あれかわいかった
+#Chat No.01908 type: NORMALCHAT user: "すばる" time: 15:12
+- 草
+#Chat No.01909 type: NORMALCHAT user: "0度" time: 15:13
+- 見た
+#Chat No.01910 type: NORMALCHAT user: "寝る" time: 15:13
+- あったね
+#Chat No.01911 type: NORMALCHAT user: "アンパンマンちょこぺろぺろ党" time: 15:14
+- 草
+#Chat No.01912 type: NORMALCHAT user: "クラゲクラゲ" time: 15:14
+- あれめっちゃ可愛かった
+#Chat No.01913 type: NORMALCHAT user: "よしの村長" time: 15:14
+- あれ見た
+#Chat No.01914 type: NORMALCHAT user: "ナヅキ" time: 15:14
+- しんでんやねえか
+#Chat No.01915 type: NORMALCHAT user: "03" time: 15:14
+- あれめっちゃ好き
+#Chat No.01916 type: NORMALCHAT user: "YU-KI" time: 15:14
+- あれ良かった
+#Chat No.01917 type: NORMALCHAT user: "斜め" time: 15:15
+- みた～好き
+#Chat No.01918 type: NORMALCHAT user: "もち" time: 15:15
+- あれすき
+#Chat No.01919 type: NORMALCHAT user: "直崎" time: 15:15
+- 見た見た
+#Chat No.01920 type: NORMALCHAT user: "ゆりか" time: 15:15
+- 見た
+#Chat No.01921 type: NORMALCHAT user: "あじしお" time: 15:15
+- 見た…良かった…
+#Chat No.01922 type: NORMALCHAT user: "楓。" time: 15:16
+- あれよかった
+#Chat No.01923 type: NORMALCHAT user: "ホオノキアオ" time: 15:16
+- そのファンアート見た！！！
+#Chat No.01924 type: NORMALCHAT user: "高校性" time: 15:17
+- あーーー
+#Chat No.01925 type: NORMALCHAT user: "ガンダーラおじさん" time: 15:17
+- みた
+#Chat No.01926 type: NORMALCHAT user: "ぽてお" time: 15:18
+- あれすき
+#Chat No.01927 type: NORMALCHAT user: "白米" time: 15:20
+- あれとても好き
+#Chat No.01928 type: NORMALCHAT user: "特になし" time: 15:20
+- なんかよかったです
+#Chat No.01929 type: NORMALCHAT user: "紺野夜半" time: 15:20
+- 見た！
+#Chat No.01930 type: NORMALCHAT user: "カワヅ" time: 15:20
+- よかったね
+#Chat No.01931 type: NORMALCHAT user: "h m" time: 15:21
+- お茶吹いた
+#Chat No.01932 type: NORMALCHAT user: "さくらざわ" time: 15:21
+- よかった
+#Chat No.01933 type: NORMALCHAT user: "わさたこ" time: 15:21
+- あれすき
+#Chat No.01934 type: NORMALCHAT user: "君影" time: 15:22
+- みた
+#Chat No.01935 type: NORMALCHAT user: "りり" time: 15:22
+- え!見たい
+#Chat No.01936 type: NORMALCHAT user: "*のちぱん*" time: 15:22
+- 可愛かったね
+#Chat No.01937 type: NORMALCHAT user: "こと。" time: 15:22
+- あれよかった
+#Chat No.01938 type: NORMALCHAT user: "カワサキ" time: 15:22
+- よかったですぅ…(陰キャ)
+#Chat No.01939 type: NORMALCHAT user: "悠華" time: 15:23
+- 見たよ～～～～～
+#Chat No.01940 type: NORMALCHAT user: "やかん" time: 15:23
+- あれすき
+#Chat No.01941 type: NORMALCHAT user: "ありんこ。" time: 15:24
+- 探してみる
+#Chat No.01942 type: NORMALCHAT user: "パイナップル" time: 15:24
+- 闇のオタクくんやん
+#Chat No.01943 type: NORMALCHAT user: "Ayako" time: 15:24
+- あれすき
+#Chat No.01944 type: NORMALCHAT user: "もぜ" time: 15:24
+- 死んでるじゃん
+#Chat No.01945 type: NORMALCHAT user: "うすみや" time: 15:25
+- あれめっさ好き
+#Chat No.01946 type: NORMALCHAT user: "もち" time: 15:26
+- 草
+#Chat No.01947 type: NORMALCHAT user: "楓。" time: 15:27
+- あれめっちゃ好き
+#Chat No.01948 type: NORMALCHAT user: "たけも" time: 15:27
+- あれすき
+#Chat No.01949 type: NORMALCHAT user: "Max" time: 15:28
+- 見たわ。良かった
+#Chat No.01950 type: NORMALCHAT user: "未来showマ_後輩" time: 15:29
+- きたわよ
+#Chat No.01951 type: NORMALCHAT user: "いざかや" time: 15:29
+- よかったです…のガチ感草
+#Chat No.01952 type: NORMALCHAT user: "巴" time: 15:29
+- あれか！
+#Chat No.01953 type: NORMALCHAT user: "郷" time: 15:30
+- 見たよ！！
+#Chat No.01954 type: NORMALCHAT user: "‰ぱあみる" time: 15:30
+- あとで探してみる
+#Chat No.01955 type: NORMALCHAT user: "西瓜" time: 15:30
+- 草
+#Chat No.01956 type: NORMALCHAT user: "推しが尊い" time: 15:30
+- えええ見たいけどどう探せばいいんだ
+#Chat No.01957 type: NORMALCHAT user: "ガンダーラおじさん" time: 15:32
+- わかる
+#Chat No.01958 type: NORMALCHAT user: "千代田" time: 15:32
+- よかったよね
+#Chat No.01959 type: NORMALCHAT user: "HitOMarOひとまろ" time: 15:33
+- あきなくんも明那もかわいい
+#Chat No.01960 type: NORMALCHAT user: "ひとつめ" time: 15:33
+- おつぐさ！
+#Chat No.01961 type: NORMALCHAT user: "夯" time: 15:34
+- ？
+#Chat No.01962 type: NORMALCHAT user: "ひも" time: 15:34
+- は？？？
+#Chat No.01963 type: NORMALCHAT user: "辛位ドビー" time: 15:34
+- おつぐさ？！
+#Chat No.01964 type: NORMALCHAT user: "鈍空透" time: 15:34
+- 草
+#Chat No.01965 type: NORMALCHAT user: "ヨロズ" time: 15:34
+- お疲れ様
+#Chat No.01966 type: NORMALCHAT user: "春雪[はるゆき]" time: 15:34
+- おつぐさ！
+#Chat No.01967 type: NORMALCHAT user: "ナヅキ" time: 15:34
+- おつぐさ
+#Chat No.01968 type: NORMALCHAT user: "はるすけ_" time: 15:34
+- おつぐさ～
+#Chat No.01969 type: NORMALCHAT user: "もぜ" time: 15:34
+- は？
+#Chat No.01970 type: NORMALCHAT user: "特になし" time: 15:35
+- 草
+#Chat No.01971 type: NORMALCHAT user: "ひの。" time: 15:35
+- おつぐさ
+#Chat No.01972 type: NORMALCHAT user: "イチリス" time: 15:35
+- おつぐさ
+#Chat No.01973 type: NORMALCHAT user: "いざかや" time: 15:35
+- は！？
+#Chat No.01974 type: NORMALCHAT user: "アンパンマンちょこぺろぺろ党" time: 15:35
+- え
+#Chat No.01975 type: NORMALCHAT user: "45" time: 15:35
+- 草
+#Chat No.01976 type: NORMALCHAT user: "SYA-しゃ-" time: 15:35
+- え
+#Chat No.01977 type: NORMALCHAT user: "斜め" time: 15:36
+- おつぐさ！
+#Chat No.01978 type: NORMALCHAT user: "なこの" time: 15:36
+- えっ
+#Chat No.01979 type: NORMALCHAT user: "なたね" time: 15:36
+- おつぐさ！
+#Chat No.01980 type: NORMALCHAT user: "たぬき汁" time: 15:36
+- おつぐさ
+#Chat No.01981 type: NORMALCHAT user: "野原さいの" time: 15:36
+- おつぐさ！
+#Chat No.01982 type: NORMALCHAT user: "みやMAN" time: 15:36
+- 草
+#Chat No.01983 type: NORMALCHAT user: "owada" time: 15:36
+- 草
+#Chat No.01984 type: NORMALCHAT user: "椿遠井" time: 15:36
+- おつぐさ！
+#Chat No.01985 type: NORMALCHAT user: "T N" time: 15:36
+- えぇ…
+#Chat No.01986 type: NORMALCHAT user: "ホオノキアオ" time: 15:37
+- おつぐさ！
+#Chat No.01987 type: NORMALCHAT user: "まい伍" time: 15:37
+- おつぐさ
+#Chat No.01988 type: NORMALCHAT user: "フェイ" time: 15:37
+- 草
+#Chat No.01989 type: NORMALCHAT user: "クズの中のクズ" time: 15:37
+- おつぐさ～
+#Chat No.01990 type: NORMALCHAT user: "田中太郎" time: 15:37
+- おつぐさ
+#Chat No.01991 type: NORMALCHAT user: "3歳!" time: 15:37
+- おつぐさ
+#Chat No.01992 type: NORMALCHAT user: "直崎" time: 15:37
+- おつぐさ
+#Chat No.01993 type: NORMALCHAT user: "クラゲクラゲ" time: 15:38
+- 突然で草
+#Chat No.01994 type: NORMALCHAT user: "れいじ" time: 15:38
+- おつぐさーw
+#Chat No.01995 type: NORMALCHAT user: "ありんこ。" time: 15:39
+- おつぐさ

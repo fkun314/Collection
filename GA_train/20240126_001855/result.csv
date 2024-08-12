@@ -1,0 +1,2 @@
+gene_length,population_size,generations,mutation_rate,crossover_rate,tournament_size,elite_size
+340,1000,100,0.02,1.1,100,30

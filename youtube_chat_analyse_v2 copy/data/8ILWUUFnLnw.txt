@@ -1,0 +1,20 @@
+recommend_point : 18:45 ~ 19:5 +-30s
+	https://www.youtube.com/watch?v=8ILWUUFnLnw&feature=youtu.be&t=1095&end=1175
+recommend_point : 45:0 ~ 45:20 +-30s
+	https://www.youtube.com/watch?v=8ILWUUFnLnw&feature=youtu.be&t=2670&end=2750
+recommend_point : 2:30 ~ 2:50 +-30s
+	https://www.youtube.com/watch?v=8ILWUUFnLnw&feature=youtu.be&t=120&end=200
+recommend_point : 54:30 ~ 54:50 +-30s
+	https://www.youtube.com/watch?v=8ILWUUFnLnw&feature=youtu.be&t=3240&end=3320
+recommend_point : 61:0 ~ 61:20 +-30s
+	https://www.youtube.com/watch?v=8ILWUUFnLnw&feature=youtu.be&t=3630&end=3710
+recommend_point : 26:45 ~ 27:5 +-30s
+	https://www.youtube.com/watch?v=8ILWUUFnLnw&feature=youtu.be&t=1575&end=1655
+recommend_point : 16:0 ~ 16:20 +-30s
+	https://www.youtube.com/watch?v=8ILWUUFnLnw&feature=youtu.be&t=930&end=1010
+recommend_point : 33:45 ~ 34:5 +-30s
+	https://www.youtube.com/watch?v=8ILWUUFnLnw&feature=youtu.be&t=1995&end=2075
+recommend_point : 24:30 ~ 24:50 +-30s
+	https://www.youtube.com/watch?v=8ILWUUFnLnw&feature=youtu.be&t=1440&end=1520
+recommend_point : 59:45 ~ 60:5 +-30s
+	https://www.youtube.com/watch?v=8ILWUUFnLnw&feature=youtu.be&t=3555&end=3635

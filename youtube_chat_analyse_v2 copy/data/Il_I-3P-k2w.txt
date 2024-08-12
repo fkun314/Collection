@@ -1,0 +1,20 @@
+recommend_point : 43:30 ~ 43:50 +-30s
+	https://www.youtube.com/watch?v=Il_I-3P-k2w&feature=youtu.be&t=2580&end=2660
+recommend_point : 44:30 ~ 44:50 +-30s
+	https://www.youtube.com/watch?v=Il_I-3P-k2w&feature=youtu.be&t=2640&end=2720
+recommend_point : 47:30 ~ 47:50 +-30s
+	https://www.youtube.com/watch?v=Il_I-3P-k2w&feature=youtu.be&t=2820&end=2900
+recommend_point : 62:0 ~ 62:20 +-30s
+	https://www.youtube.com/watch?v=Il_I-3P-k2w&feature=youtu.be&t=3690&end=3770
+recommend_point : 44:15 ~ 44:35 +-30s
+	https://www.youtube.com/watch?v=Il_I-3P-k2w&feature=youtu.be&t=2625&end=2705
+recommend_point : 22:30 ~ 22:50 +-30s
+	https://www.youtube.com/watch?v=Il_I-3P-k2w&feature=youtu.be&t=1320&end=1400
+recommend_point : 40:45 ~ 41:5 +-30s
+	https://www.youtube.com/watch?v=Il_I-3P-k2w&feature=youtu.be&t=2415&end=2495
+recommend_point : 45:0 ~ 45:20 +-30s
+	https://www.youtube.com/watch?v=Il_I-3P-k2w&feature=youtu.be&t=2670&end=2750
+recommend_point : 46:30 ~ 46:50 +-30s
+	https://www.youtube.com/watch?v=Il_I-3P-k2w&feature=youtu.be&t=2760&end=2840
+recommend_point : 61:15 ~ 61:35 +-30s
+	https://www.youtube.com/watch?v=Il_I-3P-k2w&feature=youtu.be&t=3645&end=3725

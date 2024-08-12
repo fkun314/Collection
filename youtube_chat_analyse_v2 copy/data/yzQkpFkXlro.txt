@@ -1,0 +1,40 @@
+recommend_point : 45:45 ~ 46:5 +-30s
+	https://www.youtube.com/watch?v=yzQkpFkXlro&feature=youtu.be&t=2715&end=2795
+recommend_point : 60:0 ~ 60:20 +-30s
+	https://www.youtube.com/watch?v=yzQkpFkXlro&feature=youtu.be&t=3570&end=3650
+recommend_point : 61:30 ~ 61:50 +-30s
+	https://www.youtube.com/watch?v=yzQkpFkXlro&feature=youtu.be&t=3660&end=3740
+recommend_point : 89:45 ~ 90:5 +-30s
+	https://www.youtube.com/watch?v=yzQkpFkXlro&feature=youtu.be&t=5355&end=5435
+recommend_point : 88:30 ~ 88:50 +-30s
+	https://www.youtube.com/watch?v=yzQkpFkXlro&feature=youtu.be&t=5280&end=5360
+recommend_point : 31:30 ~ 31:50 +-30s
+	https://www.youtube.com/watch?v=yzQkpFkXlro&feature=youtu.be&t=1860&end=1940
+recommend_point : 29:45 ~ 30:5 +-30s
+	https://www.youtube.com/watch?v=yzQkpFkXlro&feature=youtu.be&t=1755&end=1835
+recommend_point : 29:30 ~ 29:50 +-30s
+	https://www.youtube.com/watch?v=yzQkpFkXlro&feature=youtu.be&t=1740&end=1820
+recommend_point : 30:30 ~ 30:50 +-30s
+	https://www.youtube.com/watch?v=yzQkpFkXlro&feature=youtu.be&t=1800&end=1880
+recommend_point : 31:15 ~ 31:35 +-30s
+	https://www.youtube.com/watch?v=yzQkpFkXlro&feature=youtu.be&t=1845&end=1925
+recommend_point : 107:30 ~ 107:50 +-30s
+	https://www.youtube.com/watch?v=yzQkpFkXlro&feature=youtu.be&t=6420&end=6500
+recommend_point : 13:30 ~ 13:50 +-30s
+	https://www.youtube.com/watch?v=yzQkpFkXlro&feature=youtu.be&t=780&end=860
+recommend_point : 105:0 ~ 105:20 +-30s
+	https://www.youtube.com/watch?v=yzQkpFkXlro&feature=youtu.be&t=6270&end=6350
+recommend_point : 134:15 ~ 134:35 +-30s
+	https://www.youtube.com/watch?v=yzQkpFkXlro&feature=youtu.be&t=8025&end=8105
+recommend_point : 150:0 ~ 150:20 +-30s
+	https://www.youtube.com/watch?v=yzQkpFkXlro&feature=youtu.be&t=8970&end=9050
+recommend_point : 143:45 ~ 144:5 +-30s
+	https://www.youtube.com/watch?v=yzQkpFkXlro&feature=youtu.be&t=8595&end=8675
+recommend_point : 149:30 ~ 149:50 +-30s
+	https://www.youtube.com/watch?v=yzQkpFkXlro&feature=youtu.be&t=8940&end=9020
+recommend_point : 68:45 ~ 69:5 +-30s
+	https://www.youtube.com/watch?v=yzQkpFkXlro&feature=youtu.be&t=4095&end=4175
+recommend_point : 149:45 ~ 150:5 +-30s
+	https://www.youtube.com/watch?v=yzQkpFkXlro&feature=youtu.be&t=8955&end=9035
+recommend_point : 67:45 ~ 68:5 +-30s
+	https://www.youtube.com/watch?v=yzQkpFkXlro&feature=youtu.be&t=4035&end=4115

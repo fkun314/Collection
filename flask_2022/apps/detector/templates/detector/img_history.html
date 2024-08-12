@@ -1,0 +1,67 @@
+{% extends "detector/base.html" %}
+{% block content %}
+
+<!-- flashエラーを表示する -->
+{% with messages = get_flashed_messages() %}
+{% if messages %}
+<ul>
+  {% for message in messages %}
+  <li class="flash">{{ message }}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+{% endwith %}
+
+<section class="jumbotron text-center">
+  <div class="container">
+    <!-- <h1 class="jumbotron-heading">Album example</h1> -->
+    <h1 class="jumbotron-heading">画像検索履歴</h1>
+    <!-- <p class="lead text-muted">Something short and leading about the collection below—its contents, the creator, etc. Make it short and sweet, but not too short so folks don't simply skip over it entirely.</p> -->
+  </div>
+</section>
+
+<div class="album py-5 bg-light">
+  <div class="container">
+    <div class="py-5 bg-light">
+      {% if im_history%}
+      <table class="table" id="simple_result">
+        <thead>
+          <tr>
+            <th scope="col">
+              <p class="text-center">アップロード画像</p>
+            </th>
+            <th scope="col">
+              <p class="text-center">再検索</p>
+            </th>
+            <th scope="col">
+              <p class="text-center">検索日時</p>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for v in im_history %}
+          <tr>
+            <td>
+                <img src="{{ url_for('detector.image', filename=v.UserImage.image_path) }}" alt="Card image cap" height="150">
+            </td>
+            <td>
+              <p class="text-center"><a href="{{url_for('detector.predict_img', msg=(v.UserImage.image_path | string) + (000000 | string), search_type='fast')}}" class="btn btn-primary">再検索（高速・類似シーンなし）</a></p>
+              <p class="text-center"><a href="{{url_for('detector.predict_img', msg=(v.UserImage.image_path | string) + (000000 | string), search_type='wide')}}" class="btn btn-success">再検索（低速・類似シーンあり）</a></p>
+            </td>
+            <td>
+              <p class="text-center">{{v.UserImage.created_at}}</p>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      <form action="{{ url_for('detector.delete_all_img') }}">
+          <button>全削除</button>
+      </form>
+        {% else %}
+        <h3>検索履歴はありません</h3>
+        <h3>検索を利用するには画像をアップロードしてください</h3>
+        {% endif %}
+    </div>
+
+{% endblock %}

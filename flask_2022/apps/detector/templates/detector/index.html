@@ -1,0 +1,55 @@
+{% extends "detector/base.html" %}
+{% block content %}
+
+<!-- flashエラーを表示する -->
+{% with messages = get_flashed_messages() %}
+{% if messages %}
+<ul>
+    {% for message in messages %}
+    <li class="flash">{{ message }}</li>
+    {% endfor %}
+</ul>
+{% endif %}
+{% endwith %}
+
+<!-- 画像アップロード画面へのリンクを追加する -->
+<header class="py-20 bg-bg-3">
+    <div class="container">
+        <div class="row justify-content-between flex-column-reverse flex-lg-row">
+            <div class="col-lg-6 mt-8 mt-lg-0">
+                <h1 class="display-3">
+                                    動画内シーン検索システム
+                </h1>
+                <p class="mb-8 fs-1 mt-4">
+                                    アップロードした動画が自動的に解析され、内部でインデックス化されます。インデックス化が終了した動画は、画像をアップロードした際の検索対象となります。
+                </p>
+                <a href="{{ url_for('detector.upload_movie') }}" class="btn btn-primary mt-2 mb-2" >
+                    動画登録
+                </a>
+                <a href="{{ url_for('detector.upload_fast_image') }}" class="btn btn-secondary mt-2 mb-2" >
+                    画像検索（高速・類似シーンなし）
+                </a>
+                <a href="{{ url_for('detector.upload_image') }}" class="btn btn-secondary mt-2 mb-2" >
+                    画像検索（低速・類似シーンあり）
+                </a>
+                <p class="fs-5 mt-8 aos-init aos-animate" data-aos="fade-down" data-aos-delay="750">
+                                    その他はこちら
+                </p>
+                <a href="{{ url_for('detector.listview') }}" class="btn btn-primary " >
+                    動画一覧
+                </a>
+                <a href="{{ url_for('detector.img_history') }}" class="btn btn-secondary " >
+                    検索履歴
+                </a>
+                <p class="fs-5 mt-4 aos-init aos-animate" data-aos="fade-down" data-aos-delay="750">
+                                    By clicking buttons, you agree to the Terms of Service
+                </p>
+            </div>
+            <div class="col-lg-6 col-xl-auto">
+                <img src="{{ url_for('static', filename='img/images.png') }}" alt="" class="img-fluid" style="height: 400px;">									
+            </div>
+        </div>
+    </div>
+</header>
+
+{% endblock %}

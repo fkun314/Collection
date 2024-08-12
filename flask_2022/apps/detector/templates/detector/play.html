@@ -1,0 +1,30 @@
+{% extends "detector/base.html" %}
+{% block content %}
+
+<!-- flashエラーを表示する -->
+{% with messages = get_flashed_messages() %}
+{% if messages %}
+<ul>
+    {% for message in messages %}
+    <li class="flash">{{ message }}</li>
+    {% endfor %}
+</ul>
+{% endif %}
+{% endwith %}
+<section class="jumbotron text-center">
+  <div class="container">
+    <!-- <h1 class="jumbotron-heading">Album example</h1> -->
+    <h1 class="jumbotron-heading">詳細な情報</h1>
+    <!-- <p class="lead text-muted">Something short and leading about the collection below—its contents, the creator, etc. Make it short and sweet, but not too short so folks don't simply skip over it entirely.</p> -->
+    <p class="lead text-muted">動画タイトル：{{ title }}</p>
+    <p class="lead text-muted">フレーム番号：{{ fps }}</p>
+    <p class="lead text-muted">秒数：{{time}}秒</p>
+    <p class="lead text-muted">類似度：{{ val }}</p>
+  </div>
+</section>
+
+<video controls class="col-md" style="height: 600px;">
+  <source src="{{ url_for('detector.image_movie', filename=filename) }}#t={{starttime}}" type='video/mp4'>
+</video>
+
+{% endblock %}

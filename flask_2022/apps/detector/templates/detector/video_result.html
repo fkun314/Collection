@@ -1,0 +1,117 @@
+{% extends "detector/base.html" %} {% block content %}
+
+<!-- flashエラーを表示する -->
+{% with messages = get_flashed_messages() %} {% if messages %}
+<ul>
+  {% for message in messages %}
+  <li class="flash">{{ message }}</li>
+  {% endfor %}
+</ul>
+{% endif %} {% endwith %}
+
+<div class="album py-5 bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <div class="card mb-8 shadow-sm">
+          <video
+            controls
+            class="card-img-top"
+            id="Video"
+          >
+            <source
+              src="{{ url_for('detector.image_movie', filename=filename) }}"
+              type="video/mp4"
+            />
+          </video>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card mb-4 shadow-sm">
+          <div class="card-body">
+            <p class="card-text">動画データ</p>
+
+            <p class="card-text">横の大きさ: {{ video_detail['width'] }}</p>
+            <p class="card-text">縦の大きさ: {{ video_detail['height'] }}</p>
+            <p class="card-text">フレームレート: {{ video_detail['fps'] }}</p>
+            <p class="card-text">
+              総フレーム数: {{ video_detail['frame_count'] }}
+            </p>
+            <p class="card-text">長さ: {{ video_detail['duration'] }}</p>
+
+            <div
+              class="d-flex justify-content-between align-items-center"
+            ></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <p>動画を一時停止すると、そのフレームの解析情報が表示されます。<p>
+
+    <p>現在のフレーム: <span id="nowtFrame"></span></p>
+
+    <table class="table">
+      <thead>
+        <tr>
+          <th>オブジェクト名</th>
+          <th>認識率[%]</th>
+          <th>X-min</th>
+          <th>Y-min</th>
+          <th>X-max</th>
+          <th>X-max</th>
+        </tr>
+      </thead>
+      <tbody id="tableBody">
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<script>
+  var video = document.getElementById("Video");
+  video.addEventListener("timeupdate", function() {
+    var fps = {{ video_detail['fps'] }};
+    currentFrame = Math.round(video.currentTime * fps);
+    console.log(currentFrame);
+
+    var xhr = new XMLHttpRequest();
+
+    xhr.open("GET", "/api/predict/{{filename}}/"+currentFrame.toString(), true);
+    xhr.onload = function() {
+      if (xhr.status === 200) {
+        var data = JSON.parse(xhr.responseText);
+        var tableBody = document.getElementById("tableBody");
+        tableBody.innerHTML = "";
+        for (var i = 0; i < data.length; i++) {
+          var row = document.createElement("tr");
+          var cell1 = document.createElement("td");
+          var cell2 = document.createElement("td");
+          var cell3 = document.createElement("td");
+          var cell4 = document.createElement("td");
+          var cell5 = document.createElement("td");
+          var cell6 = document.createElement("td");
+          cell1.innerHTML = data[i][2];
+          cell2.innerHTML = data[i][3];
+          cell3.innerHTML = data[i][4];
+          cell4.innerHTML = data[i][5];
+          cell5.innerHTML = data[i][6];
+          cell6.innerHTML = data[i][7];
+          row.appendChild(cell1);
+          row.appendChild(cell2);
+          row.appendChild(cell3);
+          row.appendChild(cell4);
+          row.appendChild(cell5);
+          row.appendChild(cell6);
+          tableBody.appendChild(row);
+        }
+        var nowtFrame = document.getElementById("nowtFrame");
+        nowtFrame.innerHTML = "";
+      nowtFrame.innerHTML = currentFrame;
+      }
+    };
+    xhr.send();
+  });
+</script>
+
+{% endblock %}

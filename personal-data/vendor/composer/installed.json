@@ -1,0 +1,140 @@
+[
+    {
+        "name": "aura/session",
+        "version": "2.1.0",
+        "version_normalized": "2.1.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/auraphp/Aura.Session.git",
+            "reference": "7d2f7d41ad693970b5b6b83facca0961d3378883"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/auraphp/Aura.Session/zipball/7d2f7d41ad693970b5b6b83facca0961d3378883",
+            "reference": "7d2f7d41ad693970b5b6b83facca0961d3378883",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "require-dev": {
+            "aura/di": "~2.0"
+        },
+        "suggest": {
+            "ext-mcrypt": "Mcrypt generates the next best secure CSRF tokens.",
+            "ext-openssl": "OpenSSL generates the best secure CSRF tokens.",
+            "ircmaxell/random-lib": "A Library For Generating Secure Random Numbers",
+            "paragonie/random_compat": "PHP 5.x polyfill for random_bytes() and random_int() from PHP 7"
+        },
+        "time": "2016-10-03T20:28:32+00:00",
+        "type": "library",
+        "extra": {
+            "aura": {
+                "type": "library",
+                "config": {
+                    "common": "Aura\\Session\\_Config\\Common"
+                }
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Aura\\Session\\": "src/",
+                "Aura\\Session\\_Config\\": "config/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD-2-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Aura.Session Contributors",
+                "homepage": "https://github.com/auraphp/Aura.Session/contributors"
+            }
+        ],
+        "description": "Provides session management functionality, including lazy session starting, session segments, next-request-only (\"flash\") values, and CSRF tools.",
+        "homepage": "https://github.com/auraphp/Aura.Session",
+        "keywords": [
+            "csrf",
+            "flash",
+            "flash message",
+            "session",
+            "sessions"
+        ]
+    },
+    {
+        "name": "linecorp/line-bot-sdk",
+        "version": "4.3.0",
+        "version_normalized": "4.3.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/line/line-bot-sdk-php.git",
+            "reference": "b861e344eec524d4a9b6824bcab765ca95e938c7"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/line/line-bot-sdk-php/zipball/b861e344eec524d4a9b6824bcab765ca95e938c7",
+            "reference": "b861e344eec524d4a9b6824bcab765ca95e938c7",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "ext-json": "*",
+            "ext-sockets": "*",
+            "php": ">=5.5"
+        },
+        "require-dev": {
+            "ext-posix": "*",
+            "indigophp/hash-compat": "~1.1.0",
+            "phpmd/phpmd": "~2.4",
+            "phpunit/phpunit": "^4.8.24||^5||^6",
+            "squizlabs/php_codesniffer": "~2.6||^3"
+        },
+        "suggest": {
+            "apigen/apigen": "Install with roave/better-reflection:dev-master to generate docs",
+            "roave/better-reflection": "Required by apigen/apigen:dev-master"
+        },
+        "time": "2020-03-26T06:07:16+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "LINE\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache-2.0"
+        ],
+        "authors": [
+            {
+                "name": "moznion",
+                "email": "moznion@gmail.com",
+                "role": "Retired"
+            },
+            {
+                "name": "Satoru Yoshihara",
+                "email": "vaduz0@gmail.com",
+                "role": "Maintainer"
+            },
+            {
+                "name": "Satoshi Shibuya",
+                "email": "satosby@gmail.com",
+                "role": "Maintainer"
+            },
+            {
+                "name": "Shunsuke Mori",
+                "email": "morimorim7180@gmail.com",
+                "role": "Maintainer"
+            }
+        ],
+        "description": "SDK of the LINE BOT API for PHP",
+        "homepage": "https://github.com/line/line-bot-sdk-php",
+        "keywords": [
+            "bot",
+            "line",
+            "sdk"
+        ]
+    }
+]

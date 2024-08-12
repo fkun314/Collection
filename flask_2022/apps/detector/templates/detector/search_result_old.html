@@ -1,0 +1,230 @@
+{% extends "detector/base.html" %}
+{% block content %}
+
+<!-- flashエラーを表示する -->
+{% with messages = get_flashed_messages() %}
+{% if messages %}
+<ul>
+  {% for message in messages %}
+  <li class="flash">{{ message }}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+{% endwith %}
+
+<section class="jumbotron text-center">
+  <div class="container">
+    <!-- <h1 class="jumbotron-heading">Album example</h1> -->
+    <h1 class="jumbotron-heading">解析結果</h1>
+    <!-- <p class="lead text-muted">Something short and leading about the collection below—its contents, the creator, etc. Make it short and sweet, but not too short so folks don't simply skip over it entirely.</p> -->
+    <p class="lead text-muted">画像解析が完了しました。ご確認ください。</p>
+  </div>
+</section>
+
+<div class="album py-5 bg-light">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-md-6">
+        <div class="card mb-6 shadow-sm">
+          <img class="card-img-top" src="{{ url_for('detector.image', filename=id) }}" alt="Card image cap">
+          <div class="card-body">
+            <p class="card-text">アップロード画像</p>
+            <div class="d-flex justify-content-between align-items-center">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="card mb-6 shadow-sm">
+          <img class="card-img-top" src="{{ url_for('detector.image_predicted', filename=id) }}" alt="Card image cap">
+          <div class="card-body">
+            <p class="card-text">画像解析結果</p>
+            <div class="d-flex justify-content-between align-items-center">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="py-5 bg-light">
+      <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">
+              <p class="text-center">名称</p>
+            </th>
+            <th scope="col">
+              <p class="text-center">精度[%]</p>
+            </th>
+            <th scope="col">
+              <p class="text-center">ｘ座標[px]</p>
+            </th>
+            <th scope="col">
+              <p class="text-center">ｙ座標[px]</p>
+            </th>
+            <th scope="col">
+              <p class="text-center">ｘサイズ[px]</p>
+            </th>
+            <th scope="col">
+              <p class="text-center">ｙサイズ[px]</p>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            {% for predict_result in predict_results %}
+            <td>
+              <p class="text-center">{{predict_result.detected_name}}</p>
+            </td>
+            <td>
+              <p class="text-center">{{predict_result.detected_score}}</p>
+            </td>
+            <td>
+              <p class="text-center">{{predict_result.detected_x_min}}</p>
+            </td>
+            <td>
+              <p class="text-center">{{predict_result.detected_y_min}}</p>
+            </td>
+            {% set x_size = predict_result.detected_x_max - predict_result.detected_x_min %}
+            {% set y_size = predict_result.detected_y_max - predict_result.detected_y_min %}
+            <td>
+              <p class="text-center">{{x_size|round(4)}}</p>
+            </td>
+            <td>
+              <p class="text-center">{{y_size|round(4)}}</p>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    <h3>検索結果</h3>
+
+    <div class="py-5 bg-light">
+      {% if video_search%}
+      {% set tmp = namespace(cnt=1) %}
+      {% set objective_count = namespace(cnt=slice_) %}
+      <table class="table" id="simple_result">
+        <thead>
+          <tr>
+            <th scope="col">
+              <p class="text-center">動画タイトル</p>
+            </th>
+            <th scope="col">
+              <p class="text-center">対象フレーム</p>
+            </th>
+            <th scope="col">
+              <p class="text-center">score</p>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for v in video_search %}
+          {% set tmp.cnt = tmp.cnt + 1 %}
+          {% if tmp.cnt%objective_count.cnt == 0 %}
+          <tr>
+            <td>
+              <p class="text-center"><a href="{{ url_for('detector.image_movie', filename=v[8])}}"
+                  target="_blank">{{v[0]}}</p>
+            </td>
+            <td>
+              <p class="text-center"><a
+                  href="{{ url_for('detector.playMovie', filename=(v[8] | string) +(v[1] | string) ) }}"
+                  target="_blank">{{v[1]}}</a></p>
+            </td>
+            <td>
+              <p class="text-center">----</p>
+            </td>
+          </tr>
+          {% endif %}
+          {% endfor %}
+        </tbody>
+      </table>
+
+      <h3>詳細な情報</h3>
+      <div class="accordion" id="accordionExample">
+
+      {% set tmp = namespace(cnt=1) %}
+      {% set objective_count = namespace(cnt=slice_) %}
+
+      {% for v in video_search %}
+      {% if tmp.cnt%objective_count.cnt == 1 or objective_count.cnt == 1 %}
+
+      <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">
+              <p class="text-center">動画タイトル</p>
+            </th>
+            <th scope="col">
+              <p class="text-center">対象フレーム</p>
+            </th>
+            <th scope="col">
+              <p class="text-center">name</p>
+            </th>
+            <th scope="col">
+              <p class="text-center">score</p>
+            </th>
+            <th scope="col">
+              <p class="text-center">ｘサイズ[px]</p>
+            </th>
+            <th scope="col">
+              <p class="text-center">ｙサイズ[px]</p>
+            </th>
+            <th scope="col">
+              <p class="text-center">xサイズ[px]</p>
+            </th>
+            <th scope="col">
+              <p class="text-center">ｙサイズ[px]</p>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          {% endif %}
+          <tr>
+            <td>
+              <p class="text-center"><a href="{{ url_for('detector.image_movie', filename=v[8])}}"
+                  target="_blank">{{v[0]}}</a></p>
+            </td>
+            <td>
+              <p class="text-center"><a
+                  href="{{ url_for('detector.playMovie', filename=(v[8] | string) +(v[1] | string) ) }}"
+                  target="_blank">{{v[1]}}</a></p>
+            </td>
+            <td>
+              <p class="text-center">{{v[2]}}</p>
+            </td>
+            <td>
+              <p class="text-center">{{v[3]}}</p>
+            </td>
+            <td>
+              <p class="text-center">{{v[4]}}</p>
+            </td>
+            <td>
+              <p class="text-center">{{v[5]}}</p>
+            </td>
+            <td>
+              <p class="text-center">{{v[6]}}</p>
+            </td>
+            <td>
+              <p class="text-center">{{v[7]}}</p>
+            </td>
+          </tr>
+          {% set tmp.cnt = tmp.cnt + 1 %}
+          {% if tmp.cnt%objective_count.cnt == 0 %}
+          <p class="text-center"><a href="{{ url_for('detector.image_movie', filename=v[8])}}"
+            target="_blank">{{v[0]}}</a>  <a href="{{ url_for('detector.playMovie', filename=(v[8] | string) +(v[1] | string) ) }}"
+            target="_blank"> フレームNo.{{v[1]}}</a></p>
+            {% endif %}
+          {% endfor %}
+        </tbody>
+      </table>
+      </div>
+      {% else %}
+      <h3>どの動画も該当しませんでした。</h3>
+      {% endif %}
+    </div>
+
+    {% endblock %}

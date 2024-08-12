@@ -1,0 +1,24 @@
+{% extends "detector/base.html" %}
+{% block content %}
+<div>
+    <h4>動画新規登録</h4>
+    <p>アップロードする動画を選択してください</p>
+    <form action="{{ url_for('detector.upload_movie') }}" method="post" enctype="multipart/form-data"
+        novalidate="novalidate">
+        {{ form.csrf_token }}
+        <div>
+            <label>
+                <span> {{ form.movie(class="form-control-file") }} </span>
+            </label>
+        </div>
+        {% for error in form.movie.errors %}
+        <span style="color: red;">{{ error }}</span>
+        {% endfor %}
+        <hr />
+        <p>動画のアップロードと同時に動画解析が始まります</p>
+        <div>
+            <label> {{ form.submit(class="btn btn-primary") }} </label>
+        </div>
+    </form>
+</div>
+{% endblock %}
