@@ -18,7 +18,9 @@
 <details>
     <summary>コードはこちら</summary>
     ```javascript
-        //ユーザーから受け取ったメッセージをオウム返しするサンプルコード
+
+
+    //ユーザーから受け取ったメッセージをオウム返しするサンプルコード
     function doPost(e) {
       //LINE Messaging APIのチャネルアクセストークンを設定
       let token = "ht1HjnU2F/O2uAHgUyHWNfP2eIedj+jFg9XKFeUHG5KhDr718daWYkZ+4JAeTO03whndkFejNtd3Xxi6RjC2Ikd4zcV0AoGW5WhC94rFZCF4DhSSbqLCmDuOCe54Y5kxGF1MwO9I2jXL9pb8gVwVfQdB04t89/1O/w1cDnyilFU=";
