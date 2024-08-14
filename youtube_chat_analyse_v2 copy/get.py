@@ -35,7 +35,8 @@ def sec_min(sec):
     # print("{h:02}:{m:02}:{s:02}".format(h=hour,m=min,s=sec))
     return "{h:02}:{m:02}:{s:02}".format(h=hour,m=min,s=sec)
 
-API_KEY = 'AIzaSyC5JrrRgN0U-4RmRDQksQePpgotOwNI3is'
+API_KEY = 'hogehoge'
+# APIは変更ずみです...
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 # CHANNEL_ID = 'UC8C1LLhBhf_E2IBPLSDJXlQ'

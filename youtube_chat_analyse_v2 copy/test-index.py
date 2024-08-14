@@ -6,7 +6,8 @@
 
 # # # from apiclient.discovery import build
 
-# # # API_KEY = 'AIzaSyC5JrrRgN0U-4RmRDQksQePpgotOwNI3is'
+# API_KEY = 'hogehoge'
+# APIは変更ずみです...
 # # # YOUTUBE_API_SERVICE_NAME = 'youtube'
 # # # YOUTUBE_API_VERSION = 'v3'
 # # # SEARCH_TEXT = '健屋花那【にじさんじ】KanaSukoya'
@@ -67,8 +68,9 @@
 
 # # dt_now = datetime.datetime.now()
 
-# # API_KEY = 'AIzaSyC5JrrRgN0U-4RmRDQksQePpgotOwNI3is'
-# # YOUTUBE_API_SERVICE_NAME = 'youtube'
+# API_KEY = 'hogehoge'
+# APIは変更ずみです...
+# # # YOUTUBE_API_SERVICE_NAME = 'youtube'
 # # YOUTUBE_API_VERSION = 'v3'
 # # # CHANNEL_ID = 'UC8C1LLhBhf_E2IBPLSDJXlQ'
 # # VIDEO_ID_LIST = ['UI5tOajbknM']
@@ -170,8 +172,9 @@
 
 # # # gene_id = "WBGene00015354" # gene: snet-1
 # # #とりあえず例として、どこかのWeb APIを叩くことにする
-# # # url = "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&playlistId=PLNTVC1Fz8ME6TwDGizzZ3fXlc__a8jLRh&key=AIzaSyC5JrrRgN0U-4RmRDQksQePpgotOwNI3is"
-# # # url = "http://www.wormbase.org/rest/widget/gene/" + gene_id + "/expression/"
+# API_KEY = 'hogehoge'
+# APIは変更ずみです...# # 
+# # url = "http://www.wormbase.org/rest/widget/gene/" + gene_id + "/expression/"
 
 # # # headers = {"content-type": "application/json"}
 # # # r = requests.get(url, headers=headers)
@@ -211,7 +214,8 @@
 
 # dt_now = datetime.datetime.now()
 
-# API_KEY = 'AIzaSyC5JrrRgN0U-4RmRDQksQePpgotOwNI3is'
+# API_KEY = 'hogehoge'
+# APIは変更ずみです...
 # YOUTUBE_API_SERVICE_NAME = 'youtube'
 # YOUTUBE_API_VERSION = 'v3'
 # # CHANNEL_ID = 'UC8C1LLhBhf_E2IBPLSDJXlQ'
